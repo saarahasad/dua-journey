@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* KFGQPC Uthmanic Script HAFS – Arabic / Quranic script */
+@font-face {
+  font-family: "KFGQPC Uthmanic Script HAFS";
+  src:
+    local("KFGQPC Uthmanic Script HAFS Regular"),
+    local("KFGQPC Uthmanic Script HAFS"),
+    url("https://cdn.jsdelivr.net/gh/mustafa0x/qpc-fonts@master/various-woff2/UthmanicHafs1%20Ver09.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/mustafa0x/qpc-fonts@master/various-woff/UthmanicHafs1%20Ver09.woff")
+      format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply text-sage-900 antialiased;
+    background-color: #f8f6f1;
+  }
+}
+
+/* Smooth fade transitions */
+.fade-enter {
+  opacity: 0;
+}
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 300ms ease-in-out;
+}
+.fade-exit {
+  opacity: 1;
+}
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 300ms ease-in-out;
+}
+
+/* Tap feedback - subtle scale */
+.tap-scale:active {
+  transform: scale(0.98);
+}
+
+/* Card style – light grey with c7afb1 glow */
+.card-overlay {
+  @apply backdrop-blur-lg rounded-2xl border border-gray-200/60;
+  background-color: #ffffff;
+  box-shadow:
+    0 8px 24px rgba(0, 0, 0, 0.06),
+    0 0 32px rgba(199, 175, 177, 0.25);
+}
+
+/* Text on background pattern – subtle shadow for contrast */
+.text-overlay {
+  text-shadow:
+    0 1px 2px rgba(255, 255, 255, 0.9),
+    0 2px 4px rgba(0, 0, 0, 0.06);
+}
