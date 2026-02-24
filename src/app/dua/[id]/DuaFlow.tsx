@@ -16,6 +16,7 @@ import {
   unmarkAsMemorised,
   isMemorised,
 } from "@/lib/localStorage";
+import { getAssetUrl } from "@/lib/basePath";
 
 const TOTAL_STEPS = 8;
 
@@ -156,7 +157,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
                 ))}
               </div>
               <AudioPlayer
-                src={dua.audioUrl ?? `/audio/${dua.id}.mp3`}
+                src={dua.audioUrl ?? getAssetUrl(`/audio/${dua.id}.mp3`)}
                 playCount={fullAudioLoopCount}
               />
             </div>
@@ -302,7 +303,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
           >
             <audio
               ref={phraseAudioRef}
-              src={dua.audioUrl ?? `/audio/${dua.id}.mp3`}
+              src={dua.audioUrl ?? getAssetUrl(`/audio/${dua.id}.mp3`)}
               preload="metadata"
               className="sr-only"
               aria-hidden
@@ -436,7 +437,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
               ))}
             </div>
             <AudioPlayer
-              src={dua.audioUrl ?? `/audio/${dua.id}.mp3`}
+              src={dua.audioUrl ?? getAssetUrl(`/audio/${dua.id}.mp3`)}
               playCount={fullAudioLoopCount}
             />
 

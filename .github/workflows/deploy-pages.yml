@@ -36,6 +36,7 @@ jobs:
           REPO_NAME="${{ github.event.repository.name }}"
           REPO_LOWER=$(echo "$REPO_NAME" | tr '[:upper:]' '[:lower:]')
           echo "BASE_PATH=/$REPO_LOWER" >> $GITHUB_ENV
+          echo "NEXT_PUBLIC_BASE_PATH=/$REPO_LOWER" >> $GITHUB_ENV
           echo "Using BASE_PATH=/$REPO_LOWER"
 
       - name: Build
