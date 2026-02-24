@@ -54,5 +54,23 @@ Edit `src/data/duas.json`. See existing entries for the schema. Required fields:
 
 ```bash
 npm run build
-npm start
 ```
+
+Static output is in the `out/` folder (no server needed).
+
+## Deploy to GitHub Pages
+
+1. **Enable GitHub Pages**  
+   In your repo: **Settings → Pages → Build and deployment**. Set **Source** to **GitHub Actions**.
+
+2. **Push to trigger deploy**  
+   Push to `main` or `master`; the workflow builds and deploys the app.  
+   Your site will be at: `https://<username>.github.io/<repo-name>/`
+
+3. **Local build with same paths as GitHub Pages** (optional):
+   ```bash
+   BASE_PATH=/your-repo-name npm run build
+   ```
+   Then serve the `out/` folder (e.g. `npx serve out`) and open `http://localhost:3000/your-repo-name/`.
+
+**Note:** Ensure `package-lock.json` is committed so `npm ci` works in the workflow.
