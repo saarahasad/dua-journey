@@ -2,7 +2,7 @@
     "id": "dua-praise-1",
     "categoryId": "praise",
     "title": "Subhanallahi wa bihamdihi – Infinite Praise",
-    "arabicFull": "سُبْحَانَ ٱللَّٰهِ وَبِحَمْدِهِ، عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ",
+    "arabicFull": "سُبْحَانَ ٱللَّٰهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
     "transliterationFull": "Subhanallahi wa bihamdihi, 'adada khalqihi, wa rida nafsihi, wa zinata 'arshihi, wa midada kalimatihi.",
     "translationFull": "Glory be to Allah and praise is to Him, as many times as the number of His creation, in accordance with His pleasure, equal to the weight of His Throne and the ink of His words.",
     "intro": "A dhikr taught by the Prophet ﷺ that multiplies reward beyond measure.",
@@ -1240,7 +1240,7 @@
     "id": "dua-contentment-3",
     "categoryId": "contentment",
     "title": "Allahumma Inni A'udhu Bika – Protection from Loss of Blessings",
-    "arabicFull": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَأَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ",
+    "arabicFull": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ وَتَحَوُّلِ عَافِيَتِكَ وَفُجَأَةِ نِقْمَتِكَ وَجَمِيعِ سَخَطِكَ",
     "transliterationFull": "Allahumma inni a'udhu bika min zawali ni'matika, wa tahawwuli 'afiyatika, wa fuja'ati niqmatika, wa jami'i sakhatika.",
     "translationFull": "O Allah, I seek refuge in You from the loss of Your blessings, the removal of Your protection, the sudden onset of Your punishment, and all of Your displeasure.",
     "intro": "A powerful supplication seeking protection from the loss of blessings and Allah’s displeasure.",
@@ -1367,6 +1367,405 @@
         "When facing unexpected hardship"
       ]
     }
+  },
+  {
+    "id": "dua-children-1",
+    "categoryId": "children",
+    "title": "🌿 Protection for Children – From Shaytan",
+    "arabicFull": "إِنِّي أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliterationFull": "Inni u'idhuha bika wa dhurriyyataha min ash-shaytan ir-rajim.",
+    "translationFull": "Indeed, I seek refuge for her in You and for her offspring from Shaytan, the accursed.",
+    "intro": "🤍 A powerful Qur’anic supplication for protection of children from Shaytan.",
+    "story": "📖 This dua was made by the wife of 'Imran when she dedicated Maryam (AS) to Allah.\n\nIt appears in Surah Aal 'Imran (3:36).\n\nThe Prophet ﷺ later said that every newborn is touched by Shaytan at birth except Maryam and her son 'Isa (AS). (Sahih al-Bukhari 3431, Sahih Muslim 2366)\n\nThis shows that Allah accepted her dua in a unique and miraculous way.",
+    "benefits": [
+      "🛡 Seeks protection from Shaytan at the earliest stage of life",
+      "👶 Encourages parents to make dua for their children",
+      "🌿 Establishes reliance upon Allah for spiritual protection",
+      "📖 Rooted directly in the Qur’an"
+    ],
+    "phrases": [
+      {
+        "arabic": "إِنِّي",
+        "transliteration": "Inni",
+        "meaning": "Indeed, I"
+      },
+      {
+        "arabic": "أُعِيذُهَا بِكَ",
+        "transliteration": "U'idhuha bika",
+        "meaning": "Seek refuge for her in You"
+      },
+      {
+        "arabic": "وَذُرِّيَّتَهَا",
+        "transliteration": "Wa dhurriyyataha",
+        "meaning": "And her offspring"
+      },
+      {
+        "arabic": "مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "transliteration": "Min ash-shaytan ir-rajim",
+        "meaning": "From Shaytan, the accursed"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Who made this dua?",
+        "answer": "The wife of 'Imran, the mother of Maryam (AS).",
+        "explanation": "She made it when dedicating her daughter to Allah."
+      },
+      {
+        "question": "Where is this dua found?",
+        "answer": "Surah Aal 'Imran (3:36).",
+        "explanation": "It is part of the story of Maryam’s birth."
+      },
+      {
+        "question": "How did Allah respond to this dua?",
+        "answer": "Maryam (AS) and her son 'Isa (AS) were protected from Shaytan at birth.",
+        "explanation": "This is mentioned in Sahih al-Bukhari and Sahih Muslim."
+      }
+    ],
+    "whenToRead": {
+      "inSalah": [
+        "🕌 During sujood when making personal dua",
+        "🤲 Before salam in voluntary prayers"
+      ],
+      "outsideSalah": [
+        "👶 For newborn children",
+        "🌙 During pregnancy",
+        "💛 Regularly when making dua for children",
+        "📖 After reciting Surah Aal 'Imran"
+      ]
+    }
+  },
+  {
+    "id": "dua-children-2",
+    "categoryId": "children",
+    "title": "🌿 Rabbi Hab Li – Grant Me Righteous Offspring",
+    "arabicFull": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ الدُّعَاءِ",
+    "transliterationFull": "Rabbi hab li min ladunka dhurriyyatan tayyibah. Innaka Sami'ud-du'a.",
+    "translationFull": "My Lord, grant me from Yourself a pure offspring. Indeed, You are the Hearer of supplication.",
+    "intro": "🤍 A sincere Qur’anic dua for righteous and spiritually pure children.",
+    "story": "📖 Prophet Zakariyya (AS) made this dua after witnessing the special provision Allah granted to Maryam (AS). Seeing Allah’s power and generosity strengthened his hope.\n\nAlthough he had reached old age and his wife had been barren, he did not lose hope in Allah’s ability.\n\nHe specifically asked for a pure and righteous offspring — not just a child, but one upright in faith and character.\n\nAllah answered his dua by granting him Yahya (AS), who became a noble prophet.",
+    "benefits": [
+      "🌿 Teaches hope even when circumstances seem impossible",
+      "👶 Encourages asking for righteous, not just biological, children",
+      "🤲 Strengthens certainty that Allah hears and responds to dua",
+      "💛 Shows that sincere faith precedes divine gifts"
+    ],
+    "phrases": [
+      {
+        "arabic": "رَبِّ",
+        "transliteration": "Rabbi",
+        "meaning": "My Lord"
+      },
+      {
+        "arabic": "هَبْ لِي مِن لَّدُنكَ",
+        "transliteration": "Hab li min ladunka",
+        "meaning": "Grant me from Yourself"
+      },
+      {
+        "arabic": "ذُرِّيَّةً طَيِّبَةً",
+        "transliteration": "Dhurriyyatan tayyibah",
+        "meaning": "A pure and righteous offspring"
+      },
+      {
+        "arabic": "إِنَّكَ سَمِيعُ الدُّعَاءِ",
+        "transliteration": "Innaka Sami'ud-du'a",
+        "meaning": "Indeed, You are the Hearer of supplication"
+      }
+    ],
+    "questions": [
+      {
+        "question": "What inspired Zakariyya (AS) to make this dua?",
+        "answer": "Seeing Allah provide miraculously for Maryam (AS).",
+        "explanation": "It increased his certainty that Allah could grant him a child despite old age."
+      },
+      {
+        "question": "What kind of child did he ask for?",
+        "answer": "A pure and righteous offspring.",
+        "explanation": "He prioritized faith and character over worldly benefit."
+      },
+      {
+        "question": "What does this dua teach about Allah?",
+        "answer": "That Allah hears every sincere supplication.",
+        "explanation": "It ends by affirming Allah as the Hearer of dua."
+      }
+    ],
+    "whenToRead": {
+      "inSalah": [
+        "🕌 During sujood when making personal dua",
+        "🤲 Before salam in voluntary prayers"
+      ],
+      "outsideSalah": [
+        "👶 When hoping for children",
+        "🌙 During pregnancy",
+        "💛 When making dua for righteous offspring",
+        "📖 After reflecting on Surah Aal 'Imran"
+      ]
+    }
+  },{
+    "id": "dua-children-3",
+    "categoryId": "children",
+    "title": "🌿 Protection for Children – With the Perfect Words of Allah",
+    "arabicFull": "أُعِيذُكُمَا بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+    "transliterationFull": "U'idhukuma bi kalimatillahi at-tammah min kulli shaytanin wa hammah wa min kulli 'aynin lammah.",
+    "translationFull": "I seek protection for you both in the perfect words of Allah from every devil and poisonous creature, and from every harmful eye.",
+    "intro": "🤍 A powerful prophetic dua for protecting children from harm and evil.",
+    "story": "📖 The Prophet ﷺ used to seek protection for Hasan and Husayn (RA) with this dua.\n\nHe would say that your forefather Ibrahim (AS) used similar words when seeking protection.\n\nThis narration is recorded in Sahih al-Bukhari (3371).\n\nIt shows that spiritual protection was a consistent practice of the Prophets.",
+    "benefits": [
+      "🛡 Protects from Shaytan",
+      "🐍 Protects from harmful creatures",
+      "👁 Protects from the evil eye",
+      "👶 Sunnah practice for safeguarding children"
+    ],
+    "phrases": [
+      {
+        "arabic": "أُعِيذُكُمَا",
+        "transliteration": "U'idhukuma",
+        "meaning": "I seek protection for you both"
+      },
+      {
+        "arabic": "بِكَلِمَاتِ اللَّهِ التَّامَّةِ",
+        "transliteration": "Bi kalimatillahi at-tammah",
+        "meaning": "In the perfect words of Allah"
+      },
+      {
+        "arabic": "مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ",
+        "transliteration": "Min kulli shaytanin wa hammah",
+        "meaning": "From every devil and poisonous creature"
+      },
+      {
+        "arabic": "وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "transliteration": "Wa min kulli 'aynin lammah",
+        "meaning": "And from every harmful eye"
+      }
+    ],
+    "questions": [
+      {
+        "question": "For whom did the Prophet ﷺ recite this dua?",
+        "answer": "Hasan and Husayn (RA).",
+        "explanation": "He regularly sought protection for them using this supplication."
+      },
+      {
+        "question": "What does 'kalimatillah at-tammah' mean?",
+        "answer": "The perfect words of Allah.",
+        "explanation": "It refers to Allah’s complete and flawless speech and protection."
+      },
+      {
+        "question": "What harms does this dua protect from?",
+        "answer": "Devils, harmful creatures, and the evil eye.",
+        "explanation": "It covers both physical and spiritual harm."
+      }
+    ],
+    "whenToRead": {
+      "inSalah": [
+        "🕌 During sujood when making personal dua"
+      ],
+      "outsideSalah": [
+        "👶 Over children before sleep",
+        "🌙 In the morning and evening",
+        "💛 When fearing harm or evil eye",
+        "🤲 Anytime seeking protection"
+      ]
+    }
+  },{
+    "id": "dua-children-4",
+    "categoryId": "children",
+    "title": "🌿 Rabbi Ij‘alni Muqim As-Salah – Make Me and My Children Steadfast in Prayer",
+    "arabicFull": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+    "transliterationFull": "Rabbi ij'alni muqim as-salah wa min dhurriyyati. Rabbana wa taqabbal du'a.",
+    "translationFull": "My Lord, make me an establisher of prayer, and from my offspring as well. Our Lord, and accept my supplication.",
+    "intro": "🤍 A profound Qur’anic dua for steadfastness in prayer across generations.",
+    "story": "📖 Prophet Ibrahim (AS) made this dua after building the Ka‘bah and establishing worship in Makkah.\n\nHe did not only ask to perform prayer, but to be constant, firm, and upright in establishing it properly.\n\nHe also asked that his offspring be among those who establish prayer, showing that true success is generational faith.\n\nBy saying 'Our Lord, accept my supplication,' he demonstrated humility — knowing that even acts of obedience require acceptance from Allah.\n\nThis dua appears in Surah Ibrahim (14:40).",
+    "benefits": [
+      "🕌 Teaches that prayer is the foundation of faith",
+      "👨‍👩‍👧 Encourages making dua for children’s spiritual success",
+      "🌿 Emphasizes consistency in worship, not occasional practice",
+      "🤲 Shows humility in asking Allah to accept even good deeds"
+    ],
+    "phrases": [
+      {
+        "arabic": "رَبِّ",
+        "transliteration": "Rabbi",
+        "meaning": "My Lord"
+      },
+      {
+        "arabic": "اجْعَلْنِي مُقِيمَ الصَّلَاةِ",
+        "transliteration": "Ij'alni muqim as-salah",
+        "meaning": "Make me one who establishes prayer"
+      },
+      {
+        "arabic": "وَمِن ذُرِّيَّتِي",
+        "transliteration": "Wa min dhurriyyati",
+        "meaning": "And from my offspring"
+      },
+      {
+        "arabic": "رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+        "transliteration": "Rabbana wa taqabbal du'a",
+        "meaning": "Our Lord, and accept my supplication"
+      }
+    ],
+    "questions": [
+      {
+        "question": "What did Ibrahim (AS) prioritize for himself and his children?",
+        "answer": "Establishing prayer.",
+        "explanation": "He asked for steadfastness in salah before anything else."
+      },
+      {
+        "question": "Why did he ask for acceptance after asking for obedience?",
+        "answer": "Because deeds are only valuable if Allah accepts them.",
+        "explanation": "It shows humility and awareness of human shortcomings."
+      },
+      {
+        "question": "What does this dua teach about parenting?",
+        "answer": "That spiritual legacy is more important than worldly success.",
+        "explanation": "Ibrahim (AS) focused on generational worship."
+      }
+    ],
+    "whenToRead": {
+      "inSalah": [
+        "🕌 During sujood when making personal dua",
+        "🤲 Before salam in voluntary prayers"
+      ],
+      "outsideSalah": [
+        "👨‍👩‍👧 When making dua for children",
+        "🌙 During tahajjud",
+        "📖 After reciting Surah Ibrahim",
+        "💛 When striving to improve consistency in prayer"
+      ]
+    }
+  },{
+    "id": "dua-family-1",
+    "categoryId": "family",
+    "title": "🌿 Rabbana Hablana – Make Our Families the Comfort of Our Eyes",
+    "arabicFull": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+    "transliterationFull": "Rabbana hab lana min azwajina wa dhurriyyatina qurrata a'yun. Waj'alna lil-muttaqina imama.",
+    "translationFull": "Our Lord, grant us from our spouses and our offspring comfort to our eyes, and make us leaders for the righteous.",
+    "intro": "🤍 A comprehensive Qur’anic dua for righteous families and spiritual leadership.",
+    "story": "📖 This dua is mentioned among the qualities of the true servants of the Most Merciful in Surah Al-Furqan (25:74).\n\nThey do not only seek personal righteousness but ask Allah to bless their spouses and children with guidance and uprightness.\n\n'Comfort of the eyes' refers to seeing one’s family obedient to Allah, steadfast in faith, and a source of joy in this life and the Hereafter.\n\nThey also ask to become leaders for the righteous — meaning role models in piety, guidance, and good character.",
+    "benefits": [
+      "👨‍👩‍👧 Encourages building spiritually strong families",
+      "💛 Teaches that true joy comes from righteous loved ones",
+      "🌿 Promotes leadership in righteousness",
+      "🤲 Connects family life with taqwa"
+    ],
+    "phrases": [
+      {
+        "arabic": "رَبَّنَا",
+        "transliteration": "Rabbana",
+        "meaning": "Our Lord"
+      },
+      {
+        "arabic": "هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا",
+        "transliteration": "Hab lana min azwajina wa dhurriyyatina",
+        "meaning": "Grant us from our spouses and our offspring"
+      },
+      {
+        "arabic": "قُرَّةَ أَعْيُنٍ",
+        "transliteration": "Qurrata a'yun",
+        "meaning": "Comfort and joy to our eyes"
+      },
+      {
+        "arabic": "وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+        "transliteration": "Waj'alna lil-muttaqina imama",
+        "meaning": "And make us leaders for the righteous"
+      }
+    ],
+    "questions": [
+      {
+        "question": "What does 'qurrata a'yun' mean?",
+        "answer": "Comfort and joy to the eyes.",
+        "explanation": "It refers to deep happiness from seeing loved ones guided and obedient to Allah."
+      },
+      {
+        "question": "What kind of leadership does this dua ask for?",
+        "answer": "Leadership in righteousness and piety.",
+        "explanation": "It seeks to become role models for the people of taqwa."
+      },
+      {
+        "question": "What does this dua teach about family?",
+        "answer": "That true success is spiritual harmony within the home.",
+        "explanation": "Joy comes from faith and uprightness, not just worldly comfort."
+      }
+    ],
+    "whenToRead": {
+      "inSalah": [
+        "🕌 During sujood when making personal dua",
+        "🤲 Before salam in voluntary prayers"
+      ],
+      "outsideSalah": [
+        "👨‍👩‍👧 When making dua for family",
+        "🌙 During tahajjud",
+        "💛 When seeking harmony in marriage",
+        "📖 After reciting Surah Al-Furqan"
+      ]
+    }
+  },
+  {
+    "id": "dua-children-6",
+    "categoryId": "children",
+    "title": "🌿 Allahumma Ighfir Dhanbahu – Dua for a Child’s Purity",
+    "arabicFull": "اللَّهُمَّ اغْفِرْ ذَنْبَهُ وَطَهِّرْ قَلْبَهُ وَحَصِّنْ فَرْجَهُ",
+    "transliterationFull": "Allahumma ighfir dhanbahu wa tahhir qalbahu wa hassin farjahu.",
+    "translationFull": "O Allah, forgive his sin, purify his heart, and guard his chastity.",
+    "intro": "🤍 A powerful prophetic dua for protecting a child’s heart and chastity.",
+    "story": "📖 A young man once approached the Prophet ﷺ struggling with desire.\n\nThe Prophet ﷺ advised him gently, placed his hand on his chest, and made this dua for him.\n\nAfter this supplication, the young man said that nothing was more disliked to him than immorality.\n\nThis narration is recorded in Musnad Ahmad and is authentic.\n\nIt shows that purification begins with forgiveness, then cleansing of the heart, and finally protection of actions.",
+    "benefits": [
+      "🛡 Protects children from immorality",
+      "💛 Purifies the heart from harmful desires",
+      "🤲 Combines forgiveness with character reform",
+      "👶 Sunnah-based dua for safeguarding youth"
+    ],
+    "phrases": [
+      {
+        "arabic": "اللَّهُمَّ",
+        "transliteration": "Allahumma",
+        "meaning": "O Allah"
+      },
+      {
+        "arabic": "اغْفِرْ ذَنْبَهُ",
+        "transliteration": "Ighfir dhanbahu",
+        "meaning": "Forgive his sin"
+      },
+      {
+        "arabic": "وَطَهِّرْ قَلْبَهُ",
+        "transliteration": "Wa tahhir qalbahu",
+        "meaning": "And purify his heart"
+      },
+      {
+        "arabic": "وَحَصِّنْ فَرْجَهُ",
+        "transliteration": "Wa hassin farjahu",
+        "meaning": "And guard his chastity"
+      }
+    ],
+    "questions": [
+      {
+        "question": "What does this dua focus on first?",
+        "answer": "Forgiveness of sin.",
+        "explanation": "Spiritual reform begins with Allah’s forgiveness."
+      },
+      {
+        "question": "Why is purification of the heart mentioned?",
+        "answer": "Because actions follow the condition of the heart.",
+        "explanation": "A purified heart leads to pure behavior."
+      },
+      {
+        "question": "What does guarding chastity protect?",
+        "answer": "Moral integrity and honor.",
+        "explanation": "It shields youth from destructive desires."
+      }
+    ],
+    "whenToRead": {
+      "inSalah": [
+        "🕌 During sujood when making dua for children"
+      ],
+      "outsideSalah": [
+        "👦 When concerned about a child’s moral protection",
+        "🌙 Before sleep over children",
+        "💛 During teenage years",
+        "🤲 Anytime seeking purity and protection"
+      ]
+    }
   }
+
+
 
 ]
