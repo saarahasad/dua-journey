@@ -1,6 +1,10 @@
 import { notFound } from "next/navigation";
-import { getDuaById } from "@/lib/data";
+import { duas, getDuaById } from "@/lib/data";
 import { DuaFlow } from "./DuaFlow";
+
+export function generateStaticParams() {
+  return duas.map((d) => ({ id: d.id }));
+}
 
 interface PageProps {
   params: Promise<{ id: string }>;

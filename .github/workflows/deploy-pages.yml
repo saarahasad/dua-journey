@@ -30,10 +30,24 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Set base path
+        id: base
+        run: |
+          REPO_NAME="${{ github.event.repository.name }}"
+          REPO_LOWER=$(echo "$REPO_NAME" | tr '[:upper:]' '[:lower:]')
+          echo "BASE_PATH=/$REPO_LOWER" >> $GITHUB_ENV
+          echo "Using BASE_PATH=/$REPO_LOWER"
+
       - name: Build
         env:
-          BASE_PATH: /${{ github.event.repository.name }}
+          NODE_ENV: production
         run: npm run build
+
+      - name: Verify output
+        run: |
+          echo "Build output (basePath folder):"
+          ls -la out/
+          ls -la out/*/ 2>/dev/null || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@3

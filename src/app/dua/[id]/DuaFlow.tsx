@@ -37,9 +37,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
   >(1);
   const touchStartRef = useRef(0);
   const phraseAudioRef = useRef<HTMLAudioElement>(null);
-  const phraseStopTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
-    null
-  );
+  const phraseStopTimeoutRef = useRef<NodeJS.Timeout | number | null>(null);
   const phraseLoopRemainingRef = useRef(0);
   const { showToast } = useToast();
 

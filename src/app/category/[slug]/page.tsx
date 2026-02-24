@@ -1,7 +1,15 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getCategoryBySlug, getDuasByCategoryId } from "@/lib/data";
+import {
+  categories,
+  getCategoryBySlug,
+  getDuasByCategoryId,
+} from "@/lib/data";
 import { DuaCardWithStatus } from "@/components/DuaCardWithStatus";
+
+export function generateStaticParams() {
+  return categories.map((c) => ({ slug: c.slug }));
+}
 
 interface PageProps {
   params: Promise<{ slug: string }>;
