@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Amiri } from "next/font/google";
 import "./globals.css";
 import { ToastProvider } from "@/components/ToastProvider";
@@ -16,6 +16,12 @@ export const metadata: Metadata = {
   description: "Memorise duas through guided presentation-style learning",
 };
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -23,9 +29,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={amiri.variable}>
-      <body className="relative min-h-screen font-sans">
+      <body className="relative min-h-screen font-sans safe-area-padding">
         <div
-          className="fixed inset-0 -z-10 min-h-full w-full"
+          className="fixed inset-0 -z-10 min-h-[100dvh] w-full min-w-full"
           style={{
             backgroundImage: `url(${backgroundImage.src})`,
             backgroundRepeat: "repeat",

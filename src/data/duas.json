@@ -1385,24 +1385,18 @@
     ],
     "phrases": [
       {
-        "arabic": "إِنِّي",
-        "transliteration": "Inni",
-        "meaning": "Indeed, I"
-      },
-      {
-        "arabic": "أُعِيذُهَا بِكَ",
-        "transliteration": "U'idhuha bika",
-        "meaning": "Seek refuge for her in You"
-      },
-      {
-        "arabic": "وَذُرِّيَّتَهَا",
-        "transliteration": "Wa dhurriyyataha",
-        "meaning": "And her offspring"
+        "arabic": "إِنِّي أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا",
+        "transliteration": "Inni u'idhuha bika wa dhurriyyataha",
+        "meaning": "Indeed, I seek refuge for her in You and for her offspring",
+        "startTime": 0,
+        "endTime": 7
       },
       {
         "arabic": "مِنَ الشَّيْطَانِ الرَّجِيمِ",
         "transliteration": "Min ash-shaytan ir-rajim",
-        "meaning": "From Shaytan, the accursed"
+        "meaning": "From Shaytan, the accursed",
+        "startTime": 7,
+        "endTime": 12
       }
     ],
     "questions": [
@@ -1452,24 +1446,18 @@
     ],
     "phrases": [
       {
-        "arabic": "رَبِّ",
-        "transliteration": "Rabbi",
-        "meaning": "My Lord"
-      },
-      {
-        "arabic": "هَبْ لِي مِن لَّدُنكَ",
-        "transliteration": "Hab li min ladunka",
-        "meaning": "Grant me from Yourself"
-      },
-      {
-        "arabic": "ذُرِّيَّةً طَيِّبَةً",
-        "transliteration": "Dhurriyyatan tayyibah",
-        "meaning": "A pure and righteous offspring"
+        "arabic": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً",
+        "transliteration": "Rabbi hab li min ladunka dhurriyyatan tayyibah",
+        "meaning": "My Lord, grant me from Yourself a pure and righteous offspring",
+        "startTime": 0,
+        "endTime": 7.5
       },
       {
         "arabic": "إِنَّكَ سَمِيعُ الدُّعَاءِ",
         "transliteration": "Innaka Sami'ud-du'a",
-        "meaning": "Indeed, You are the Hearer of supplication"
+        "meaning": "Indeed, You are the Hearer of supplication",
+        "startTime": 7.5,
+        "endTime": 13
       }
     ],
     "questions": [
@@ -1518,24 +1506,25 @@
     ],
     "phrases": [
       {
-        "arabic": "أُعِيذُكُمَا",
-        "transliteration": "U'idhukuma",
-        "meaning": "I seek protection for you both"
-      },
-      {
-        "arabic": "بِكَلِمَاتِ اللَّهِ التَّامَّةِ",
-        "transliteration": "Bi kalimatillahi at-tammah",
-        "meaning": "In the perfect words of Allah"
+        "arabic": "أُعِيذُكُمَا بِكَلِمَاتِ اللَّهِ التَّامَّةِ",
+        "transliteration": "U'idhukuma bi kalimatillahi at-tammah",
+        "meaning": "I seek protection for you both in the perfect words of Allah",
+        "startTime": 0,
+        "endTime": 7
       },
       {
         "arabic": "مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ",
         "transliteration": "Min kulli shaytanin wa hammah",
-        "meaning": "From every devil and poisonous creature"
+        "meaning": "From every devil and poisonous creature",
+        "startTime": 7,
+        "endTime": 14
       },
       {
         "arabic": "وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
         "transliteration": "Wa min kulli 'aynin lammah",
-        "meaning": "And from every harmful eye"
+        "meaning": "And from every harmful eye",
+        "startTime": 14,
+        "endTime": 20
       }
     ],
     "questions": [
@@ -1583,24 +1572,18 @@
     ],
     "phrases": [
       {
-        "arabic": "رَبِّ",
-        "transliteration": "Rabbi",
-        "meaning": "My Lord"
-      },
-      {
-        "arabic": "اجْعَلْنِي مُقِيمَ الصَّلَاةِ",
-        "transliteration": "Ij'alni muqim as-salah",
-        "meaning": "Make me one who establishes prayer"
-      },
-      {
-        "arabic": "وَمِن ذُرِّيَّتِي",
-        "transliteration": "Wa min dhurriyyati",
-        "meaning": "And from my offspring"
+        "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي",
+        "transliteration": "Rabbi ij'alni muqim as-salah wa min dhurriyyati",
+        "meaning": "My Lord, make me one who establishes prayer — and from my offspring as well",
+        "startTime": 0,
+        "endTime": 7
       },
       {
         "arabic": "رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
         "transliteration": "Rabbana wa taqabbal du'a",
-        "meaning": "Our Lord, and accept my supplication"
+        "meaning": "Our Lord, and accept my supplication",
+        "startTime": 7,
+        "endTime": 11
       }
     ],
     "questions": [
@@ -1633,8 +1616,8 @@
       ]
     }
   },{
-    "id": "dua-family-1",
-    "categoryId": "family",
+    "id": "dua-children-5",
+    "categoryId": "children",
     "title": "🌿 Rabbana Hablana – Make Our Families the Comfort of Our Eyes",
     "arabicFull": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
     "transliterationFull": "Rabbana hab lana min azwajina wa dhurriyyatina qurrata a'yun. Waj'alna lil-muttaqina imama.",
@@ -1649,24 +1632,25 @@
     ],
     "phrases": [
       {
-        "arabic": "رَبَّنَا",
-        "transliteration": "Rabbana",
-        "meaning": "Our Lord"
-      },
-      {
-        "arabic": "هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا",
-        "transliteration": "Hab lana min azwajina wa dhurriyyatina",
-        "meaning": "Grant us from our spouses and our offspring"
+        "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا",
+        "transliteration": "Rabbana hab lana min azwajina wa dhurriyyatina",
+        "meaning": "Our Lord, grant us from our spouses and our offspring",
+        "startTime": 0,
+        "endTime": 6.4
       },
       {
         "arabic": "قُرَّةَ أَعْيُنٍ",
         "transliteration": "Qurrata a'yun",
-        "meaning": "Comfort and joy to our eyes"
+        "meaning": "Comfort and joy to our eyes",
+        "startTime": 6.5,
+        "endTime": 8.7
       },
       {
         "arabic": "وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
         "transliteration": "Waj'alna lil-muttaqina imama",
-        "meaning": "And make us leaders for the righteous"
+        "meaning": "And make us leaders for the righteous",
+        "startTime": 8.7,
+        "endTime": 13
       }
     ],
     "questions": [
@@ -1721,19 +1705,9 @@
         "meaning": "O Allah"
       },
       {
-        "arabic": "اغْفِرْ ذَنْبَهُ",
-        "transliteration": "Ighfir dhanbahu",
-        "meaning": "Forgive his sin"
-      },
-      {
-        "arabic": "وَطَهِّرْ قَلْبَهُ",
-        "transliteration": "Wa tahhir qalbahu",
-        "meaning": "And purify his heart"
-      },
-      {
-        "arabic": "وَحَصِّنْ فَرْجَهُ",
-        "transliteration": "Wa hassin farjahu",
-        "meaning": "And guard his chastity"
+        "arabic": "اغْفِرْ ذَنْبَهُ وَطَهِّرْ قَلْبَهُ وَحَصِّنْ فَرْجَهُ",
+        "transliteration": "Ighfir dhanbahu wa tahhir qalbahu wa hassin farjahu",
+        "meaning": "Forgive his sin, purify his heart, and guard his chastity"
       }
     ],
     "questions": [

@@ -25,6 +25,13 @@
     @apply text-sage-900 antialiased;
     background-color: #f8f6f1;
   }
+  /* Extend background and content into iOS safe areas (notch, status bar, home indicator) */
+  .safe-area-padding {
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
 }
 
 /* Smooth fade transitions */
@@ -55,6 +62,13 @@
   box-shadow:
     0 8px 24px rgba(0, 0, 0, 0.06),
     0 0 32px rgba(199, 175, 177, 0.25);
+}
+
+/* Card without glow (e.g. progress page memorised list) */
+.card-overlay-no-glow {
+  @apply backdrop-blur-lg rounded-2xl border border-gray-200/60;
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 /* Text on background pattern – subtle shadow for contrast */

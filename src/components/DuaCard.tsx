@@ -7,13 +7,16 @@ export function DuaCard({
   dua,
   isMemorised,
   onUnmark,
+  noGlow,
 }: {
   dua: Dua;
   isMemorised?: boolean;
   onUnmark?: () => void;
+  /** When true, use flat shadow (no glow) – e.g. on progress page */
+  noGlow?: boolean;
 }) {
   return (
-    <div className="card-overlay p-5">
+    <div className={noGlow ? "card-overlay-no-glow p-5" : "card-overlay p-5"}>
       <div className="flex items-start justify-between gap-2">
         <div className="min-w-0 flex-1">
           <h2 className="text-lg font-semibold text-black">{dua.title}</h2>
