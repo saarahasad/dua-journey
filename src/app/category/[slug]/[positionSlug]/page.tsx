@@ -25,7 +25,7 @@ export function generateStaticParams() {
       }
     }
   }
-  const params: { slug: string; positionSlug: string }[] = [...positionSlugs].map(
+  const params: { slug: string; positionSlug: string }[] = Array.from(positionSlugs).map(
     (positionSlug) => ({ slug: inSalah.slug, positionSlug })
   );
   const hasOther = duas.some(
