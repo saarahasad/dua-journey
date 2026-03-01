@@ -173,31 +173,18 @@
       "❤️ **Personally recommended by the Prophet ﷺ**"
     ],
     "phrases": [{
-        "arabic": "اللَّهُمَّ أَعِنِّيْ",
-        "transliteration": "Allahumma a'inni",
-        "meaning": "**O Allah, help me**",
+        "arabic": "للَّهُمَّ أَعِنِّيْ عَلَى ذِكْرِكَ ",
+        "transliteration": "Allahumma a'inni 'Ala dhikrika",
+        "meaning": "**O Allah, help me , To remember You**",
         "startTime": 0,
-        "endTime": 3.8
-      },
-      {
-        "arabic": "عَلَى ذِكْرِكَ",
-        "transliteration": "'Ala dhikrika",
-        "meaning": "**To remember You**",
-        "startTime": 3.8,
         "endTime": 4.8
       },
+
       {
-        "arabic": "وَشُكْرِكَ",
-        "transliteration": "Wa shukrika",
-        "meaning": "**And to thank You**",
+        "arabicFull": " وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "transliteration": " wa shukrika wa husni 'ibadatika",
+        "meaning": "**And to thank You, and worship You in the best manner.**",
         "startTime": 4.8,
-        "endTime": 5.8
-      },
-      {
-        "arabic": "وَحُسْنِ عِبَادَتِكَ",
-        "transliteration": "Wa husni 'ibadatika",
-        "meaning": "**And to worship You beautifully**",
-        "startTime": 5.8,
         "endTime": 8
       }
     ],
@@ -240,12 +227,12 @@
     "transliterationFull": "Allahumma tahhir qalbi minan-nifaq, wa 'amali minar-riya', wa lisani minal-kadhib, wa 'ayni minal-khiyanah, fa innaka ta'lamu kha'inatal-a'yuni wa ma tukhfis-sudur.",
     "translationFull": "**O Allah, purify my heart from hypocrisy, my deeds from showing off, my tongue from lying, and my eyes from betrayal. Indeed, You know the betrayal of the eyes and what the hearts conceal.**",
     "intro": "🤍 **A powerful supplication for sincerity and inner purification.**",
-    "story": "📖 This supplication reflects deep awareness of hidden sins. It acknowledges that Allah knows what is concealed in hearts and even the subtle betrayal of the eyes.\n\n**The final phrase comes from the Qur’an (Surah Ghafir 40:19):\n\"He knows the betrayal of the eyes and what the hearts conceal.\"**",
+    "story": "📖 This supplication turns inward. It is not asking for outward success — it is asking for inner cleansing.\n\nIt begins with the heart because the heart is the root of every action. If the heart is sincere, deeds carry light. If it is corrupt, even worship becomes empty.\n\nThe final phrase comes from the Qur’an (Surah Ghafir 40:19):\n\"He knows the betrayal of the eyes and what the hearts conceal.\"\n\nThis ending builds deep awareness that nothing is hidden from Allah — not subtle glances, not silent intentions, not private struggles. It is a dua of vulnerability and spiritual honesty.",
     "benefits": [
-      "🌟 **Builds sincerity (ikhlas)**",
-      "🛡 **Protects from hypocrisy (nifaq)**",
-      "🧭 Purifies intentions behind actions",
-      "👁 Increases awareness of hidden sins"
+      "🌟 **Restores sincerity (ikhlas)** by aligning the heart with outward worship.",
+      "🛡 **Protects from hypocrisy (nifaq)** that can silently corrupt good deeds.",
+      "🧭 Refines intentions before action and builds self-accountability.",
+      "👁 Increases awareness of hidden sins, especially those of the eyes and heart."
     ],
     "phrases": [{
         "arabic": "اللَّهُمَّ طَهِّرْ قَلْبِي مِنَ النِّفَاقِ",
@@ -284,19 +271,19 @@
       }
     ],
     "questions": [{
-        "question": "What four things does this dua ask to purify?",
-        "answer": "**Heart, deeds, tongue, and eyes.**",
-        "explanation": "It targets both internal sincerity and external behavior."
+        "question": "Why does this dua begin with the heart before mentioning actions?",
+        "answer": "**Because the heart is the root and actions are its branches.**",
+        "explanation": "If the heart is sincere, deeds follow with purity. If the heart is corrupt, even worship can become performance."
       },
       {
-        "question": "What does 'riya' mean?",
-        "answer": "**Showing off in worship.**",
-        "explanation": "It is performing deeds to be seen or praised by people rather than for Allah."
+        "question": "Why is 'showing off' specifically mentioned for deeds?",
+        "answer": "**Because worship is most vulnerable to corruption through praise.**",
+        "explanation": "A deed done for people may look beautiful outwardly but carries no weight with Allah."
       },
       {
-        "question": "What does this dua teach about Allah’s knowledge?",
-        "answer": "**That Allah knows even hidden glances and concealed intentions.**",
-        "explanation": "It ends by affirming Allah’s complete awareness."
+        "question": "What does affirming that Allah knows hidden glances teach us?",
+        "answer": "**That true accountability begins in private.**",
+        "explanation": "When a believer internalizes that Allah sees even subtle intentions and glances, their inner self begins to transform."
       }
     ],
     "whenToRead": {
@@ -321,25 +308,25 @@
     "title": "🌿 Subhanaka Allahumma – Opening Praise After Takbir",
     "arabicFull": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلَا إِلَهَ غَيْرُكَ",
     "transliterationFull": "Subhanaka Allahumma wa bihamdika wa tabarakasmuka wa ta'ala jadduka wa la ilaha ghayruk.",
-    "translationFull": "Glory be to You O Allah, and praise. Blessed is Your Name, Exalted is Your Majesty, and there is no deity besides You.",
-    "intro": "One of the beautiful opening supplications (Du'a al-Istiftah) recited immediately after the opening Takbir before Surah al-Fatiha.",
-    "story": "Aishah (RA) reported that when the Prophet ﷺ began prayer, he would open with words of glorification and praise like this. \n\nBefore asking for anything… he praised.\nBefore reciting Qur'an… he purified the heart with Tawheed.\n\nThis shows us that salah begins not with requests — but with recognition.",
+    "translationFull": "Glory be to You O Allah, and with Your praise. Blessed is Your Name, Exalted is Your Majesty, and there is no deity besides You.",
+    "intro": "🌿 A powerful Du'a al-Istiftah recited immediately after Takbir al-Ihram — opening salah with pure glorification before reciting Qur’an.",
+    "story": "Aishah (RA) reported that when the Prophet ﷺ began prayer, he would open with words of **glorification** and **praise** like this.\n\nNotice the order:\nHe did not begin by **asking**.\nHe did not begin by **seeking**.\nHe began by **recognizing**.\n\nSalah starts by emptying the heart of **ego** and filling it with **Tawheed**. Before standing to listen to Allah’s words in Surah al-Fatiha, the servant declares Allah’s **perfection**, praises Him, acknowledges His blessed **Name**, affirms His **Majesty**, and seals it with absolute **Oneness**.\n\nThis supplication shifts the heart from **distraction** to **devotion**. It trains the believer to enter prayer through **humility**, not habit.",
     "source": "Sunan Abi Dawud 775; Jami` at-Tirmidhi 243",
     "grading": "Hasan",
     "salahPositionCategories": [
       "Opening Supplication (after Takbir, before Fatiha)"
     ],
     "benefits": [
-      "🌿 Establishes Tawheed before recitation",
-      "🕊️ Begins prayer with glorification instead of requests",
-      "🤍 Softens the heart before Qur’an",
-      "✨ Centers the mind in humility",
-      "📿 Trains the tongue in praise before asking"
+      "🌿 Establishes **Tawheed** before recitation — grounding the heart in **Oneness** before guidance.",
+      "🕊️ Purifies **intention** at the very start of salah.",
+      "🤍 Softens the **ego** by declaring Allah’s **perfection** and our dependence.",
+      "✨ Transitions the mind from worldly **distraction** to divine **focus**.",
+      "📿 Trains the tongue to **praise before asking** — cultivating **gratitude** before need."
     ],
     "phrases": [{
         "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ",
         "transliteration": "Subhanaka Allahumma wa bihamdika",
-        "meaning": "Glory be to You O Allah, and praise",
+        "meaning": "Glory be to You O Allah, and with Your praise",
         "startTime": 0,
         "endTime": 5
       },
@@ -359,19 +346,19 @@
       }
     ],
     "questions": [{
-        "question": "Why does this dua begin with glorification before asking for anything?",
-        "answer": "Because proper worship begins with recognizing Allah’s perfection.",
-        "explanation": "It trains the heart to praise before requesting."
+        "question": "Why does this supplication begin with **glorification** instead of requests?",
+        "answer": "Because true **worship** begins with recognizing Allah’s **perfection** before presenting our needs.",
+        "explanation": "It teaches the heart that **praise precedes asking**, and **humility precedes guidance**."
       },
       {
-        "question": "What core belief is reinforced at the end of this dua?",
-        "answer": "Tawheed — that there is no deity besides Allah.",
-        "explanation": "It closes with complete affirmation of Oneness."
+        "question": "How does ending with '**Wa la ilaha ghayruk**' shape the rest of the prayer?",
+        "answer": "It anchors the entire salah in **Tawheed**.",
+        "explanation": "Every word recited afterward becomes an act of exclusive **devotion** to Allah alone."
       },
       {
-        "question": "What psychological benefit does this opening create?",
-        "answer": "It calms the mind and anchors attention before Qur’an recitation.",
-        "explanation": "Praise prepares the heart to receive guidance."
+        "question": "What internal shift should happen when reciting this opening?",
+        "answer": "A shift from **distraction** to **reverence**.",
+        "explanation": "Declaring Allah’s greatness resets the heart and prepares it to receive Qur’an with presence and **humility**."
       }
     ],
     "whenToRead": {
@@ -383,7 +370,6 @@
       "outsideSalah": []
     }
   },
-
   {
     "id": "dua-insalah-4",
     "categoryId": "in-salah",
@@ -392,54 +378,55 @@
     "transliterationFull": "Allahu akbaru kabira, walhamdu lillahi kathira, wa subhanallahi bukratan wa asila.",
     "translationFull": "Allah is the Greatest, immensely Great. All praise is for Allah in abundance. Glory be to Allah morning and evening.",
     "intro": "A powerful opening supplication recited after Takbir before Surah al-Fatiha.",
-    "story": "A companion entered prayer and recited these words. After the prayer, the Prophet ﷺ said: \n\n'I saw more than thirty angels racing to record which of them would write it first.' (Sahih Muslim 601)\n\nThis shows that spontaneous sincere glorification is beloved in the sight of Allah.",
+    "story": "A companion once entered prayer and spontaneously said these words. After the prayer, the Prophet ﷺ said:\n\n'I saw more than thirty angels **racing to record it**, each wanting to be the one who wrote it first.' (Sahih Muslim 601)\n\nIn another narration, he mentioned that the **doors of the heavens were opened** for these words.\n\nWhy? Because this supplication is pure **magnification**, pure **gratitude**, and pure **glorification**.\n\nIt begins with declaring Allah’s **absolute greatness**, continues with **abundant praise**, and ends with affirming His perfection at the **beginning and end of the day**.\n\nThese words realign the heart. When you say 'Allahu Akbar Kabira,' you shrink your problems. When you say 'Walhamdu Lillahi Kathira,' you shift from complaint to gratitude. When you say 'Subhanallahi bukratan wa aseela,' you declare Allah free from every imperfection in every moment of your life.\n\nThis is not just an opening — it is a **reset of perspective**.",
     "source": "Sahih Muslim 601",
     "grading": "Sahih",
     "salahPositionCategories": [
       "Opening Supplication (after Takbir, before Fatiha)"
     ],
     "benefits": [
-      "🌟 Angels compete to record it",
-      "🕊️ Multiplies praise at the start of prayer",
-      "🤍 Increases khushu’ before Qur’an recitation",
-      "✨ Expands takbeer beyond a single phrase"
+      "🌟 Angels **compete to record it**, showing its immense reward.",
+      "🕊️ Opens the **doors of the heavens** for sincere praise.",
+      "🤍 Cultivates deep **contentment** by magnifying Allah above worries.",
+      "✨ Strengthens **faith and reliance** through repeated glorification.",
+      "🌅 Anchors the heart in remembrance at the **beginning and end of the day**, building spiritual consistency."
     ],
     "phrases": [{
         "arabic": "اللَّهُ أَكْبَرُ كَبِيرًا",
         "transliteration": "Allahu akbaru kabira",
         "meaning": "Allah is the Greatest, immensely Great",
         "startTime": 0,
-        "endTime": 4
+        "endTime": 5
       },
       {
         "arabic": "وَالْحَمْدُ لِلَّهِ كَثِيرًا",
         "transliteration": "Walhamdu lillahi kathira",
         "meaning": "All praise is for Allah in abundance",
-        "startTime": 4,
-        "endTime": 8
+        "startTime": 5,
+        "endTime": 9
       },
       {
         "arabic": "وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًا",
         "transliteration": "Wa subhanallahi bukratan wa asila",
         "meaning": "Glory be to Allah morning and evening",
-        "startTime": 8,
+        "startTime": 9,
         "endTime": 13
       }
     ],
     "questions": [{
-        "question": "What makes this dua unique among opening supplications?",
-        "answer": "The Prophet ﷺ mentioned angels racing to record it.",
-        "explanation": "It highlights the immense reward of sincere praise."
+        "question": "Why did the angels **race to record** this supplication?",
+        "answer": "Because it combined immense **magnification, praise, and glorification** in a sincere moment of worship.",
+        "explanation": "It teaches that spontaneous, heartfelt praise carries extraordinary weight with Allah."
       },
       {
-        "question": "What three core elements does this dua contain?",
-        "answer": "Takbeer, praise, and glorification.",
-        "explanation": "It combines Allahu Akbar, Alhamdulillah, and SubhanAllah."
+        "question": "How does saying '**Allahu Akbar Kabira**' affect your worries?",
+        "answer": "It places Allah’s **greatness above every problem**.",
+        "explanation": "When Allah is truly magnified in the heart, fears and anxieties naturally shrink."
       },
       {
-        "question": "What does this teach about voluntary words in prayer?",
-        "answer": "Sincere spontaneous praise is accepted and rewarded.",
-        "explanation": "The companion’s words were not rejected — they were honored."
+        "question": "What inner transformation happens when praise becomes abundant ('Walhamdu Lillahi Kathira')?",
+        "answer": "The heart shifts from **complaint to gratitude**.",
+        "explanation": "Abundant praise rewires perspective, building resilience, faith, and spiritual stability."
       }
     ],
     "whenToRead": {
@@ -460,7 +447,7 @@
     "transliterationFull": "Subboohun Quddoosun Rabbul malaa'ikati war-rooh.",
     "translationFull": "Perfectly Glorified, Most Holy, Lord of the angels and the Spirit.",
     "intro": "A profound glorification recited by the Prophet ﷺ during rukūʿ and sujūd.",
-    "story": "Aishah (RA) reported that the Prophet ﷺ would say in his bowing and prostration: \n\n'Subboohun Quddoosun Rabbul malaa'ikati war-rooh.' (Sahih Muslim 487)\n\nEven at the lowest physical position, he emphasized Allah’s absolute purity.",
+    "story": "Aishah (RA) reported that the Prophet ﷺ would say in his bowing and prostration:\n\n'Subboohun Quddoosun Rabbul malaa'ikati war-rooh.' (Sahih Muslim 487)\n\nNotice the depth of this moment.\nIn the position of **physical lowering**, he declared Allah’s **absolute transcendence**.\nIn the moment of **humility**, he affirmed divine **holiness**.\n\n'**Subbooh**' means Allah is completely free from every imperfection you can imagine.\n'**Quddoos**' means He is perfectly pure, sacred beyond comparison.\n\nThen comes '**Rabbul-Mala'ikati war-Rooh**' — the **Lord of the angels and the Spirit**.\nEven the mightiest of angels, even Jibreel, even the unseen creation — all are under His command.\n\nWhen you say this in rukūʿ and sujūd, you are placing your smallness before His **limitless perfection**.\nThe lower your body descends, the higher your awareness rises.",
     "source": "Sahih Muslim 487",
     "grading": "Sahih",
     "salahPositionCategories": [
@@ -468,40 +455,38 @@
       "In Sujood"
     ],
     "benefits": [
-      "🌟 Deepens glorification during humility",
-      "🕊️ Connects the worshipper to the unseen world of angels",
-      "🤍 Reinforces Allah’s perfection and holiness",
-      "✨ Elevates the quality of rukūʿ and sujūd"
+      "🌟 Deepens **true humility** by pairing physical lowering with recognition of divine greatness.",
+      "🕊️ Connects the heart to the **unseen realm of angels**, expanding spiritual awareness.",
+      "🤍 Reinforces Allah’s **absolute purity and holiness**, strengthening reverence.",
+      "✨ Diminishes the **ego** while magnifying Allah’s perfection."
     ],
     "phrases": [{
         "arabic": "سُبُّوحٌ قُدُّوسٌ",
         "transliteration": "Subboohun Quddoos",
         "meaning": "Perfectly Glorified and Most Holy",
         "startTime": 0,
-        "endTime": 4
+        "endTime": 3.5
       },
       {
         "arabic": "رَبُّ الْمَلَائِكَةِ وَالرُّوحِ",
         "transliteration": "Rabbul malaa'ikati war-rooh",
         "meaning": "Lord of the angels and the Spirit (Jibreel)",
-        "startTime": 4,
-        "endTime": 8
+        "startTime": 3.5,
+        "endTime": 7
       }
     ],
     "questions": [{
-        "question": "Why is Allah described as Subbooh and Quddoos in rukūʿ and sujūd?",
-        "answer": "Because these positions reflect humility before Allah’s perfection.",
-        "explanation": "The lower the body, the greater the recognition of His holiness."
+        "question": "Why are the names **Subbooh** and **Quddoos** especially powerful in rukūʿ and sujūd?",
+        "answer": "Because these are moments of **maximum humility** before Allah’s **maximum perfection**.",
+        "explanation": "The body lowers itself while the heart elevates its recognition of divine holiness."
       },
       {
-        "question": "Who is referred to as 'the Spirit' (ar-Rooh)?",
-        "answer": "Angel Jibreel (Gabriel).",
-        "explanation": "He is specifically honored among the angels."
+        "question": "What does saying '**Rabbul-Mala'ikati war-Rooh**' teach about Allah’s authority?",
+        "answer": "That even the angels exist in **complete submission** to Him."
       },
       {
-        "question": "What spiritual effect does this dhikr create?",
-        "answer": "It magnifies Allah’s greatness while minimizing ego.",
-        "explanation": "True humility grows through glorification."
+        "question": "What inner transformation should this dhikr create?",
+        "answer": "A shift from **self-importance** to **awe and reverence**."
       }
     ],
     "whenToRead": {
@@ -655,8 +640,7 @@
       "🤍 Teaches excellence beyond minimal obligation",
       "✨ Elevates transitional moments in prayer"
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ",
         "transliteration": "Rabbana wa lakal hamd",
         "meaning": "Our Lord, to You belongs all praise",
@@ -671,8 +655,7 @@
         "endTime": 10
       }
     ],
-    "questions": [
-      {
+    "questions": [{
         "question": "What makes this version superior to the minimal wording?",
         "answer": "It expands praise in quality and quantity.",
         "explanation": "It adds abundant, pure and blessed."
@@ -702,7 +685,7 @@
     "id": "dua-insalah-10",
     "categoryId": "in-salah",
     "title": "🌿 Subhanallahi wa bihamdihi – Constant Repentance",
-    "arabicFull": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، أَسْتَغْفِرُ اللَّهَ، وَأَتُوبُ إِلَيْهِ",
+    "arabicFull": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
     "transliterationFull": "Subhanallahi wa bihamdihi, astaghfirullaha wa atubu ilayh.",
     "translationFull": "Glory be to Allah and praise Him. I seek Allah’s forgiveness and repent to Him.",
     "intro": "A dhikr frequently recited by the Prophet ﷺ, especially toward the end of his life.",
@@ -710,15 +693,15 @@
     "source": "Sahih al-Bukhari 6307; Sahih Muslim 2702",
     "grading": "Sahih",
     "salahPositionCategories": [
-      "Additional Supplications"    ],
+      "Additional Supplications"
+    ],
     "benefits": [
       "🌿 Erases sins when recited abundantly",
       "🤲 Trains constant repentance",
       "🕊️ Combines praise with forgiveness",
       "✨ Follows prophetic practice near the end of his life"
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
         "transliteration": "Subhanallahi wa bihamdihi",
         "meaning": "Glory be to Allah and praise Him",
@@ -733,8 +716,7 @@
         "endTime": 10
       }
     ],
-    "questions": [
-      {
+    "questions": [{
         "question": "Why did the Prophet ﷺ increase in this dhikr near the end of his life?",
         "answer": "Because Surah An-Nasr instructed glorification and seeking forgiveness.",
         "explanation": "It reflects obedience even at the peak of success."
@@ -765,7 +747,7 @@
     "id": "dua-insalah-11",
     "categoryId": "in-salah",
     "title": "🌿 Allahumma Ighfir Li Dhanbi Kullahu – Complete Forgiveness",
-    "arabicFull": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلَانِيَتَهُ وَسِرَّهُ",
+    "arabicFull": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ دِقَّهُ وَجِلَّهُ وَأَوَّلَهُ وَآخِرَهُ وَعَلَانِيَتَهُ وَسِرَّهُ",
     "transliterationFull": "Allahummaghfir li dhanbi kullahu, diqqahu wa jillahu, wa awwalahu wa akhirahu, wa 'alaniyatahu wa sirrahu.",
     "translationFull": "O Allah, forgive all my sins — small and great, first and last, open and secret.",
     "intro": "A comprehensive dua taught by the Prophet ﷺ covering every category of sin.",
@@ -782,8 +764,7 @@
       "🕊️ Strengthens hope in Allah’s mercy",
       "✨ Expands repentance beyond specifics"
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ",
         "transliteration": "Allahummaghfir li dhanbi kullahu",
         "meaning": "O Allah, forgive all my sins",
@@ -798,8 +779,7 @@
         "endTime": 14
       }
     ],
-    "questions": [
-      {
+    "questions": [{
         "question": "Why list multiple categories of sin?",
         "answer": "To ensure nothing is excluded from repentance.",
         "explanation": "It prevents selective remorse."
@@ -825,7 +805,7 @@
         "Night prayer (Tahajjud)"
       ]
     }
-  }, 
+  },
   {
     "id": "dua-insalah-12",
     "categoryId": "in-salah",
@@ -846,8 +826,7 @@
       "🕊️ Encourages balance in supplication",
       "✨ Easy to memorize yet comprehensive"
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي",
         "transliteration": "Allahummaghfir li warhamni",
         "meaning": "O Allah forgive me and have mercy on me",
@@ -862,8 +841,7 @@
         "endTime": 12
       }
     ],
-    "questions": [
-      {
+    "questions": [{
         "question": "Why is this dua recited between two sujood?",
         "answer": "Because it is a pause for asking between two acts of humility.",
         "explanation": "It balances movement with supplication."
@@ -886,12 +864,12 @@
       ],
       "outsideSalah": []
     }
-  }, 
+  },
   {
     "id": "dua-insalah-13",
     "categoryId": "in-salah",
     "title": "🌿 Protection from Hell, Grave & Dajjal",
-    "arabicFull": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+    "arabicFull": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَمِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
     "transliterationFull": "Allahumma inni a'udhu bika min 'adhabi jahannam, wa min 'adhabil qabr, wa min fitnatil mahya wal mamat, wa min sharri fitnatil masihid-dajjal.",
     "translationFull": "O Allah, I seek refuge in You from the punishment of Hell, the punishment of the grave, the trials of life and death, and from the evil trial of the False Messiah.",
     "intro": "A protection dua the Prophet ﷺ consistently taught before ending prayer.",
@@ -907,8 +885,7 @@
       "🤲 Encourages awareness of akhirah",
       "✨ Strengthens fear and hope balance"
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَمِنْ عَذَابِ الْقَبْرِ",
         "transliteration": "Allahumma inni a'udhu bika min 'adhabi jahannam wa min 'adhabil qabr",
         "meaning": "O Allah, I seek refuge in You from Hell and the punishment of the grave",
@@ -923,8 +900,7 @@
         "endTime": 16
       }
     ],
-    "questions": [
-      {
+    "questions": [{
         "question": "Why are these four specifically mentioned?",
         "answer": "Because they are the most severe trials affecting eternal outcome.",
         "explanation": "They impact the hereafter directly."
@@ -947,7 +923,7 @@
     "id": "dua-insalah-14",
     "categoryId": "in-salah",
     "title": "🌿 The Dua of Abu Bakr (RA)",
-    "arabicFull": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+    "arabicFull": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
     "transliterationFull": "Allahumma inni zalamtu nafsi zulman kathiran wa la yaghfirudh-dhunuba illa ant, faghfir li maghfiratan min 'indika warhamni, innaka antal-ghafurur-rahim.",
     "translationFull": "O Allah, I have greatly wronged myself and none forgives sins except You. So forgive me with a forgiveness from You and have mercy upon me. Indeed You are the Most Forgiving, Most Merciful.",
     "intro": "A deeply personal dua taught specifically to Abu Bakr (RA).",
@@ -963,8 +939,7 @@
       "🕊 Models humility of the greatest companion",
       "✨ Balances fear and hope"
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا",
         "transliteration": "Allahumma inni zalamtu nafsi zulman kathiran",
         "meaning": "O Allah, I have greatly wronged myself",
@@ -979,13 +954,11 @@
         "endTime": 13
       }
     ],
-    "questions": [
-      {
-        "question": "What is the first step in this dua?",
-        "answer": "Admitting wrongdoing.",
-        "explanation": "Accountability precedes forgiveness."
-      }
-    ],
+    "questions": [{
+      "question": "What is the first step in this dua?",
+      "answer": "Admitting wrongdoing.",
+      "explanation": "Accountability precedes forgiveness."
+    }],
     "whenToRead": {
       "inSalah": [
         "After final Tashahhud",
@@ -996,76 +969,69 @@
         "Night prayer"
       ]
     }
-  },
-  {
-    "id": "dua-going-to-masjid-1",
-    "categoryId": "while-going-to-masjid",
-    "title": "🌿 Allahumma Aj‘al Li Nuran – Dua While Going to the Masjid",
-    "arabicFull": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَفِي لِسَانِي نُورًا وَفِي سَمْعِي نُورًا وَفِي بَصَرِي نُورًا وَمِنْ فَوْقِي نُورًا وَمِنْ تَحْتِي نُورًا وَعَنْ يَمِينِي نُورًا وَعَنْ يَسَارِي نُورًا وَأَمَامِي نُورًا وَخَلْفِي نُورًا وَاجْعَلْ لِي نُورًا",
-    "transliterationFull": "Allahumma aj'al fi qalbi nuran, wa fi lisani nuran, wa fi sam'i nuran, wa fi basari nuran, wa min fawqi nuran, wa min tahti nuran, wa 'an yamini nuran, wa 'an yasari nuran, wa amami nuran, wa khalfi nuran, waj'al li nuran.",
-    "translationFull": "O Allah, place light in my heart, light on my tongue, light in my hearing, light in my sight. Place light above me and below me, to my right and to my left, in front of me and behind me. O Allah, grant me light.",
-    "intro": "A powerful supplication recited by the Prophet ﷺ while going out for prayer — especially Fajr.",
-    "story": "Ibn Abbas (RA) reported that he spent the night with the Messenger of Allah ﷺ. The Prophet woke up, cleansed his teeth, performed ablution, and when the call to prayer was announced, he went out for the prayer saying this dua. (Sahih al-Bukhari 6316; Sahih Muslim 763)\n\nBefore stepping into the darkness of Fajr — he asked for light in every direction.",
+  }, {
+    "id": "dua-insalah-15",
+    "categoryId": "in-salah",
+    "title": "🌿 Allahumma Aj‘al Li Nuran – Dua Between Sunnah & Fard of Fajr",
+    "arabicFull": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَفِي بَصَرِي نُورًا وَفِي سَمْعِي نُورًا وَعَنْ يَمِينِي نُورًا وَعَنْ يَسَارِي نُورًا وَفَوْقِي نُورًا وَتَحْتِي نُورًا وَأَمَامِي نُورًا وَخَلْفِي نُورًا وَاجْعَلْ لِي نُورًا",
+    "transliterationFull": "Allahumma aj'al fi qalbi nuran, wa fi basari nuran, wa fi sam'i nuran, wa 'an yamini nuran, wa 'an yasari nuran, wa fawqi nuran, wa tahti nuran, wa amami nuran, wa khalfi nuran, waj'al li nuran.",
+    "translationFull": "O Allah, place light in my heart, light in my sight, light in my hearing, light to my right, light to my left, light above me, light below me, light in front of me, light behind me — and grant me light.",
+    "intro": "A powerful supplication recited in the early moments of Fajr — between the Sunnah and the Fard prayer.",
+    "story": "Ibn Abbas (RA) reported that the Prophet ﷺ would recite this dua in the early hours of Fajr. (Sahih al-Bukhari 6316; Sahih Muslim 763)\n\nBetween the quiet Sunnah and the obligatory Fard — in that sacred pause — he asked for **light in his heart**, **light in his senses**, and **light in every direction**.\n\nFajr begins in darkness.\nAnd before standing for the Fard prayer, he asked Allah for **complete illumination**.\n\nHe did not only seek physical light — but **guidance**, **clarity**, **protection**, and **steadfastness**.\n\nBeginning with the heart — because when the **heart is illuminated**, the rest of life follows.\nThen the senses — because guided perception leads to guided action.\nThen every direction — because a believer needs light **surrounding them completely**.\n\nThis dua prepares the soul before standing before Allah in Fard.",
     "source": "Sahih al-Bukhari 6316; Sahih Muslim 763",
     "grading": "Sahih",
     "salahPositionCategories": [
-      "While Going to Masjid",
-      "Before Fajr Prayer",
-      "After Wudu"
+      "Additional Supplications"
     ],
     "benefits": [
-      "🌅 Seeks guidance before stepping into the world",
-      "🕊️ Connects physical light with spiritual clarity",
-      "🤍 Strengthens awareness before congregational prayer",
-      "✨ Aligns senses with divine guidance"
+      "🌅 Sets a foundation of **spiritual clarity** before the obligatory prayer.",
+      "🕊 Aligns the **heart and senses** before standing in Fard.",
+      "🤍 Builds conscious **dependence on Allah** at the start of the day.",
+      "✨ Seeks protection from **misguidance in every direction**.",
+      "🌌 Establishes the day upon divine light rather than personal strength."
     ],
-    "phrases": [
-      {
-        "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَفِي لِسَانِي نُورًا",
-        "transliteration": "Allahumma aj'al fi qalbi nuran wa fi lisani nuran",
-        "meaning": "O Allah, place light in my heart and on my tongue",
+    "phrases": [{
+        "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَفِي بَصَرِي نُورًا وَفِي سَمْعِي نُورًا",
+        "transliteration": "Allahumma aj'al fi qalbi nuran wa fi basari nuran wa fi sam'i nuran",
+        "meaning": "O Allah, place light in my heart, light in my sight and light in my hearing.",
         "startTime": 0,
-        "endTime": 6
+        "endTime": 14
       },
       {
-        "arabic": "وَفِي سَمْعِي نُورًا وَفِي بَصَرِي نُورًا",
-        "transliteration": "Wa fi sam'i nuran wa fi basari nuran",
-        "meaning": "Light in my hearing and light in my sight",
-        "startTime": 6,
-        "endTime": 11
+        "arabic": "وَعَنْ يَمِينِي نُورًا وَعَنْ يَسَارِي نُورًا وَفَوْقِي نُورًا وَتَحْتِي نُورًا",
+        "transliteration": "Wa 'an yamini nuran wa 'an yasari nuran wa fawqi nuran wa tahti nuran",
+        "meaning": "Light to my right and left, above me and below me.",
+        "startTime": 14,
+        "endTime": 27
       },
       {
-        "arabic": "وَاجْعَلْ لِي نُورًا",
-        "transliteration": "Waj'al li nuran",
-        "meaning": "And grant me light",
-        "startTime": 11,
-        "endTime": 15
+        "arabic": "وَأَمَامِي نُورًا وَخَلْفِي نُورًا وَاجْعَلْ لِي نُورًا",
+        "transliteration": "Wa amami nuran wa khalfi nuran waj'al li nuran",
+        "meaning": "Light in front of me and behind me — and grant me complete light.",
+        "startTime": 27.5,
+        "endTime": 37
       }
     ],
-    "questions": [
-      {
-        "question": "Why ask for light in so many directions?",
-        "answer": "Because guidance must surround a believer completely.",
-        "explanation": "Light symbolizes clarity, faith, and protection."
+    "questions": [{
+        "question": "Why ask for light before the Fard prayer?",
+        "answer": "Because the heart must be illuminated before standing in obligation.",
+        "explanation": "Light prepares presence."
       },
       {
-        "question": "When did the Prophet ﷺ say this dua?",
-        "answer": "While going out for prayer after wudu.",
-        "explanation": "It prepared him spiritually before entering the masjid."
+        "question": "Why is the heart mentioned before the senses?",
+        "answer": "Because perception follows inner clarity.",
+        "explanation": "A lit heart guides sight and hearing."
       },
       {
-        "question": "What does light represent in this context?",
-        "answer": "Guidance, clarity, and divine assistance.",
-        "explanation": "It is both physical and spiritual illumination."
+        "question": "What spiritual state should this pause between prayers create?",
+        "answer": "A state of **intentional readiness and reliance**.",
+        "explanation": "It transforms a transition into preparation."
       }
     ],
     "whenToRead": {
       "inSalah": [],
       "outsideSalah": [
-        "After performing wudu",
-        "While walking to the masjid",
-        "Before Fajr prayer",
-        "Before entering congregational prayer"
+        "Between Sunnah and Fard of Fajr"
       ]
     }
   },
@@ -1097,60 +1063,6 @@
         "meaning": "Blessed are You, O Possessor of Majesty and Honor"
       }
     ]
-  }, {
-    "id": "dua-after-salah-2",
-    "categoryId": "after-salah",
-    "title": "🌿 La Ilaha Illallah Wahdahu – 100x Dhikr",
-    "arabicFull": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
-    "transliterationFull": "La ilaha illallahu wahdahu la sharika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli shay'in qadir.",
-    "translationFull": "**None has the right to be worshiped except Allah alone with no partner. To Him belongs dominion and praise, and He is over all things capable.**",
-    "source": "Sahih al-Bukhari 6403; Sahih Muslim 2691",
-    "grading": "Sahih",
-    "salahPositionCategories": [
-      "After Salah",
-      "General Dhikr"
-    ],
-    "benefits": [
-      "🌟 Equivalent to freeing slaves (when recited 100 times)",
-      "🤲 Erases sins and raises ranks",
-      "🕊️ Protection from Shaytan"
-    ],
-    "phrases": [{
-        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
-        "transliteration": "La ilaha illallahu wahdahu la sharika lah",
-        "meaning": "None worthy of worship except Allah alone with no partner"
-      },
-      {
-        "arabic": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
-        "transliteration": "Lahul mulku wa lahul hamdu wa huwa 'ala kulli shay'in qadir",
-        "meaning": "To Him belongs dominion and praise, and He is capable of all things"
-      }
-    ]
-  },
-  {
-    "id": "dua-after-salah-3",
-    "categoryId": "after-salah",
-    "title": "🌿 La Ilaha Illallah – He Gives Life and Death",
-    "arabicFull": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
-    "transliterationFull": "La ilaha illallahu wahdahu la sharika lah, lahul mulku wa lahul hamdu yuhyi wa yumit wa huwa 'ala kulli shay'in qadir.",
-    "translationFull": "**None has the right to be worshiped except Allah alone with no partner. To Him belongs dominion and praise. He gives life and causes death and He is capable of all things.**",
-    "source": "Jami` at-Tirmidhi 3474",
-    "grading": "Hasan Sahih",
-    "salahPositionCategories": [
-      "After Fajr",
-      "After Maghrib",
-      "General Dhikr"
-    ],
-    "benefits": [
-      "🌟 Protection and reward when recited after Fajr & Maghrib",
-      "🤲 Increases remembrance after prayer",
-      "🕊️ Affirms Allah’s absolute control over life and death"
-    ],
-    "phrases": [{
-      "arabic": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ",
-      "transliteration": "Lahul mulku wa lahul hamdu yuhyi wa yumit",
-      "meaning": "To Him belongs dominion and praise; He gives life and causes death"
-    }]
   },
   {
     "id": "dua-spouse-1",
@@ -2561,8 +2473,258 @@
         "🤲 Anytime seeking purity and protection"
       ]
     }
+  }, {
+    "id": "dua-ease-1",
+    "categoryId": "ease-hardship",
+    "title": "🌿 Rabbana Atina Min Ladunka Rahmah – Mercy & Right Guidance",
+    "intro":"The dua of Musa (AS), seeking inner expansion, clarity, and ease before facing a daunting mission.",
+    "arabicFull": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+    "transliterationFull": "Rabbana atina min ladunka rahmatan wa hayyi’ lana min amrina rashada.",
+    "translationFull": "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
+    "source": "Qur’an 18:10",
+    "story": "When the Youth of the Cave fled persecution, they sought refuge in a cave — but they did not rely on shelter alone. They asked Allah for **special mercy** and for their matter to be prepared with **right guidance**. They combined action with **complete trust in Allah**.",
+    "benefits": [
+      "🌧 Seeks **extraordinary mercy** during extraordinary hardship.",
+      "🧭 Requests **right direction**, not just relief.",
+      "🤲 Teaches combining effort with **tawakkul**.",
+      "✨ Strengthens belief that Allah prepares unseen solutions."
+    ],
+    "phrases": [{
+        "arabic": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً",
+        "transliteration": "Rabbana atina min ladunka rahmatan",
+        "meaning": "Our Lord, grant us from Yourself a special mercy ",
+        "startTime": 0,
+        "endTime": 5
+      },
+      {
+        "arabic": "وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+        "transliteration": "Wa hayyi’ lana min amrina rashada",
+        "meaning": "and prepare for us from our affair right guidance.",
+        "startTime": 5,
+        "endTime": 10
+      }
+    ],
+    "questions": [{
+        "question": "Why ask for mercy before guidance?",
+        "answer": "Because the heart needs **divine calm** before it can choose correctly.",
+        "explanation": "Mercy stabilizes the soul."
+      },
+      {
+        "question": "What does '**rashad**' teach about ease?",
+        "answer": "That true ease includes **correct direction**, not just escape.",
+        "explanation": "Guidance prevents future hardship."
+      },
+      {
+        "question": "What mindset does this dua build?",
+        "answer": "**Courage with reliance**.",
+        "explanation": "It blends effort and trust."
+      }
+    ]
+  },
+  {
+    "id": "dua-ease-2",
+    "categoryId": "ease-hardship",
+    "title": "🌿 Rabbi Ishrah Li Sadri – Expansion & Facilitation",
+    "intro":"The dua of Musa (AS), seeking inner expansion, clarity, and ease before facing a daunting mission.",
+    "arabicFull": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي",
+    "transliterationFull": "Rabbi ishrah li sadri wa yassir li amri wahlul ‘uqdatan min lisani yafqahu qawli.",
+    "translationFull": "My Lord, expand my chest for me, make my task easy for me, and untie the knot from my tongue so they may understand my speech.",
+    "source": "Qur’an 20:25–28",
+    "story": "Before confronting Pharaoh, Musa (AS) asked not for dominance — but for **inner expansion**, **ease in responsibility**, and clarity in speech. He understood that outer victory begins with **inner steadiness**.",
+    "benefits": [
+      "🫀 Seeks **emotional expansion** before facing challenges.",
+      "🛤 Requests Allah to **facilitate difficult tasks**.",
+      "🗣 Builds clarity and confidence.",
+      "✨ Teaches that strength flows from faith."
+    ],
+    "phrases": [{
+        "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي",
+        "transliteration": "Rabbi ishrah li sadri",
+        "meaning": "My Lord, expand my chest for me",
+        "startTime": 0,
+        "endTime": 3.4
+            },
+      {
+        "arabic": "وَيَسِّرْ لِي أَمْرِي",
+        "transliteration": "Wa yassir li amri",
+        "meaning": "make my task easy for me,",
+        "startTime": 3,
+        "endTime": 7
+      },
+      {
+        "arabic": "وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي",
+        "transliteration": "Wahlul ‘uqdatan min lisani yafqahu qawli",
+        "meaning": "and untie the knot from my tongue so they may understand my speech.",
+        "startTime": 7,
+        "endTime": 14
+      }
+    ],
+    "questions": [{
+        "question": "Why begin with chest expansion?",
+        "answer": "Because inner constriction magnifies hardship.",
+        "explanation": "Ease begins within."
+      },
+      {
+        "question": "What does this teach about preparation?",
+        "answer": "That spiritual readiness precedes success.",
+        "explanation": "Calm hearts perform better."
+      },
+      {
+        "question": "How does this dua change fear?",
+        "answer": "It replaces fear with **divine support**.",
+        "explanation": "Reliance builds courage."
+      }
+    ]
+  },
+  {
+    "id": "dua-ease-3",
+    "categoryId": "ease-hardship",
+    "title": "🌿 Allahumma La Sahla – Surrendering Ease to Allah",
+    "arabicFull": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+    "intro":"A profound declaration of surrender, affirming that nothing becomes easy except by Allah’s will.",
+    "transliterationFull": "Allahumma la sahla illa ma ja‘altahu sahlan wa anta taj‘alul hazna idha shi’ta sahlan.",
+    "translationFull": "O Allah, there is no ease except what You make easy, and You make difficulty easy if You will.",
+    "source": "Ibn Hibban 2427 (Sahih)",
+    "story": "This supplication is pure **surrender**. It acknowledges that ease does not come from intelligence, strength, or planning — but from Allah alone. What feels heavy can become light instantly by His will.",
+    "benefits": [
+      "🕊 Builds **complete reliance**.",
+      "🤍 Reduces anxiety through surrender.",
+      "🌅 Reinforces belief in divine power.",
+      "✨ Anchors the heart in humility."
+    ],
+    "phrases": [{
+        "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا",
+        "transliteration": "Allahumma la sahla illa ma ja‘altahu sahlan",
+        "meaning": "O Allah, there is no ease except what You make easy,",
+        "startTime": 0,
+        "endTime": 7
+      },
+      {
+        "arabic": "وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+        "transliteration": "Wa anta taj‘alul hazna idha shi’ta sahlan",
+        "meaning": "and You make difficulty easy if You will.",
+        "startTime": 7,
+        "endTime": 13
+      }
+    ],
+    "questions": [{
+        "question": "What does this dua teach about control?",
+        "answer": "That ultimate control belongs to Allah.",
+        "explanation": "Human effort is secondary."
+      },
+      {
+        "question": "How does surrender create relief?",
+        "answer": "It removes the burden of false control.",
+        "explanation": "Trust lightens the heart."
+      },
+      {
+        "question": "When should this be recited?",
+        "answer": "Before difficult tasks or overwhelming moments.",
+        "explanation": "It anchors success in divine will."
+      }
+    ]
+  },
+  {
+    "id": "dua-ease-4",
+    "categoryId": "ease-hardship",
+    "title": "🌿 La Ilaha Illallah Al-Halim Al-Karim – Words of Relief",
+    "intro":"Words the Prophet ﷺ recited in distress — anchoring the heart in Tawheed, divine greatness, and hope.",
+    "arabicFull": "لَا إِلَهَ إِلَّا اللَّهُ الْحَلِيمُ الْكَرِيمُ لَا إِلَهَ إِلَّا اللَّهُ الْعَلِيُّ الْعَظِيمُ لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْعَرْشِ الْعَظِيمِ",
+    "transliterationFull": "La ilaha illallahul-Halimul-Karim, la ilaha illallahul-‘Aliyyul-‘Azim, la ilaha illallah Rabbus-samawati wa Rabbul-‘Arshil-‘Azim.",
+    "translationFull": "There is no deity except Allah, the Most Forbearing, the Most Generous. There is no deity except Allah, the Most High, the Most Great. There is no deity except Allah, Lord of the heavens and Lord of the Magnificent Throne.",
+    "source": "Sahih al-Bukhari 6345; Sahih Muslim 2730",
+    "story": "The Prophet ﷺ would recite these words during **intense distress**.\n\nNotice — he did not begin with requests. He began with **Tawheed**.\n\nRepeating 'La ilaha illa Allah' three times anchors the heart in one truth: **ultimate control belongs to Allah alone**.\n\nBy mentioning **Al-Halim (The Forbearing)** and **Al-Karim (The Generous)**, the heart remembers that Allah is patient with our weakness and generous in relief.\n\nWhen Allah’s greatness fills the heart, fear begins to shrink.",
+    "benefits": [
+      "🕊 Centers the heart in **pure Tawheed** before seeking relief.",
+      "🤍 Builds hope through reflection on Allah’s **Forbearance and Generosity**.",
+      "🌌 Expands perspective by remembering the **Lord of the Great Throne**.",
+      "✨ Replaces panic with **awe and surrender**."
+    ],
+    "phrases": [{
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْحَلِيمُ الْكَرِيمُ",
+        "transliteration": "La ilaha illallahul-Halimul-Karim",
+        "meaning": "There is no deity except Allah, the Most Forbearing and the Most Generous.",
+        "startTime": 0,
+        "endTime": 6
+      },
+      {
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْعَلِيُّ الْعَظِيمُ",
+        "transliteration": "La ilaha illallahul-‘Aliyyul-‘Azim",
+        "meaning": "There is no deity except Allah, the Most High and the Most Great",
+        "startTime": 6,
+        "endTime": 12
+      },
+      {
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْعَرْشِ الْعَظِيمِ",
+        "transliteration": "La ilaha illallah Rabbus-samawati wa Rabbul-‘Arshil-‘Azim",
+        "meaning": "There is no deity except Allah, Lord of the heavens and Lord of the Magnificent Throne",
+        "startTime": 12,
+        "endTime": 20
+      }
+    ],
+    "questions": [{
+        "question": "Why repeat **La ilaha illa Allah** three times in distress?",
+        "answer": "To anchor the heart in **Tawheed before relief**.",
+        "explanation": "Recognition of Allah’s Oneness stabilizes the soul."
+      },
+      {
+        "question": "How do the names **Al-Halim** and **Al-Karim** provide comfort?",
+        "answer": "They remind us that Allah is patient with our flaws and generous in granting ease.",
+        "explanation": "Hope grows through His names."
+      },
+      {
+        "question": "What transformation should this dhikr create?",
+        "answer": "A shift from panic to **awe-filled surrender**.",
+        "explanation": "When Allah is magnified, problems feel smaller."
+      }
+    ]
+  },
+  {
+    "id": "dua-ease-5",
+    "categoryId": "ease-hardship",
+    "title": "🌿 Allahumma Ahsin ‘Aqibatana – A Beautiful End in All Affairs",
+    "arabicFull": "اللَّهُمَّ أَحْسِنْ عَاقِبَتَنَا فِي الْأُمُورِ كُلِّهَا وَأَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الْآخِرَةِ",
+    "intro":"A comprehensive dua asking not just for relief, but for a beautiful ending in all affairs and protection in both worlds.",
+    "transliterationFull": "Allahumma ahsin ‘aqibatana fil-umuri kulliha wa ajirna min khizyid-dunya wa ‘adhabil-akhirah.",
+    "translationFull": "O Allah, grant us a good end in all of our affairs and protect us from humiliation in this world and punishment in the Hereafter.",
+    "source": "Musnad Ahmad 17163 (Hasan)",
+    "story": "This supplication shifts focus from temporary comfort to **ultimate outcomes**.\n\nInstead of asking only for immediate ease, it asks for a **beautiful conclusion** to every matter.\n\nSome hardships may remain — but what matters most is how they end.\n\nTrue ease is not just comfort today — it is being saved from **worldly humiliation** and **eternal punishment**.\n\nIt is a dua of long vision — of someone who measures life by the **akhirah**.",
+    "benefits": [
+      "🌅 Builds perspective beyond short-term relief.",
+      "🤍 Aligns priorities with the **Hereafter**.",
+      "🛡 Seeks protection from humiliation in this life and loss in the next.",
+      "✨ Encourages decisions guided by eternal success."
+    ],
+    "phrases": [{
+        "arabic": "اللَّهُمَّ أَحْسِنْ عَاقِبَتَنَا فِي الْأُمُورِ كُلِّهَا",
+        "transliteration": "Allahumma ahsin ‘aqibatana fil-umuri kulliha",
+        "meaning": "O Allah, grant us a good end in all of our affairs",
+        "startTime": 0,
+        "endTime": 6.4
+      },
+      {
+        "arabic": "وَأَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الْآخِرَةِ",
+        "transliteration": "Wa ajirna min khizyid-dunya Wa ‘adhabil-akhirah",
+        "meaning": "and protect us from humiliation in this world  and punishment in the Hereafter",
+        "startTime": 6,
+        "endTime": 11
+      }
+    ],
+    "questions": [{
+        "question": "Why ask for a good ending instead of immediate relief?",
+        "answer": "Because outcomes matter more than temporary comfort.",
+        "explanation": "Ease is defined by how matters conclude."
+      },
+      {
+        "question": "What does protection from **khizyi-dunya** teach?",
+        "answer": "That true honor and dignity come from Allah.",
+        "explanation": "Worldly humiliation is worse when faith is weak."
+      },
+      {
+        "question": "How does this dua reshape hardship?",
+        "answer": "It shifts focus from present pain to **eternal success**.",
+        "explanation": "The believer measures life by akhirah standards."
+      }
+    ]
   }
-
-
-
 ]

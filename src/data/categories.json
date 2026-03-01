@@ -8,6 +8,6 @@
   {"id":"children","title":"Children","description":"Duas for one's children.","slug":"children"},
   {"id":"spouse","title":"Spouse","description":"Duas for one's spouse.","slug":"spouse"},
   {"id":"in-salah","title":"In Salah","description":"Duas recited during prayer.","slug":"in-salah"},
-  {"id":"while-going-to-masjid","title":"While Going to Masjid","description":"Duas to recite on the way to the mosque.","slug":"while-going-to-masjid"},
-  {"id":"after-salah","title":"After Salah","description":"Duas to recite after prayer.","slug":"after-salah"}
+  {"id":"after-salah","title":"After Salah","description":"Duas to recite after prayer.","slug":"after-salah"},
+  {"id":"ease-hardship","title":"Ease and Relief from Hardship","description":"Duas for ease, relief, and removal of difficulty.","slug":"ease-hardship"}
 ]
