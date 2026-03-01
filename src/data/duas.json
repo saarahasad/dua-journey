@@ -1041,28 +1041,60 @@
     "title": "🌿 Allahumma Antas-Salam – Peace After Prayer",
     "arabicFull": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
     "transliterationFull": "Allahumma antas-salam wa minkas-salam, tabarakta ya dhal-jalali wal-ikram.",
-    "translationFull": "**O Allah, You are Peace and from You comes peace. Blessed are You, O Possessor of Majesty and Honor.**",
+    "translationFull": "O Allah, You are Peace and from You comes peace. Blessed are You, O Possessor of Majesty and Honor.",
+    "intro": "A beautiful supplication recited immediately after concluding salah — acknowledging that true peace comes only from Allah.",
+    "story": "When the Prophet ﷺ completed his prayer and turned to the people, he would say: **'Allahumma antas-salam wa minkas-salam…'** (Sahih Muslim 591).\n\nAfter standing in humility, bowing in submission, and prostrating in surrender — he ended by affirming one reality: **Allah is Peace**.\n\nSalah itself is a journey toward tranquility. And as soon as it ends, the believer declares that peace was never from the posture, the recitation, or the environment — it was always from **Allah alone**.\n\nThis dua seals the prayer with recognition of Allah’s **Majesty (Jalal)** and **Honor (Ikram)**.\n\nIt reminds the heart that serenity does not come from circumstances — it flows from the One who is As-Salam.",
     "source": "Sahih Muslim 591",
     "grading": "Sahih",
     "salahPositionCategories": [
       "Immediately After Salam"
     ],
     "benefits": [
-      "🌟 Closes prayer with recognition of Allah’s perfection",
-      "🤍 Reinforces inner tranquility",
-      "🕊️ Direct Sunnah practice after every obligatory prayer"
+      "🌟 Closes prayer with recognition of Allah’s **perfection and peace**.",
+      "🤍 Reinforces inner **tranquility after worship**.",
+      "🕊️ Reminds the heart that peace originates from **Allah alone**.",
+      "✨ Transitions the soul gently from sacred space back into daily life.",
+      "🌌 Strengthens awareness of Allah’s **Majesty and Honor**."
     ],
-    "phrases": [{
+    "phrases": [
+      {
         "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ",
         "transliteration": "Allahumma antas-salam wa minkas-salam",
-        "meaning": "O Allah, You are Peace and from You comes peace"
+        "meaning": "O Allah, You are Peace itself, and from You alone comes every form of peace and safety.",
+        "startTime": 0,
+        "endTime": 6.4
       },
       {
         "arabic": "تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
         "transliteration": "Tabarakta ya dhal-jalali wal-ikram",
-        "meaning": "Blessed are You, O Possessor of Majesty and Honor"
+        "meaning": "Blessed and exalted are You, O Possessor of Majesty and Honor.",
+        "startTime": 6.4,
+        "endTime":11
       }
-    ]
+    ],
+    "questions": [
+      {
+        "question": "Why affirm that Allah is **As-Salam** immediately after prayer?",
+        "answer": "Because true peace is not created by us — it is granted by Allah.",
+        "explanation": "Prayer reconnects us to the Source of serenity."
+      },
+      {
+        "question": "What does saying '**minkas-salam**' teach about inner calm?",
+        "answer": "That all safety, security, and emotional stability come from Allah alone.",
+        "explanation": "It shifts reliance away from worldly causes."
+      },
+      {
+        "question": "Why end with '**Dhal-Jalali wal-Ikram**'?",
+        "answer": "To balance awe of His Majesty with gratitude for His generosity.",
+        "explanation": "Peace flows from recognizing both His greatness and His mercy."
+      }
+    ],
+    "whenToRead": {
+      "inSalah": [
+        "Immediately after completing the obligatory prayer (after taslim)"
+      ],
+      "outsideSalah": []
+    }
   },
   {
     "id": "dua-spouse-1",
