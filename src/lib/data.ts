@@ -81,7 +81,7 @@ export function getSalahPositionCategories(categoryId: string): string[] {
     if (d.categoryId !== "in-salah" || !d.salahPositionCategories) continue;
     for (const pos of d.salahPositionCategories) seen.add(pos);
   }
-  return [...seen].sort(
+  return Array.from(seen).sort(
     (a, b) =>
       (SALAH_POSITION_ORDER.indexOf(a) === -1 ? 999 : SALAH_POSITION_ORDER.indexOf(a)) -
       (SALAH_POSITION_ORDER.indexOf(b) === -1 ? 999 : SALAH_POSITION_ORDER.indexOf(b))
