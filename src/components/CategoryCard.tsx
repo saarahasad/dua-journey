@@ -1,7 +1,18 @@
 import Link from "next/link";
 import type { Category } from "@/lib/data";
+import praiseIcon from "@/assets/icons/praise.png";
+import salawatIcon from "@/assets/icons/salawat.png";
+import knowledgeIcon from "@/assets/icons/knowledge.png";
+import faithIcon from "@/assets/icons/faith.png";
+import decreeIcon from "@/assets/icons/decree.png";
+import parentsIcon from "@/assets/icons/parents.png";
+import childrenIcon from "@/assets/icons/children.png";
+import spouseIcon from "@/assets/icons/spouse.png";
+import insalahIcon from "@/assets/icons/insalah.png";
+import aftersalahIcon from "@/assets/icons/aftersalah.png";
+import easeIcon from "@/assets/icons/ease.png";
 
-/** Map category id to icon filename in public/icons/ (no .png) */
+/** Map category id to icon filename (no .png) */
 const CATEGORY_ICON_FILE: Record<string, string> = {
   praise: "praise",
   salawat: "salawat",
@@ -16,15 +27,30 @@ const CATEGORY_ICON_FILE: Record<string, string> = {
   "ease-hardship": "ease",
 };
 
+const ICON_SRC: Record<string, string> = {
+  praise: praiseIcon.src,
+  salawat: salawatIcon.src,
+  knowledge: knowledgeIcon.src,
+  faith: faithIcon.src,
+  decree: decreeIcon.src,
+  parents: parentsIcon.src,
+  children: childrenIcon.src,
+  spouse: spouseIcon.src,
+  insalah: insalahIcon.src,
+  aftersalah: aftersalahIcon.src,
+  ease: easeIcon.src,
+};
+
 export function CategoryCard({ category }: { category: Category }) {
   const iconFile = CATEGORY_ICON_FILE[category.id];
+  const iconSrc = iconFile ? ICON_SRC[iconFile] : null;
   return (
     <Link href={`/category/${category.slug}`} className="tap-scale category-card">
       <span className="category-card-icon category-card-icon-img" aria-hidden>
-        {iconFile ? (
+        {iconSrc ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
-            src={`/icons/${iconFile}.png`}
+            src={iconSrc}
             alt=""
             width={40}
             height={40}

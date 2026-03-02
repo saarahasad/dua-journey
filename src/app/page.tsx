@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <main className="min-h-screen">
       <div className="mx-auto max-w-md px-5 py-10">
-        <header className="mb-10">
+        <header className="mb-5">
           <div className="hero-card">
             <p
               className="hero-arabic font-uthmanic text-center font-bold"
