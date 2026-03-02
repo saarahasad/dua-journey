@@ -181,7 +181,7 @@
       },
 
       {
-        "arabicFull": " وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "arabic": "وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
         "transliteration": " wa shukrika wa husni 'ibadatika",
         "meaning": "**And to thank You, and worship You in the best manner.**",
         "startTime": 4.8,
@@ -652,7 +652,7 @@
         "transliteration": "Hamdan kathiran tayyiban mubarakan fih",
         "meaning": "Abundant, pure and blessed praise",
         "startTime": 4,
-        "endTime": 10
+        "endTime": 9
       }
     ],
     "questions": [{
@@ -684,56 +684,65 @@
   {
     "id": "dua-insalah-10",
     "categoryId": "in-salah",
-    "title": "🌿 Subhanallahi wa bihamdihi – Constant Repentance",
+    "title": "🌿 Subhanallahi wa bihamdihi – Glorification & Return",
     "arabicFull": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
     "transliterationFull": "Subhanallahi wa bihamdihi, astaghfirullaha wa atubu ilayh.",
     "translationFull": "Glory be to Allah and praise Him. I seek Allah’s forgiveness and repent to Him.",
-    "intro": "A dhikr frequently recited by the Prophet ﷺ, especially toward the end of his life.",
-    "story": "Aishah (RA) reported that the Prophet ﷺ would often say: \n\n'Subhanallahi wa bihamdihi, astaghfirullaha wa atubu ilayh.' (Bukhari 6307; Muslim 2702)\n\nAfter Surah An-Nasr was revealed, he increased in glorification and repentance — even though he was already forgiven.",
+    "intro": "A profound dhikr combining glorification, forgiveness, and sincere return — frequently recited by the Prophet ﷺ, especially toward the end of his life.",
+    "story": "Aishah (RA) reported that the Prophet ﷺ would often say: \n\n'Subhanallahi wa bihamdihi, astaghfirullaha wa atubu ilayh.' (Sahih al-Bukhari 6307; Sahih Muslim 2702)\n\nAfter Surah An-Nasr was revealed — signaling the completion of his mission — he increased in **glorification and repentance**, even though his past and future sins were forgiven.\n\nThis teaches something profound:\nThe closer a servant comes to success, the more they turn to **humility**.\n\n'**Subhanallah**' clears Allah of all imperfection.\n'**Wa bihamdihi**' fills the heart with praise.\n'**Astaghfirullah**' admits personal shortcomings.\n'**Wa atubu ilayh**' commits to long-term return.\n\nIt is not just apology — it is **continuous spiritual realignment**.",
     "source": "Sahih al-Bukhari 6307; Sahih Muslim 2702",
     "grading": "Sahih",
     "salahPositionCategories": [
-      "Additional Supplications"
+      "Additional Supplications",
+      "In Ruku",
+      "In Sujood"
     ],
     "benefits": [
-      "🌿 Erases sins when recited abundantly",
-      "🤲 Trains constant repentance",
-      "🕊️ Combines praise with forgiveness",
-      "✨ Follows prophetic practice near the end of his life"
+      "🌿 Erases sins when recited abundantly with sincerity.",
+      "🤲 Combines **Tasbeeh (glorification)** with **Istighfar (seeking pardon)**.",
+      "🤍 Strengthens the habit of **continuous Tawbah (returning to Allah)**.",
+      "🕊 Prevents arrogance during success by increasing humility.",
+      "✨ Aligns the heart through praise before seeking forgiveness."
     ],
-    "phrases": [{
+    "phrases": [
+      {
         "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
         "transliteration": "Subhanallahi wa bihamdihi",
         "meaning": "Glory be to Allah and praise Him",
         "startTime": 0,
-        "endTime": 5
+        "endTime": 4
       },
       {
         "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
         "transliteration": "Astaghfirullaha wa atubu ilayh",
-        "meaning": "I seek Allah’s forgiveness and repent to Him",
+        "meaning": "I seek forgiveness from Allah and I repent to Him.",
         "startTime": 5,
-        "endTime": 10
+        "endTime": 18
       }
     ],
-    "questions": [{
-        "question": "Why did the Prophet ﷺ increase in this dhikr near the end of his life?",
-        "answer": "Because Surah An-Nasr instructed glorification and seeking forgiveness.",
-        "explanation": "It reflects obedience even at the peak of success."
+    "questions": [
+      {
+        "question": "Why did the Prophet ﷺ increase in this dhikr after victory and success?",
+        "answer": "Because success requires **greater humility**, not pride.",
+        "explanation": "Spiritual elevation increases awareness of dependence on Allah."
       },
       {
-        "question": "What two acts are combined in this dhikr?",
-        "answer": "Glorification and repentance.",
-        "explanation": "Tasbeeh softens the heart; istighfar purifies it."
+        "question": "What is the difference between **Istighfar** and **Tawbah**?",
+        "answer": "Istighfar asks for forgiveness; Tawbah commits to return and reform.",
+        "explanation": "One seeks pardon — the other seeks transformation."
       },
       {
-        "question": "What does this teach about spiritual growth?",
-        "answer": "The closer you are to Allah, the more you seek forgiveness.",
-        "explanation": "Awareness increases humility."
+        "question": "Why combine praise before seeking forgiveness?",
+        "answer": "Because recognizing Allah’s perfection softens the heart before admitting personal imperfection.",
+        "explanation": "Glorification prepares the soul for sincere repentance."
       }
     ],
     "whenToRead": {
-      "inSalah": [],
+      "inSalah": [
+        "In Ruku",
+        "In Sujood",
+        "Additional voluntary supplications"
+      ],
       "outsideSalah": [
         "After obligatory prayers",
         "During daily dhikr",
@@ -769,21 +778,21 @@
         "transliteration": "Allahummaghfir li dhanbi kullahu",
         "meaning": "O Allah, forgive all my sins",
         "startTime": 0,
-        "endTime": 5
+        "endTime": 6
       },
       {
         "arabic": "دِقَّهُ وَجِلَّهُ وَأَوَّلَهُ وَآخِرَهُ وَعَلَانِيَتَهُ وَسِرَّهُ",
         "transliteration": "Diqqahu wa jillahu wa awwalahu wa akhirahu wa 'alaniyatahu wa sirrahu",
         "meaning": "Small and great, first and last, open and secret",
-        "startTime": 5,
+        "startTime": 6,
         "endTime": 14
       }
     ],
     "questions": [{
-        "question": "Why list multiple categories of sin?",
-        "answer": "To ensure nothing is excluded from repentance.",
-        "explanation": "It prevents selective remorse."
-      },
+      "question": "What do the different categories of sin in this dua represent?",
+      "answer": "They cover every possible dimension of wrongdoing — small and major, past and recent, public and hidden.",
+      "explanation": "“Diqqahu” refers to minor sins, “jillahu” to major sins. “Awwalahu wa akhirahu” includes past and present actions. “Alaniyatahu wa sirrahu” covers what is done openly and what is concealed. The dua leaves no area of life outside repentance."
+    },
       {
         "question": "When is the best time to say this?",
         "answer": "In sujood or before salam.",
@@ -831,14 +840,14 @@
         "transliteration": "Allahummaghfir li warhamni",
         "meaning": "O Allah forgive me and have mercy on me",
         "startTime": 0,
-        "endTime": 5
+        "endTime":5.5
       },
       {
         "arabic": "وَعَافِنِي وَاهْدِنِي وَارْزُقْنِي",
         "transliteration": "Wa 'afini wahdini warzuqni",
         "meaning": "Grant me well-being, guide me and provide for me",
-        "startTime": 5,
-        "endTime": 12
+        "startTime": 5.5,
+        "endTime": 9
       }
     ],
     "questions": [{
@@ -890,14 +899,14 @@
         "transliteration": "Allahumma inni a'udhu bika min 'adhabi jahannam wa min 'adhabil qabr",
         "meaning": "O Allah, I seek refuge in You from Hell and the punishment of the grave",
         "startTime": 0,
-        "endTime": 8
+        "endTime": 12
       },
       {
         "arabic": "وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
         "transliteration": "Wa min fitnatil mahya wal mamat wa min sharri fitnatil masihid-dajjal",
         "meaning": "From the trials of life and death and from the trial of the False Messiah",
-        "startTime": 8,
-        "endTime": 16
+        "startTime": 12,
+        "endTime": 22
       }
     ],
     "questions": [{
@@ -939,19 +948,20 @@
       "🕊 Models humility of the greatest companion",
       "✨ Balances fear and hope"
     ],
-    "phrases": [{
-        "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا",
-        "transliteration": "Allahumma inni zalamtu nafsi zulman kathiran",
-        "meaning": "O Allah, I have greatly wronged myself",
+    "phrases": [
+      {
+        "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+        "transliteration": "Allahumma inni zalamtu nafsi zulman kathiran wa la yaghfirudh-dhunuba illa ant",
+        "meaning": "O Allah, I have greatly wronged myself, and none forgives sins except You — acknowledging personal fault and affirming that forgiveness belongs to You alone.",
         "startTime": 0,
-        "endTime": 6
+        "endTime": 14
       },
       {
-        "arabic": "فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي",
-        "transliteration": "Faghfir li maghfiratan min 'indika warhamni",
-        "meaning": "Forgive me with forgiveness from You and have mercy on me",
-        "startTime": 6,
-        "endTime": 13
+        "arabic": "فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+        "transliteration": "Faghfir li maghfiratan min 'indika warhamni, innaka antal-ghafurur-rahim",
+        "meaning": "So forgive me with a forgiveness from You and have mercy upon me — for You are the Most Forgiving, the Most Merciful.",
+        "startTime": 14,
+        "endTime": 26
       }
     ],
     "questions": [{

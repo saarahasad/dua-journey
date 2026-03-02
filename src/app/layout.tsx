@@ -12,8 +12,8 @@ const amiri = Amiri({
 });
 
 export const metadata: Metadata = {
-  title: "Dua Journey",
-  description: "Memorise duas through guided presentation-style learning",
+  title: "Indeed, I Am Near | Dua Journey",
+  description: "When My servants ask about Me, surely I am near. Memorise duas through guided presentation-style learning.",
 };
 
 export const viewport: Viewport = {
@@ -38,6 +38,11 @@ export default function RootLayout({
             backgroundSize: "auto",
             opacity: 1,
           }}
+          aria-hidden
+        />
+        <div
+          className="fixed inset-0 -z-10 min-h-[100dvh] w-full min-w-full pointer-events-none"
+      
           aria-hidden
         />
         <ToastProvider>{children}</ToastProvider>
