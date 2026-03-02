@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import type { Category } from "@/lib/data";
 
 /** Map category id to icon filename in public/icons/ (no .png) */
@@ -23,12 +22,13 @@ export function CategoryCard({ category }: { category: Category }) {
     <Link href={`/category/${category.slug}`} className="tap-scale category-card">
       <span className="category-card-icon category-card-icon-img" aria-hidden>
         {iconFile ? (
-          <Image
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
             src={`/icons/${iconFile}.png`}
             alt=""
             width={40}
             height={40}
-            className="object-contain"
+            className="category-card-icon-img object-contain w-10 h-10"
           />
         ) : (
           <span className="h-2 w-2 rounded-full bg-slate-400" />
