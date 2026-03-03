@@ -438,7 +438,72 @@
       "outsideSalah": []
     }
   },
-
+  {
+    "id": "dua-insalah-5",
+    "categoryId": "in-salah",
+    "title": "🌿 Allahumma Ba'id Bayni – Opening Supplication of Purification",
+    "arabicFull": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ اللَّهُمَّ نَقِّنِي مِنَ الْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ اللَّهُمَّ اغْسِلْ خَطَايَايَ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ",
+    "transliterationFull": "Allahumma ba'id bayni wa bayna khatayaya kama ba'adta baynal-mashriqi wal-maghrib. Allahumma naqqini minal-khataya kama yunaqqa ath-thawbul-abyadu minad-danas. Allahummaghhsil khatayaya bil-ma'i wath-thalji wal-barad.",
+    "translationFull": "O Allah, distance me from my sins as You have distanced the East from the West. O Allah, purify me of my sins as a white garment is purified from dirt. O Allah, wash away my sins with water, snow, and ice.",
+    "intro": "One of the opening supplications recited after Takbir al-Ihram before Surah al-Fatiha.",
+    "story": "Abu Hurairah (RA) reported that the Prophet ﷺ would remain silent briefly after the opening Takbir before recitation. When asked what he said during that pause, he recited this supplication. (Sahih al-Bukhari 744; Sahih Muslim 598)",
+    "source": "Sahih al-Bukhari 744; Sahih Muslim 598",
+    "grading": "Sahih",
+    "salahPositionCategories": [
+      "Opening Supplication (after Takbir, before Fatiha)"
+    ],
+    "benefits": [
+      "🌿 Begins prayer with repentance and purification",
+      "🤍 Prepares the heart before Qur'an recitation",
+      "🕊️ Emphasizes distance from sin before standing before Allah"
+    ],
+    "phrases": [{
+        "arabic": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ",
+        "transliteration": "Allahumma ba'id bayni wa bayna khatayaya kama ba'adta baynal-mashriqi wal-maghrib",
+        "meaning": "O Allah, distance me from my sins as You have distanced the East from the West",
+        "startTime": 0,
+        "endTime": 10
+      },
+      {
+        "arabic": "اللَّهُمَّ نَقِّنِي مِنَ الْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ",
+        "transliteration": "Allahumma naqqini minal-khataya kama yunaqqa ath-thawbul-abyadu minad-danas",
+        "meaning": "O Allah, purify me from sins as a white garment is purified from dirt",
+        "startTime": 10,
+        "endTime": 20
+      },
+      {
+        "arabic": "اللَّهُمَّ اغْسِلْ خَطَايَايَ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ",
+        "transliteration": "Allahummaghhsil khatayaya bil-ma'i wath-thalji wal-barad",
+        "meaning": "O Allah, wash my sins with water, snow and ice",
+        "startTime": 20,
+        "endTime": 27
+      }
+    ],
+    "questions": [{
+        "question": "When is this dua recited in prayer?",
+        "answer": "After Takbir al-Ihram and before Surah al-Fatiha.",
+        "explanation": "It is one of the reported opening supplications."
+      },
+      {
+        "question": "Why compare sin distance to East and West?",
+        "answer": "To express complete and permanent separation.",
+        "explanation": "The East and West never meet."
+      },
+      {
+        "question": "Why mention water, snow, and ice?",
+        "answer": "They symbolize deep and thorough purification.",
+        "explanation": "Cold elements metaphorically extinguish the heat of sin."
+      }
+    ],
+    "whenToRead": {
+      "inSalah": [
+        "Immediately after Takbir al-Ihram",
+        "Before reciting Surah Al-Fatiha",
+        "In voluntary and obligatory prayers"
+      ],
+      "outsideSalah": []
+    }
+  },
   {
     "id": "dua-insalah-6",
     "categoryId": "in-salah",
@@ -704,8 +769,7 @@
       "🕊 Prevents arrogance during success by increasing humility.",
       "✨ Aligns the heart through praise before seeking forgiveness."
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
         "transliteration": "Subhanallahi wa bihamdihi",
         "meaning": "Glory be to Allah and praise Him",
@@ -720,8 +784,7 @@
         "endTime": 18
       }
     ],
-    "questions": [
-      {
+    "questions": [{
         "question": "Why did the Prophet ﷺ increase in this dhikr after victory and success?",
         "answer": "Because success requires **greater humility**, not pride.",
         "explanation": "Spiritual elevation increases awareness of dependence on Allah."
@@ -789,10 +852,10 @@
       }
     ],
     "questions": [{
-      "question": "What do the different categories of sin in this dua represent?",
-      "answer": "They cover every possible dimension of wrongdoing — small and major, past and recent, public and hidden.",
-      "explanation": "“Diqqahu” refers to minor sins, “jillahu” to major sins. “Awwalahu wa akhirahu” includes past and present actions. “Alaniyatahu wa sirrahu” covers what is done openly and what is concealed. The dua leaves no area of life outside repentance."
-    },
+        "question": "What do the different categories of sin in this dua represent?",
+        "answer": "They cover every possible dimension of wrongdoing — small and major, past and recent, public and hidden.",
+        "explanation": "“Diqqahu” refers to minor sins, “jillahu” to major sins. “Awwalahu wa akhirahu” includes past and present actions. “Alaniyatahu wa sirrahu” covers what is done openly and what is concealed. The dua leaves no area of life outside repentance."
+      },
       {
         "question": "When is the best time to say this?",
         "answer": "In sujood or before salam.",
@@ -840,7 +903,7 @@
         "transliteration": "Allahummaghfir li warhamni",
         "meaning": "O Allah forgive me and have mercy on me",
         "startTime": 0,
-        "endTime":5.5
+        "endTime": 5.5
       },
       {
         "arabic": "وَعَافِنِي وَاهْدِنِي وَارْزُقْنِي",
@@ -948,8 +1011,7 @@
       "🕊 Models humility of the greatest companion",
       "✨ Balances fear and hope"
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
         "transliteration": "Allahumma inni zalamtu nafsi zulman kathiran wa la yaghfirudh-dhunuba illa ant",
         "meaning": "O Allah, I have greatly wronged myself, and none forgives sins except You — acknowledging personal fault and affirming that forgiveness belongs to You alone.",
@@ -1066,8 +1128,7 @@
       "✨ Transitions the soul gently from sacred space back into daily life.",
       "🌌 Strengthens awareness of Allah’s **Majesty and Honor**."
     ],
-    "phrases": [
-      {
+    "phrases": [{
         "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ",
         "transliteration": "Allahumma antas-salam wa minkas-salam",
         "meaning": "O Allah, You are Peace itself, and from You alone comes every form of peace and safety.",
@@ -1079,11 +1140,10 @@
         "transliteration": "Tabarakta ya dhal-jalali wal-ikram",
         "meaning": "Blessed and exalted are You, O Possessor of Majesty and Honor.",
         "startTime": 6.4,
-        "endTime":11
+        "endTime": 11
       }
     ],
-    "questions": [
-      {
+    "questions": [{
         "question": "Why affirm that Allah is **As-Salam** immediately after prayer?",
         "answer": "Because true peace is not created by us — it is granted by Allah.",
         "explanation": "Prayer reconnects us to the Source of serenity."
@@ -1832,7 +1892,7 @@
     "id": "dua-faith-5",
     "categoryId": "faith",
     "title": "Rabbana Waj'alna Muslimayn – Dua of Ibrahim (AS)",
-    "arabicFull": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "arabicFull": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
     "transliterationFull": "Rabbana waj'alna muslimayni laka wa min dhurriyyatina ummatan muslimatan laka wa arina manasikana wa tub 'alayna innaka Antat-Tawwabur-Rahim.",
     "translationFull": "Our Lord, make us submissive to You and from our descendants a nation submissive to You. Show us our rites and accept our repentance. Indeed, You are the Accepting of Repentance, the Most Merciful.",
     "intro": "A Qur'anic dua for submission, righteous legacy, and sincere repentance.",
@@ -2342,7 +2402,7 @@
     "id": "dua-children-4",
     "categoryId": "children",
     "title": "🌿 Rabbi Ij‘alni Muqim As-Salah – Make Me and My Children Steadfast in Prayer",
-    "arabicFull": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+    "arabicFull": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ ",
     "transliterationFull": "Rabbi ij'alni muqim as-salah wa min dhurriyyati. Rabbana wa taqabbal du'a.",
     "translationFull": "My Lord, make me an establisher of prayer, and from my offspring as well. Our Lord, and accept my supplication.",
     "intro": "🤍 A profound Qur’anic dua for steadfastness in prayer across generations.",
@@ -2361,7 +2421,7 @@
         "endTime": 7
       },
       {
-        "arabic": "رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+        "arabic": "رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
         "transliteration": "Rabbana wa taqabbal du'a",
         "meaning": "Our Lord, and accept my supplication",
         "startTime": 7,
@@ -2466,60 +2526,70 @@
     "id": "dua-children-6",
     "categoryId": "children",
     "title": "🌿 Allahumma Ighfir Dhanbahu – Dua for a Child’s Purity",
-    "arabicFull": "اللَّهُمَّ اغْفِرْ ذَنْبَهُ وَطَهِّرْ قَلْبَهُ وَحَصِّنْ فَرْجَهُ",
-    "transliterationFull": "Allahumma ighfir dhanbahu wa tahhir qalbahu wa hassin farjahu.",
-    "translationFull": "O Allah, forgive his sin, purify his heart, and guard his chastity.",
-    "intro": "🤍 A powerful prophetic dua for protecting a child’s heart and chastity.",
-    "story": "📖 A young man once approached the Prophet ﷺ struggling with desire.\n\nThe Prophet ﷺ advised him gently, placed his hand on his chest, and made this dua for him.\n\nAfter this supplication, the young man said that nothing was more disliked to him than immorality.\n\nThis narration is recorded in Musnad Ahmad and is authentic.\n\nIt shows that purification begins with forgiveness, then cleansing of the heart, and finally protection of actions.",
+    "arabicFull": "اللَّهُمَّ اغْفِرْ ذَنْبَهُ وَطَهِّرْ قَلْبَهُ وَحَصِّنْ فَرْجَهُ اللَّهُمَّ اهْدِ قَلْبَهُ اللَّهُمَّ اشْفِ قَلْبَهُ",
+    "transliterationFull": "Allahumma ighfir dhanbahu wa tahhir qalbahu wa hassin farjahu. Allahumma ihdi qalbahu. Allahumma ishfi qalbahu.",
+    "translationFull": "O Allah, forgive his sin, purify his heart, and guard his chastity. O Allah, guide his heart. O Allah, heal his heart.",
+    "intro": "🤍 A powerful prophetic dua for protecting a child’s heart, guidance, and chastity.",
+    "story": "📖 A young man approached the Prophet ﷺ struggling with desire. The Prophet ﷺ advised him gently, placed his hand on his chest, and made this supplication for him.\n\nAfter this dua, the young man said that nothing was more disliked to him than immorality.\n\nThis narration is recorded in Musnad Ahmad (22211) and is authentic.\n\nThe supplication progresses beautifully: forgiveness → purification → protection → guidance → healing.",
+    "source": "Musnad Ahmad 22211",
+    "grading": "Sahih",
     "benefits": [
-      "🛡 Protects children from immorality",
-      "💛 Purifies the heart from harmful desires",
-      "🤲 Combines forgiveness with character reform",
-      "👶 Sunnah-based dua for safeguarding youth"
+      "🛡 Protects youth from immorality",
+      "💛 Purifies and heals the heart",
+      "🧭 Seeks divine guidance for inner reform",
+      "🤲 Combines forgiveness with character transformation"
     ],
-    "phrases": [{
-        "arabic": "اللَّهُمَّ",
-        "transliteration": "Allahumma",
-        "meaning": "O Allah"
+    "phrases": [
+      {
+        "arabic": "اللَّهُمَّ اغْفِرْ ذَنْبَهُ وَطَهِّرْ قَلْبَهُ وَحَصِّنْ فَرْجَهُ",
+        "transliteration": "Allahumma ighfir dhanbahu wa tahhir qalbahu wa hassin farjahu",
+        "meaning": "O Allah, forgive his sin, purify his heart and guard his chastity",
+        "startTime": 0,
+        "endTime": 10
       },
       {
-        "arabic": "اغْفِرْ ذَنْبَهُ وَطَهِّرْ قَلْبَهُ وَحَصِّنْ فَرْجَهُ",
-        "transliteration": "Ighfir dhanbahu wa tahhir qalbahu wa hassin farjahu",
-        "meaning": "Forgive his sin, purify his heart, and guard his chastity"
+        "arabic": "اللَّهُمَّ اهْدِ قَلْبَهُ",
+        "transliteration": "Allahumma ihdi qalbahu",
+        "meaning": "O Allah, guide his heart",
+        "startTime": 10,
+        "endTime": 14
+      },
+      {
+        "arabic": "اللَّهُمَّ اشْفِ قَلْبَهُ",
+        "transliteration": "Allahumma ishfi qalbahu",
+        "meaning": "O Allah, heal his heart",
+        "startTime": 14,
+        "endTime": 18
       }
     ],
-    "questions": [{
-        "question": "What does this dua focus on first?",
-        "answer": "Forgiveness of sin.",
-        "explanation": "Spiritual reform begins with Allah’s forgiveness."
+    "questions": [
+      {
+        "question": "What is the sequence of transformation in this dua?",
+        "answer": "Forgiveness → purification → protection → guidance → healing.",
+        "explanation": "It addresses both sin and its spiritual root."
       },
       {
-        "question": "Why is purification of the heart mentioned?",
-        "answer": "Because actions follow the condition of the heart.",
-        "explanation": "A purified heart leads to pure behavior."
-      },
-      {
-        "question": "What does guarding chastity protect?",
-        "answer": "Moral integrity and honor.",
-        "explanation": "It shields youth from destructive desires."
+        "question": "Why is healing of the heart mentioned?",
+        "answer": "Because harmful desires originate in the heart.",
+        "explanation": "Spiritual healing prevents repeated wrongdoing."
       }
     ],
     "whenToRead": {
       "inSalah": [
-        "🕌 During sujood when making dua for children"
+        "During sujood when making dua for children"
       ],
       "outsideSalah": [
-        "👦 When concerned about a child’s moral protection",
-        "🌙 Before sleep over children",
-        "💛 During teenage years",
-        "🤲 Anytime seeking purity and protection"
+        "When concerned about a child’s moral protection",
+        "During adolescence",
+        "Before sleep over children",
+        "Anytime seeking protection from harmful desires"
       ]
     }
   }, {
     "id": "dua-ease-1",
     "categoryId": "ease-hardship",
     "title": "🌿 Rabbana Atina Min Ladunka Rahmah – Mercy & Right Guidance",
-    "intro":"The dua of Musa (AS), seeking inner expansion, clarity, and ease before facing a daunting mission.",
+    "intro": "The dua of Musa (AS), seeking inner expansion, clarity, and ease before facing a daunting mission.",
     "arabicFull": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
     "transliterationFull": "Rabbana atina min ladunka rahmatan wa hayyi’ lana min amrina rashada.",
     "translationFull": "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
@@ -2567,7 +2637,7 @@
     "id": "dua-ease-2",
     "categoryId": "ease-hardship",
     "title": "🌿 Rabbi Ishrah Li Sadri – Expansion & Facilitation",
-    "intro":"The dua of Musa (AS), seeking inner expansion, clarity, and ease before facing a daunting mission.",
+    "intro": "The dua of Musa (AS), seeking inner expansion, clarity, and ease before facing a daunting mission.",
     "arabicFull": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي",
     "transliterationFull": "Rabbi ishrah li sadri wa yassir li amri wahlul ‘uqdatan min lisani yafqahu qawli.",
     "translationFull": "My Lord, expand my chest for me, make my task easy for me, and untie the knot from my tongue so they may understand my speech.",
@@ -2585,7 +2655,7 @@
         "meaning": "My Lord, expand my chest for me",
         "startTime": 0,
         "endTime": 3.4
-            },
+      },
       {
         "arabic": "وَيَسِّرْ لِي أَمْرِي",
         "transliteration": "Wa yassir li amri",
@@ -2623,7 +2693,7 @@
     "categoryId": "ease-hardship",
     "title": "🌿 Allahumma La Sahla – Surrendering Ease to Allah",
     "arabicFull": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
-    "intro":"A profound declaration of surrender, affirming that nothing becomes easy except by Allah’s will.",
+    "intro": "A profound declaration of surrender, affirming that nothing becomes easy except by Allah’s will.",
     "transliterationFull": "Allahumma la sahla illa ma ja‘altahu sahlan wa anta taj‘alul hazna idha shi’ta sahlan.",
     "translationFull": "O Allah, there is no ease except what You make easy, and You make difficulty easy if You will.",
     "source": "Ibn Hibban 2427 (Sahih)",
@@ -2670,7 +2740,7 @@
     "id": "dua-ease-4",
     "categoryId": "ease-hardship",
     "title": "🌿 La Ilaha Illallah Al-Halim Al-Karim – Words of Relief",
-    "intro":"Words the Prophet ﷺ recited in distress — anchoring the heart in Tawheed, divine greatness, and hope.",
+    "intro": "Words the Prophet ﷺ recited in distress — anchoring the heart in Tawheed, divine greatness, and hope.",
     "arabicFull": "لَا إِلَهَ إِلَّا اللَّهُ الْحَلِيمُ الْكَرِيمُ لَا إِلَهَ إِلَّا اللَّهُ الْعَلِيُّ الْعَظِيمُ لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْعَرْشِ الْعَظِيمِ",
     "transliterationFull": "La ilaha illallahul-Halimul-Karim, la ilaha illallahul-‘Aliyyul-‘Azim, la ilaha illallah Rabbus-samawati wa Rabbul-‘Arshil-‘Azim.",
     "translationFull": "There is no deity except Allah, the Most Forbearing, the Most Generous. There is no deity except Allah, the Most High, the Most Great. There is no deity except Allah, Lord of the heavens and Lord of the Magnificent Throne.",
@@ -2726,7 +2796,7 @@
     "categoryId": "ease-hardship",
     "title": "🌿 Allahumma Ahsin ‘Aqibatana – A Beautiful End in All Affairs",
     "arabicFull": "اللَّهُمَّ أَحْسِنْ عَاقِبَتَنَا فِي الْأُمُورِ كُلِّهَا وَأَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الْآخِرَةِ",
-    "intro":"A comprehensive dua asking not just for relief, but for a beautiful ending in all affairs and protection in both worlds.",
+    "intro": "A comprehensive dua asking not just for relief, but for a beautiful ending in all affairs and protection in both worlds.",
     "transliterationFull": "Allahumma ahsin ‘aqibatana fil-umuri kulliha wa ajirna min khizyid-dunya wa ‘adhabil-akhirah.",
     "translationFull": "O Allah, grant us a good end in all of our affairs and protect us from humiliation in this world and punishment in the Hereafter.",
     "source": "Musnad Ahmad 17163 (Hasan)",

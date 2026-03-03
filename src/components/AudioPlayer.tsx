@@ -87,7 +87,8 @@ export function AudioPlayer({
     audio.loop = loop && !isPhraseMode && playCount <= 1;
   }, [loop, isPhraseMode, playCount]);
 
-  // Audio event listeners
+  // Audio event listeners. Intentionally omit playCount so changing repeat (1/3/5/10) doesn't re-run
+  // this effect and hide the play button (e.g. on mobile where readyState can be < 2 before first play).
   useEffect(() => {
     const audio = audioRef.current;
     if (!audio) return;
@@ -96,7 +97,6 @@ export function AudioPlayer({
     setCurrentTime(isPhraseMode ? startTime! : 0);
     setDuration(isPhraseMode ? endTime! - startTime! : 0);
     setIsPlaying(false);
-    // Only show loading if audio isn't ready yet (e.g. src changed). If only playCount changed, keep play button visible.
     if (audio.readyState < 2) {
       setIsLoading(true);
     }
@@ -165,7 +165,7 @@ export function AudioPlayer({
       audio.removeEventListener("canplay", handleCanPlay);
       audio.removeEventListener("error", handleError);
     };
-  }, [src, loop, playCount, isPhraseMode, startTime, endTime]);
+  }, [src, loop, isPhraseMode, startTime, endTime]);
 
   const minTime = isPhraseMode ? startTime! : 0;
   const maxTime = isPhraseMode ? endTime! : duration || 100;
