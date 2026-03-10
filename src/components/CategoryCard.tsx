@@ -11,6 +11,11 @@ import spouseIcon from "@/assets/icons/spouse.png";
 import insalahIcon from "@/assets/icons/insalah.png";
 import aftersalahIcon from "@/assets/icons/aftersalah.png";
 import easeIcon from "@/assets/icons/ease.png";
+import istikharaIcon from "@/assets/icons/istikhara.png";
+import duniyaIcon from "@/assets/icons/duniya.png";
+import forgivenessIcon from "@/assets/icons/forgiveness.png";
+import gratitudeIcon from "@/assets/icons/gratitude.png";
+import steadfastnessIcon from "@/assets/icons/steadfastness.png";
 
 /** Map category id to icon filename (no .png) */
 const CATEGORY_ICON_FILE: Record<string, string> = {
@@ -25,6 +30,11 @@ const CATEGORY_ICON_FILE: Record<string, string> = {
   "in-salah": "insalah",
   "after-salah": "aftersalah",
   "ease-hardship": "ease",
+  istikhara: "istikhara",
+  "duniya-akhirah": "duniya",
+  forgiveness: "forgiveness",
+  gratitude: "gratitude",
+  steadfastness: "steadfastness",
 };
 
 const ICON_SRC: Record<string, string> = {
@@ -39,6 +49,11 @@ const ICON_SRC: Record<string, string> = {
   insalah: insalahIcon.src,
   aftersalah: aftersalahIcon.src,
   ease: easeIcon.src,
+  istikhara: istikharaIcon.src,
+  duniya: duniyaIcon.src,
+  forgiveness: forgivenessIcon.src,
+  gratitude: gratitudeIcon.src,
+  steadfastness: steadfastnessIcon.src,
 };
 
 export function CategoryCard({ category }: { category: Category }) {
