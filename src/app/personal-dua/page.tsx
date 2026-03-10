@@ -4,10 +4,12 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState, useCallback, useEffect } from "react";
 import { getPersonalDuaList, savePersonalDuaList } from "@/lib/personalDuaStorage";
+import { getSuggestedDuasForPersonalDua } from "@/lib/data";
 import { useToast } from "@/components/ToastProvider";
 import { PersonalDuaTextarea } from "@/components/PersonalDuaTextarea";
 import { PersonalDuaBlock } from "@/components/PersonalDuaBlock";
 import { EssentialDuasIntro } from "@/components/EssentialDuasIntro";
+import { DuaCard } from "@/components/DuaCard";
 
 export default function PersonalDuaPage() {
   const [worries, setWorries] = useState("");
@@ -248,6 +250,18 @@ export default function PersonalDuaPage() {
             >
               View saved list →
             </Link>
+          </div>
+        </section>
+
+        <section className="mt-8">
+          <h2 className="mb-2 text-lg font-semibold text-slate-800">Suggested duas to read with your list</h2>
+          <p className="mb-4 text-sm text-slate-600">
+            When you make personal duas, you can also recite these from the app — for ease, gratitude, forgiveness, and more.
+          </p>
+          <div className="space-y-3">
+            {getSuggestedDuasForPersonalDua(6).map((dua) => (
+              <DuaCard key={dua.id} dua={dua} noGlow />
+            ))}
           </div>
         </section>
       </div>

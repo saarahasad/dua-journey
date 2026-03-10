@@ -125,3 +125,39 @@ export function getSalahPositionBySlug(categoryId: string, positionSlug: string)
   const positions = getSalahPositionCategories(categoryId);
   return positions.find((p) => getSalahPositionSlug(p) === positionSlug);
 }
+
+/** Category IDs that are well-suited to recite when making personal duas (outside salah). */
+const PERSONAL_DUA_CATEGORY_IDS = [
+  "ease-hardship",   // worries & difficulties
+  "duniya-akhirah",  // goals & this life / hereafter
+  "forgiveness",     // weaknesses, repentance
+  "contentment",     // acceptance, peace
+  "gratitude",       // thanks
+  "after-salah",     // general supplication
+  "praise",          // opening praise
+  "steadfastness",   // faith
+  "parents",
+  "children",
+  "spouse",
+  "knowledge",
+  "faith",
+  "istikhara",
+  "salawat",
+];
+
+/** Returns a short list of duas from the app that are good to read while making personal duas. */
+export function getSuggestedDuasForPersonalDua(maxCount: number = 8): Dua[] {
+  const suggested: Dua[] = [];
+  const seenIds = new Set<string>();
+  for (const categoryId of PERSONAL_DUA_CATEGORY_IDS) {
+    if (categoryId === "in-salah") continue;
+    const inCategory = duas.filter((d) => d.categoryId === categoryId);
+    for (const d of inCategory) {
+      if (seenIds.has(d.id)) continue;
+      seenIds.add(d.id);
+      suggested.push(d);
+      if (suggested.length >= maxCount) return suggested;
+    }
+  }
+  return suggested;
+}
