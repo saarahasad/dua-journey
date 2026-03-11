@@ -2872,27 +2872,12 @@
       "💛 Teaches reliance on Allah before asking people"
     ],
     "phrases": [{
-        "arabic": "رَبِّ إِنِّي",
-        "transliteration": "Rabbi inni",
-        "meaning": "My Lord, indeed I",
-        "startTime": 0,
-        "endTime": 3
-      },
-      {
-        "arabic": "لِمَا أَنزَلْتَ إِلَيَّ",
-        "transliteration": "Lima anzalta ilayya",
-        "meaning": "for whatever You send down to me",
-        "startTime": 3,
-        "endTime": 7
-      },
-      {
-        "arabic": "مِنْ خَيْرٍ فَقِيرٌ",
-        "transliteration": "Min khayrin faqir",
-        "meaning": "of goodness, I am truly in need",
-        "startTime": 7,
-        "endTime": 12
-      }
-    ],
+      "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+      "transliteration": "Rabbi inni lima anzalta ilayya min khayrin faqir",
+      "meaning": "My Lord, indeed I am in need of whatever good You send down to me",
+      "startTime": 0,
+      "endTime": 12
+    }],
     "questions": [{
         "question": "Who made this dua in the Qur'an?",
         "answer": "Prophet Musa (AS).",
@@ -2995,86 +2980,6 @@
         "When seeking Allah’s guidance for major life steps"
       ]
     }
-  }, {
-    "id": "dua-istikhara-3",
-    "categoryId": "istikhara",
-    "title": "🌿 Allahumma Inni As'aluka Min Al-Khayri Kullihi – Asking Allah for All Good",
-    "arabicFull": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ وَأَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ وَأَعُوذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا",
-    "transliterationFull": "Allahumma inni as'aluka min al-khayri kullihi 'ajilihi wa ajilihi ma 'alimtu minhu wa ma lam a'lam. Wa a'udhu bika min ash-sharri kullihi 'ajilihi wa ajilihi ma 'alimtu minhu wa ma lam a'lam. Allahumma inni as'aluka min khayri ma sa'alaka 'abduka wa nabiyyuka wa a'udhu bika min sharri ma 'adha bihi 'abduka wa nabiyyuka. Allahumma inni as'aluka al-jannah wa ma qarraba ilayha min qawlin aw 'amal, wa a'udhu bika min an-nar wa ma qarraba ilayha min qawlin aw 'amal. Wa as'aluka an taj'ala kulla qada'in qadaytahu li khayran.",
-    "translationFull": "O Allah, I ask You for all good — immediate and future — what I know of it and what I do not know. And I seek refuge in You from all evil — immediate and future — what I know of it and what I do not know. O Allah, I ask You for the good that Your servant and Prophet asked You for, and I seek refuge in You from the evil from which Your servant and Prophet sought refuge. O Allah, I ask You for Paradise and whatever brings one closer to it in speech or action, and I seek refuge in You from the Fire and whatever brings one closer to it in speech or action. And I ask You to make every decree You decree for me good.",
-    "intro": "A comprehensive dua taught by the Prophet ﷺ asking Allah for every form of good and protection from every form of evil.",
-    "story": "This powerful supplication was narrated by Aisha (RA). She reported that the Prophet ﷺ taught this dua as a comprehensive prayer that gathers together all goodness and protection from all evil. Instead of asking for only specific things, the believer asks Allah for every good — known and unknown — and seeks refuge from every evil — known and unknown.\n\nThis dua reflects the deep understanding that humans cannot foresee everything that benefits or harms them. By asking Allah for all good and protection from all evil, the believer entrusts every aspect of life to Allah’s wisdom.\n\nThe supplication also connects the believer to the prayers of the Prophet ﷺ by asking Allah for the same good that the Prophet asked for and protection from the same evil he sought refuge from.",
-    "benefits": [
-      "🌿 A comprehensive dua covering all forms of good",
-      "🛡️ Seeks protection from all forms of evil",
-      "🤲 Aligns our supplication with the duas of the Prophet ﷺ",
-      "🧭 Encourages reliance upon Allah’s wisdom",
-      "✨ Reminds believers that Allah knows what we do not know"
-    ],
-    "phrases": [{
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ",
-        "transliteration": "Allahumma inni as'aluka min al-khayri kullihi 'ajilihi wa ajilihi ma 'alimtu minhu wa ma lam a'lam",
-        "meaning": "O Allah, I ask You for all goodness, immediate and future, what I know of it and what I do not know",
-        "startTime": 0,
-        "endTime": 8
-      },
-      {
-        "arabic": "وَأَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ",
-        "transliteration": "Wa a'udhu bika min ash-sharri kullihi 'ajilihi wa ajilihi ma 'alimtu minhu wa ma lam a'lam",
-        "meaning": "And I seek refuge in You from all evil, immediate and future, what I know of it and what I do not know",
-        "startTime": 8,
-        "endTime": 16
-      },
-      {
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ وَأَعُوذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ",
-        "transliteration": "Allahumma inni as'aluka min khayri ma sa'alaka 'abduka wa nabiyyuka wa a'udhu bika min sharri ma 'adha bihi 'abduka wa nabiyyuka",
-        "meaning": "O Allah, I ask You for the good that Your servant and Prophet asked You for, and I seek refuge in You from the evil from which Your servant and Prophet sought refuge",
-        "startTime": 16,
-        "endTime": 26
-      },
-      {
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ",
-        "transliteration": "Allahumma inni as'aluka al-jannah wa ma qarraba ilayha min qawlin aw 'amal wa a'udhu bika min an-nar wa ma qarraba ilayha min qawlin aw 'amal",
-        "meaning": "O Allah, I ask You for Paradise and whatever brings one closer to it in speech or action, and I seek refuge in You from the Fire and whatever brings one closer to it in speech or action",
-        "startTime": 26,
-        "endTime": 36
-      },
-      {
-        "arabic": "وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا",
-        "transliteration": "Wa as'aluka an taj'ala kulla qada'in qadaytahu li khayran",
-        "meaning": "And I ask You to make every decree You decree for me good",
-        "startTime": 36,
-        "endTime": 42
-      }
-    ],
-    "questions": [{
-        "question": "Who narrated this dua?",
-        "answer": "Aisha (RA).",
-        "explanation": "She reported that the Prophet ﷺ taught this comprehensive supplication."
-      },
-      {
-        "question": "What is special about this dua?",
-        "answer": "It asks Allah for all good and protection from all evil.",
-        "explanation": "Instead of asking for specific things, the dua covers everything beneficial."
-      },
-      {
-        "question": "What ultimate goal is requested in this dua?",
-        "answer": "Paradise and protection from the Fire.",
-        "explanation": "The dua asks for Jannah and anything that leads to it, and protection from Hell and anything that leads to it."
-      }
-    ],
-    "whenToRead": {
-      "inSalah": [
-        "During personal dua before the salam",
-        "During tahajjud or voluntary prayers"
-      ],
-      "outsideSalah": [
-        "During personal supplication at any time",
-        "In moments of uncertainty or when seeking comprehensive blessings",
-        "In morning or evening adhkar",
-        "Whenever asking Allah for guidance and protection"
-      ]
-    }
   },
   {
     "id": "dua-istikhara-4",
@@ -3153,39 +3058,25 @@
       "✨ Reminds us that true success lies in Allah’s guidance"
     ],
     "phrases": [{
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ",
-        "transliteration": "Allahumma inni as'aluka min al-khayri kullihi 'ajilihi wa ajilihi ma 'alimtu minhu wa ma lam a'lam",
-        "meaning": "O Allah, I ask You for all goodness, immediate and future, what I know of it and what I do not know",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ مُحَمَّدٌ ﷺ",
+        "transliteration": "Allahumma inni as'aluka min al-khayri kullihi 'ajilihi wa ajilihi ma 'alimtu minhu wa ma lam a'lam. Allahumma inni as'aluka min khayri ma sa'alaka 'abduka wa nabiyyuka Muhammad ﷺ",
+        "meaning": "O Allah, I ask You for all goodness, immediate and future, what I know of it and what I do not know. O Allah, I ask You for the good that Your servant and Prophet Muhammad ﷺ asked You for",
         "startTime": 0,
-        "endTime": 8
+        "endTime": 29
       },
       {
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ مُحَمَّدٌ ﷺ",
-        "transliteration": "Allahumma inni as'aluka min khayri ma sa'alaka 'abduka wa nabiyyuka Muhammad ﷺ",
-        "meaning": "O Allah, I ask You for the good that Your servant and Prophet Muhammad ﷺ asked You for",
-        "startTime": 8,
-        "endTime": 15
-      },
-      {
-        "arabic": "وَأَعُوذُ بِكَ مِنْ شَرِّ مَا عَاذَ مِنْهُ عَبْدُكَ وَنَبِيُّكَ",
-        "transliteration": "Wa a'udhu bika min sharri ma 'adha minhu 'abduka wa nabiyyuka",
-        "meaning": "And I seek refuge in You from the evil from which Your servant and Prophet sought refuge",
-        "startTime": 15,
-        "endTime": 20
-      },
-      {
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ",
-        "transliteration": "Allahumma inni as'aluka al-jannah wa ma qarraba ilayha min qawlin aw 'amal",
-        "meaning": "O Allah, I ask You for Paradise and whatever brings one closer to it in speech or action",
-        "startTime": 20,
-        "endTime": 27
+        "arabic": "وَأَعُوذُ بِكَ مِنْ شَرِّ مَا عَاذَ مِنْهُ عَبْدُكَ وَنَبِيُّكَ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ",
+        "transliteration": "Wa a'udhu bika min sharri ma 'adha minhu 'abduka wa nabiyyuka. Allahumma inni as'aluka al-jannah wa ma qarraba ilayha min qawlin aw 'amal",
+        "meaning": "And I seek refuge in You from the evil from which Your servant and Prophet sought refuge. O Allah, I ask You for Paradise and whatever brings one closer to it in speech or action",
+        "startTime": 29,
+        "endTime": 47
       },
       {
         "arabic": "وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ تَقْضِيهِ لِي خَيْرًا",
         "transliteration": "Wa as'aluka an taj'ala kulla qada'in taqdihi li khayran",
         "meaning": "And I ask You to make every decree You decree for me good",
-        "startTime": 27,
-        "endTime": 33
+        "startTime": 48,
+        "endTime": 53
       }
     ],
     "questions": [{
@@ -3298,11 +3189,11 @@
     "arabicFull": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَاىَ وَأَهْلِي وَمَالِي اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي وَاحْفَظْنِي مِنْ بَيْنِ يَدَىَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي وَأَعُوذُ بِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
     "transliterationFull": "Allahumma inni as'aluka al-'afwa wal-'afiyah fid-dunya wal-akhirah Allahumma inni as'aluka al-'afwa wal-'afiyah fi deeni wa dunyaya wa ahli wa mali Allahumma-stur 'awrati wa amin raw'ati wahfazni min bayni yadayya wa min khalfi wa 'an yamini wa 'an shimali wa min fawqi wa a'udhu bika an ughtala min tahti",
     "translationFull": "O Allah, I ask You for forgiveness and well-being in this world and in the Hereafter. O Allah, I ask You for forgiveness and well-being in my religious and my worldly affairs. O Allah, conceal my faults, calm my fears, and protect me from before me and behind me, from my right and my left, and from above me, and I seek refuge in You from being taken unaware from beneath me.",
-  
+
     "intro": "A comprehensive supplication taught by the Prophet ﷺ asking Allah for forgiveness, wellbeing, and protection in all aspects of life.",
-  
+
     "story": "This supplication was narrated by **Abdullah ibn Umar (RA)**. The Prophet ﷺ would often recite this dua in the **morning and evening**, asking Allah for **forgiveness ('afw)** and **wellbeing ('afiyah)**.\n\nThe dua highlights that true wellbeing includes **protection of one's faith**, **stability in worldly life**, **safety for family**, and **protection of wealth**.\n\nScholars explain that **'afiyah** includes **health, safety, protection from calamities, and freedom from hardship**.\n\nThe Prophet ﷺ taught that **asking Allah for 'afiyah is among the best supplications a believer can make**.",
-  
+
     "benefits": [
       "🌿 Seeks forgiveness and wellbeing in both this life and the Hereafter",
       "🤲 Asks Allah for protection in faith, life, family, and wealth",
@@ -3310,9 +3201,8 @@
       "🛡️ Seeks protection from dangers from all directions",
       "✨ A prophetic supplication recited in morning and evening adhkar"
     ],
-  
-    "phrases": [
-      {
+
+    "phrases": [{
         "arabic": "اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي",
         "transliteration": "Allahumma-stur 'awrati wa amin raw'ati",
         "meaning": "O Allah, conceal my faults and calm my fears"
@@ -3333,9 +3223,8 @@
         "meaning": "And I seek refuge in You from being taken unaware from beneath me"
       }
     ],
-  
-    "questions": [
-      {
+
+    "questions": [{
         "question": "Who narrated this dua?",
         "answer": "Abdullah ibn Umar (RA).",
         "explanation": "He reported that the Prophet ﷺ would frequently recite this supplication."
@@ -3351,12 +3240,12 @@
         "explanation": "It is among the recommended morning and evening supplications."
       }
     ],
-  
+
     "reference": {
       "hadithSource": "Sunan Abi Dawud 5074, Sunan Ibn Majah 3871",
       "narrator": "Abdullah ibn Umar (RA)"
     },
-  
+
     "whenToRead": {
       "inSalah": [
         "During personal dua before salam",
@@ -3758,7 +3647,8 @@
     "transliterationFull": "Alhamdu lillahil-ladhi 'afani fi jasadi wa radda 'alayya ruhi wa adhina li bidhikrih",
     "translationFull": "All praise is for Allah who has given me wellbeing in my body, returned my soul to me, and allowed me to remember Him.",
     "intro": "A beautiful supplication of gratitude recited upon waking up, thanking Allah for health and life.",
-    "story": "The Prophet ﷺ taught this supplication to be recited **upon waking from sleep**.\n\nAccording to a hadith reported by **Abu Hurairah (RA)** and recorded in **Jamiʿ at-Tirmidhi**, the Prophet ﷺ instructed believers to begin their day with **remembrance and gratitude to Allah**.\n\nThe supplication reminds believers to thank Allah for **restoring life after sleep**, **granting health and wellbeing**, and **giving the opportunity to remember Him once again**.\n\n**Source:** Jamiʿ at-Tirmidhi, Book of Supplications (Kitab ad-Da‘awat), narrated by Abu Hurairah (RA).",    "benefits": [
+    "story": "The Prophet ﷺ taught this supplication to be recited **upon waking from sleep**.\n\nAccording to a hadith reported by **Abu Hurairah (RA)** and recorded in **Jamiʿ at-Tirmidhi**, the Prophet ﷺ instructed believers to begin their day with **remembrance and gratitude to Allah**.\n\nThe supplication reminds believers to thank Allah for **restoring life after sleep**, **granting health and wellbeing**, and **giving the opportunity to remember Him once again**.\n\n**Source:** Jamiʿ at-Tirmidhi, Book of Supplications (Kitab ad-Da‘awat), narrated by Abu Hurairah (RA).",
+    "benefits": [
       "🌅 Encourages gratitude upon waking",
       "💪 Acknowledges the blessing of health",
       "🤲 Reminds believers that life itself is a gift from Allah"
@@ -3814,16 +3704,15 @@
     "transliterationFull": "Alhamdu lillahi kathiran tayyiban mubārakan fihi ghayra makfiyyin wa la muwadda'in wa la mustaghnan 'anhu rabbana",
     "translationFull": "All praise is for Allah—abundant, pure and blessed praise. It cannot be repaid nor abandoned, and we cannot do without it, our Lord.",
     "intro": "A prophetic supplication recited after finishing a meal, expressing deep gratitude to Allah for His provision.",
-  
-    "story": "**Abu Umama (RA)** reported that whenever the **Prophet ﷺ finished his meal**, he would say this supplication praising Allah.\n\nThe dua expresses **abundant gratitude for Allah’s blessings** and acknowledges that **His favors can never truly be repaid or dispensed with**.\n\nIt reminds believers that **food and sustenance are gifts from Allah**, and that **human beings remain constantly in need of His provision and mercy**.",  
+
+    "story": "**Abu Umama (RA)** reported that whenever the **Prophet ﷺ finished his meal**, he would say this supplication praising Allah.\n\nThe dua expresses **abundant gratitude for Allah’s blessings** and acknowledges that **His favors can never truly be repaid or dispensed with**.\n\nIt reminds believers that **food and sustenance are gifts from Allah**, and that **human beings remain constantly in need of His provision and mercy**.",
     "benefits": [
       "🤲 Expresses deep gratitude to Allah after eating",
       "🌿 Reminds believers that Allah’s blessings cannot be repaid",
       "📖 A prophetic supplication taught by the Prophet ﷺ"
     ],
-  
-    "phrases": [
-      {
+
+    "phrases": [{
         "arabic": "الْحَمْدُ لِلَّهِ كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ",
         "transliteration": "Alhamdu lillahi kathiran tayyiban mubārakan fihi",
         "meaning": "All praise is for Allah—abundant, pure and blessed praise",
@@ -3838,9 +3727,8 @@
         "endTime": 6
       }
     ],
-  
-    "questions": [
-      {
+
+    "questions": [{
         "question": "Who narrated this supplication?",
         "answer": "Abu Umama (RA).",
         "explanation": "He reported that the Prophet ﷺ would say this after finishing his meal."
@@ -3856,14 +3744,14 @@
         "explanation": "The Prophet ﷺ would say it after eating."
       }
     ],
-  
+
     "reference": {
       "hadithCollection": "Sahih al-Bukhari",
       "hadithNumber": "5459",
       "book": "Foods",
       "narrator": "Abu Umama (RA)"
     },
-  
+
     "whenToRead": {
       "outsideSalah": [
         "After eating",
@@ -3879,19 +3767,18 @@
     "arabicFull": "الْحَمْدُ لِلَّهِ الَّذِي كَفَانِي وَآوَانِي وَأَطْعَمَنِي وَسَقَانِي وَالَّذِي مَنَّ عَلَيَّ فَأَفْضَلَ وَالَّذِي أَعْطَانِي فَأَجْزَلَ الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ اللَّهُمَّ رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ وَإِلَهَ كُلِّ شَيْءٍ أَعُوذُ بِكَ مِنَ النَّارِ",
     "transliterationFull": "Alhamdu lillahil-ladhi kafani wa awani wa at'amani wa saqani walladhi manna 'alayya fa afdhal walladhi a'tani fa ajzal. Alhamdu lillahi 'ala kulli hal. Allahumma rabba kulli shay'in wa malikahu wa ilaha kulli shay'in a'udhu bika min an-nar.",
     "translationFull": "Praise be to Allah Who has given me sufficiency, sheltered me, fed me, and given me drink; Who has favored me and given generously. Praise be to Allah in every circumstance. O Allah, Lord and King of everything and God of everything, I seek refuge in You from the Fire.",
-  
+
     "intro": "A supplication of gratitude and protection recited before going to sleep.",
-  
-    "story": "**Abdullah ibn Umar (RA)** reported that when the **Prophet ﷺ went to his bed**, he would say this supplication.\n\nThe dua expresses **gratitude for Allah’s blessings** such as **shelter, food, drink, and generosity**.\n\nIt reminds believers to **end their day by praising Allah in every circumstance** and recognizing that **all provisions come from Him**.\n\nThe supplication concludes by **seeking refuge in Allah from the Fire**, showing that **true success lies in salvation in the Hereafter**.",  
+
+    "story": "**Abdullah ibn Umar (RA)** reported that when the **Prophet ﷺ went to his bed**, he would say this supplication.\n\nThe dua expresses **gratitude for Allah’s blessings** such as **shelter, food, drink, and generosity**.\n\nIt reminds believers to **end their day by praising Allah in every circumstance** and recognizing that **all provisions come from Him**.\n\nThe supplication concludes by **seeking refuge in Allah from the Fire**, showing that **true success lies in salvation in the Hereafter**.",
     "benefits": [
       "🤲 Expresses gratitude for daily blessings such as food, drink, and shelter",
       "🌿 Encourages praising Allah in every circumstance",
       "🛡️ Seeks protection from the Fire before sleep",
       "🌙 A prophetic supplication recited before going to bed"
     ],
-  
-    "phrases": [
-      {
+
+    "phrases": [{
         "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَفَانِي وَآوَانِي وَأَطْعَمَنِي وَسَقَانِي وَالَّذِي مَنَّ عَلَيَّ فَأَفْضَلَ وَالَّذِي أَعْطَانِي فَأَجْزَلَ",
         "transliteration": "Alhamdu lillahil-ladhi kafani wa awani wa at'amani wa saqani walladhi manna 'alayya fa afdhal walladhi a'tani fa ajzal",
         "meaning": "Praise be to Allah who has sufficed me, sheltered me, fed me, and given me drink, who has favored me and given generously",
@@ -3913,9 +3800,8 @@
         "endTime": 14
       }
     ],
-  
-    "questions": [
-      {
+
+    "questions": [{
         "question": "When did the Prophet ﷺ recite this supplication?",
         "answer": "When he went to his bed before sleeping.",
         "explanation": "Abdullah ibn Umar (RA) reported that the Prophet ﷺ would say this dua when lying down to sleep."
@@ -3931,14 +3817,14 @@
         "explanation": "It reminds believers that ultimate success is being saved from the Fire."
       }
     ],
-  
+
     "reference": {
       "hadithCollection": "Sunan Abi Dawud",
       "hadithNumber": "5058",
       "narrator": "Abdullah ibn Umar (RA)",
       "grade": "Sahih in chain (Al-Albani)"
     },
-  
+
     "whenToRead": {
       "outsideSalah": [
         "Before going to sleep",
@@ -3953,7 +3839,8 @@
     "transliterationFull": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur",
     "translationFull": "All praise is for Allah who gave us life after causing us to die, and to Him is the resurrection.",
     "intro": "A supplication of gratitude recited upon waking up from sleep.",
-    "story": "**Hudhayfah ibn al-Yaman (RA)** reported that when the **Prophet ﷺ woke up from sleep**, he would say this supplication.\n\nThe dua reminds believers that **sleep resembles a temporary death**, and **waking up is like being given life again by Allah**.\n\nIt also reminds us that **our final return and resurrection will be to Allah**.",    "benefits": [
+    "story": "**Hudhayfah ibn al-Yaman (RA)** reported that when the **Prophet ﷺ woke up from sleep**, he would say this supplication.\n\nThe dua reminds believers that **sleep resembles a temporary death**, and **waking up is like being given life again by Allah**.\n\nIt also reminds us that **our final return and resurrection will be to Allah**.",
+    "benefits": [
       "🌅 Encourages gratitude when waking up",
       "🤲 Reminds believers that life is a blessing from Allah",
       "🌙 Reflects on resurrection and the return to Allah"
@@ -4104,7 +3991,8 @@
     "transliterationFull": "Ya Muqallibal-qulub, thabbit qalbi 'ala dinik",
     "translationFull": "O Turner of the hearts, keep my heart firm upon Your religion.",
     "intro": "A powerful supplication asking Allah to keep the heart firm upon faith.",
-    "story": "**Anas ibn Malik (RA)** reported that the Messenger of Allah ﷺ would often say: **“Allahumma thabbit qalbi 'ala dinika” — O Allah, make my heart steadfast upon Your religion.**\n\nA man asked: **“O Messenger of Allah, do you fear for us even after we have believed in you and in the message you brought?”**\n\nThe Prophet ﷺ replied: **“The hearts are between two fingers of the Most Merciful, and He turns them as He wills.”**\n\nOne of the narrators, **Al-A'mash**, even demonstrated this by **gesturing with his fingers**, illustrating how Allah turns the hearts.\n\nThis hadith reminds believers to **continually ask Allah for steadfastness**, because **guidance and firmness of the heart are in Allah’s control alone**.",    "benefits": [
+    "story": "**Anas ibn Malik (RA)** reported that the Messenger of Allah ﷺ would often say: **“Allahumma thabbit qalbi 'ala dinika” — O Allah, make my heart steadfast upon Your religion.**\n\nA man asked: **“O Messenger of Allah, do you fear for us even after we have believed in you and in the message you brought?”**\n\nThe Prophet ﷺ replied: **“The hearts are between two fingers of the Most Merciful, and He turns them as He wills.”**\n\nOne of the narrators, **Al-A'mash**, even demonstrated this by **gesturing with his fingers**, illustrating how Allah turns the hearts.\n\nThis hadith reminds believers to **continually ask Allah for steadfastness**, because **guidance and firmness of the heart are in Allah’s control alone**.",
+    "benefits": [
       "❤️ Seeks firmness of faith",
       "🤲 Reminds believers that hearts are controlled by Allah",
       "✨ Encourages constant reliance on Allah for guidance"
@@ -4153,7 +4041,8 @@
     "transliterationFull": "Allahumma musarrifal-qulub, sarrif qulubana 'ala ta'atik",
     "translationFull": "O Allah, Controller of the hearts, direct our hearts toward Your obedience.",
     "intro": "A supplication asking Allah to guide and direct our hearts toward obedience to Him.",
-    "story": "**Abdullah ibn Amr ibn al-As (RA)** reported that the Prophet ﷺ said that **the hearts of all the children of Adam are between two fingers of the Most Merciful**, and He turns them as He wills.\n\nThe Prophet ﷺ then made the supplication: **“O Turner of the hearts, turn our hearts toward Your obedience.”**\n\nThis hadith reminds believers that **guidance and steadfastness are in the hands of Allah alone**, and it teaches humility and constant reliance upon Him to keep our hearts firm upon faith and obedience.",    "benefits": [
+    "story": "**Abdullah ibn Amr ibn al-As (RA)** reported that the Prophet ﷺ said that **the hearts of all the children of Adam are between two fingers of the Most Merciful**, and He turns them as He wills.\n\nThe Prophet ﷺ then made the supplication: **“O Turner of the hearts, turn our hearts toward Your obedience.”**\n\nThis hadith reminds believers that **guidance and steadfastness are in the hands of Allah alone**, and it teaches humility and constant reliance upon Him to keep our hearts firm upon faith and obedience.",
+    "benefits": [
       "❤️ Seeks guidance of the heart toward obedience",
       "🤲 Reminds believers that hearts are controlled by Allah",
       "✨ Encourages reliance on Allah for steadfastness"
@@ -4195,7 +4084,8 @@
     "transliterationFull": "Allahumma ihdini wa saddidni",
     "translationFull": "O Allah, guide me and make me steadfast and correct.",
     "intro": "A short supplication asking Allah for guidance and correctness in actions.",
-    "story": "**Ali ibn Abi Talib (RA)** reported that the Prophet ﷺ instructed him to say this supplication: **“O Allah, guide me and make me steadfast upon the right path.”**\n\nThe Prophet ﷺ then explained the meaning by giving a simple example. When asking for **guidance**, remember the **straight path that leads to the destination**.\n\nAnd when asking Allah to keep you **upright and correct**, remember the **straightness of an arrow when it is properly aligned**.\n\nThis teaching reminds believers to ask Allah not only to **show the right path**, but also to **keep their actions firm, accurate, and consistent upon it**.",    "benefits": [
+    "story": "**Ali ibn Abi Talib (RA)** reported that the Prophet ﷺ instructed him to say this supplication: **“O Allah, guide me and make me steadfast upon the right path.”**\n\nThe Prophet ﷺ then explained the meaning by giving a simple example. When asking for **guidance**, remember the **straight path that leads to the destination**.\n\nAnd when asking Allah to keep you **upright and correct**, remember the **straightness of an arrow when it is properly aligned**.\n\nThis teaching reminds believers to ask Allah not only to **show the right path**, but also to **keep their actions firm, accurate, and consistent upon it**.",
+    "benefits": [
       "🧭 Seeks guidance to the right path",
       "🤲 Asks Allah for correctness and steadfastness",
       "✨ A simple prophetic supplication for daily guidance"
@@ -4227,6 +4117,266 @@
       "hadithCollection": "Sahih Muslim",
       "narrator": "Ali ibn Abi Talib (RA)",
       "source": "Available on Sunnah.com"
+    }
+  },
+  {
+    "id": "dua-parents-1",
+    "categoryId": "parents",
+    "title": "Rabbi Irhamhuma – Mercy for Parents",
+    "arabicFull": "رَبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًا",
+    "transliterationFull": "Rabbi irhamhuma kama rabbayani saghira",
+    "translationFull": "My Lord, have mercy upon them as they raised me when I was small.",
+  
+    "intro": "A Qur’anic supplication asking Allah to show mercy to one's parents in return for their care and upbringing.",
+  
+    "story": "**This supplication appears in Surah Al-Isra (17:24)** as part of Allah’s command to show **kindness and humility toward parents**.\n\nBelievers are instructed to **lower themselves in humility and mercy toward their parents** and to pray for them with this dua.\n\nThe supplication acknowledges the **sacrifices parents made while raising their children during their early years**.\n\nScholars explain that this dua teaches **gratitude, humility, and recognition of the immense rights parents have over their children**.",  
+    "benefits": [
+      "🤲 A Qur’anic supplication for one's parents",
+      "❤️ Encourages gratitude and kindness toward parents",
+      "🌿 Reminds believers of the sacrifices parents make in raising their children",
+      "📖 Strengthens the value of honoring and praying for parents"
+    ],
+  
+    "phrases": [
+      {
+        "arabic": "رَبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًا",
+        "transliteration": "Rabbi irhamhuma kama rabbayani saghira",
+        "meaning": "My Lord, have mercy upon them as they raised me when I was small",
+        "startTime": 0,
+        "endTime": 6
+      }
+    ],
+  
+    "questions": [
+      {
+        "question": "In which Surah does this supplication appear?",
+        "answer": "Surah Al-Isra (17:24).",
+        "explanation": "It is part of Allah’s command to show kindness and humility to parents."
+      },
+      {
+        "question": "What does this dua ask Allah for?",
+        "answer": "Mercy for one's parents.",
+        "explanation": "It asks Allah to show mercy to parents because of the care they gave when raising their child."
+      },
+      {
+        "question": "Why are parents mentioned specifically in this dua?",
+        "answer": "Because they sacrificed and cared for their children during their early life.",
+        "explanation": "The dua reminds believers of their parents' upbringing and encourages gratitude."
+      }
+    ],
+  
+    "reference": {
+      "source": "Qur'an",
+      "surah": "Al-Isra",
+      "ayah": "17:24"
+    },
+  
+    "whenToRead": {
+      "inSalah": [
+        "During personal supplication before salam",
+        "During dua in sujood"
+      ],
+      "outsideSalah": [
+        "When praying for one's parents",
+        "After daily prayers",
+        "Anytime remembering one's parents"
+      ]
+    }
+  },
+  {
+    "id": "dua-parents-2",
+    "categoryId": "parents",
+    "title": "Rabbana Ighfir Li Wa Li Walidayya – Forgiveness for Parents and Believers",
+    "arabicFull": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+    "transliterationFull": "Rabbana ighfir li wa li walidayya wa lil-mu'minina yawma yaqumul-hisab",
+    "translationFull": "Our Lord, forgive me, my parents, and the believers on the Day when the account is established.",
+    "intro": "A Qur’anic supplication of Prophet Ibrahim (AS) asking Allah to forgive himself, his parents, and all believers.",
+    "story": "**This supplication appears in Surah Ibrahim (14:41)** and is a dua made by **Prophet Ibrahim (AS)**. In this prayer, he asks Allah to **forgive him, his parents, and all the believers on the Day of Judgment**.\n\nScholars explain that **Ibrahim (AS) initially prayed for his parents out of compassion and hope for their guidance**. Later, when it became clear that **his father remained an enemy to Allah**, Ibrahim (AS) **distanced himself from him**, as mentioned elsewhere in the Qur’an.\n\nThe supplication also shows the **mercy and concern of the prophets**, as Ibrahim (AS) **expanded his prayer beyond himself and his family to include all believers**.\n\nThe phrase **\"the Day when the account is established\"** refers to the **Day of Judgment**, when people will **stand before Allah and be judged for their deeds**.",    "benefits": [
+      "🤲 A Qur’anic supplication made by Prophet Ibrahim (AS)",
+      "❤️ Encourages praying for one's parents",
+      "🌿 Includes dua for all believers",
+      "📖 Reminds believers of the Day of Judgment and accountability"
+    ],
+    "phrases": [
+      {
+        "arabic": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+        "transliteration": "Rabbana ighfir li wa li walidayya wa lil-mu'minina yawma yaqumul-hisab",
+        "meaning": "Our Lord, forgive me, my parents, and the believers on the Day the account is established",
+        "startTime": 0,
+        "endTime": 9
+      }
+    ],
+    "questions": [
+      {
+        "question": "Which prophet made this supplication?",
+        "answer": "Prophet Ibrahim (AS).",
+        "explanation": "This dua appears in Surah Ibrahim and is part of the prayer of Prophet Ibrahim."
+      },
+      {
+        "question": "Who does this dua ask forgiveness for?",
+        "answer": "The supplicant, their parents, and all believers.",
+        "explanation": "It reflects concern not only for oneself but also for parents and the entire believing community."
+      },
+      {
+        "question": "What does 'the Day when the account is established' refer to?",
+        "answer": "The Day of Judgment.",
+        "explanation": "It is the day when people will stand before Allah and be judged for their deeds."
+      }
+    ],
+    "reference": {
+      "source": "Qur'an",
+      "surah": "Ibrahim",
+      "ayah": "14:41"
+    },
+    "whenToRead": {
+      "inSalah": [
+        "During personal supplication before salam",
+        "During dua in sujood"
+      ],
+      "outsideSalah": [
+        "When praying for parents",
+        "When making dua for all believers",
+        "When reflecting on the Day of Judgment"
+      ]
+    }
+  },
+  {
+    "id": "dua-parents-3",
+    "categoryId": "parents",
+    "title": "Rabbi Awzi'ni – Gratitude, Righteous Deeds, and Righteous Offspring",
+    "arabicFull": "رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ",
+    "transliterationFull": "Rabbi awzi'ni an ashkura ni'mataka allati an'amta 'alayya wa 'ala walidayya wa an a'mala salihan tardahu wa aslih li fi dhurriyyati inni tubtu ilayka wa inni minal-muslimin",
+    "translationFull": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents, and to do righteousness that You approve of, and make righteous for me my offspring. Indeed, I have repented to You, and indeed I am of the Muslims.",
+    "intro": "A Qur’anic supplication asking Allah for gratitude, righteous deeds, and righteous offspring.",
+    "story": "**This supplication appears in Surah Al-Ahqaf (46:15)** as part of Allah’s reminder about kindness and gratitude toward parents.\n\nThe verse highlights the **sacrifices and hardships a mother experiences during pregnancy, birth, and nurturing**, reminding believers of the great rights parents have over their children.\n\nScholars explain that the phrase **\"Rabbi awzi'ni\" means asking Allah to inspire and enable a person to remain grateful for His blessings**. These blessings include the guidance, faith, and favors Allah has bestowed upon both the individual and their parents.\n\nThe supplication also asks Allah for **the ability to perform righteous deeds that He is pleased with and for the righteousness of one's descendants**. It concludes with **repentance and submission to Allah**, showing that gratitude, righteous action, and sincere repentance are essential parts of a believer’s life.",
+    "benefits": [
+      "🤲 A Qur’anic supplication asking Allah for gratitude",
+      "❤️ Reminds believers of the blessings given to them and their parents",
+      "🌿 Encourages righteous deeds that please Allah",
+      "👨‍👩‍👧‍👦 Includes dua for righteous offspring",
+      "📖 Emphasizes repentance and submission to Allah"
+    ],
+    "phrases": [
+      {
+        "arabic": "رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ",
+        "transliteration": "Rabbi awzi'ni an ashkura ni'mataka allati an'amta 'alayya wa 'ala walidayya",
+        "meaning": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents",
+        "startTime": 0,
+        "endTime": 12
+      },
+      {
+        "arabic": "وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ",
+        "transliteration": "Wa an a'mala salihan tardahu wa aslih li fi dhurriyyati",
+        "meaning": "And to do righteousness that You approve of and make righteous for me my offspring",
+        "startTime": 11.5,
+        "endTime": 21
+      },
+      {
+        "arabic": "إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ",
+        "transliteration": "Inni tubtu ilayka wa inni minal-muslimin",
+        "meaning": "Indeed I have repented to You, and indeed I am among the المسلمين",
+        "startTime": 22,
+        "endTime": 31
+      }
+    ],
+    "questions": [
+      {
+        "question": "In which Surah does this supplication appear?",
+        "answer": "Surah Al-Ahqaf (46:15).",
+        "explanation": "It appears in a verse that emphasizes gratitude toward Allah and kindness toward parents."
+      },
+      {
+        "question": "What does 'Rabbi awzi'ni' mean?",
+        "answer": "It means 'My Lord, inspire and enable me.'",
+        "explanation": "It is a request for Allah to grant the ability and motivation to remain grateful."
+      },
+      {
+        "question": "What does the dua ask for regarding one's family?",
+        "answer": "Righteous offspring.",
+        "explanation": "The supplication asks Allah to make one's descendants righteous and guided."
+      }
+    ],
+    "reference": {
+      "source": "Qur'an",
+      "surah": "Al-Ahqaf",
+      "ayah": "46:15"
+    },
+    "whenToRead": {
+      "inSalah": [
+        "During personal supplication before salam",
+        "During dua in sujood"
+      ],
+      "outsideSalah": [
+        "When thanking Allah for blessings",
+        "When praying for righteous children",
+        "When reflecting on the blessings of parents"
+      ]
+    }
+  },
+  {
+    "id": "dua-parents-4",
+    "categoryId": "parents",
+    "title": "Rabbi Ighfir Li Wa Li Walidayya – Forgiveness for Family and Believers",
+    "arabicFull": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًا",
+    "transliterationFull": "Rabbi ighfir li wa li walidayya wa liman dakhala baytiya mu'minan wa lil-mu'minina wal-mu'minat wa la tazidiz-zalimina illa tabara",
+    "translationFull": "My Lord, forgive me, my parents, whoever enters my house as a believer, and the believing men and believing women. And do not increase the wrongdoers except in destruction.",
+    "intro": "A Qur’anic supplication made by Prophet Nuh (AS) asking Allah to forgive himself, his parents, and all believers.",
+    "story": "**This supplication appears in Surah Nuh (71:28)** and is a dua made by **Prophet Nuh (AS)** after calling his people to faith.\n\nIn this prayer, he asks Allah to **forgive himself, his parents, and anyone who enters his home as a believer**, showing kindness and concern for the people who share faith.\n\nScholars explain that the phrase **\"whoever enters my house as a believer\"** may refer to **those who entered his home or even his place of worship with faith and sincerity**.\n\nThe supplication then expands further to include **all believing men and women**, reflecting the mercy and compassion of the prophets toward the entire community of believers.\n\nThe dua concludes with a request that **the wrongdoers not increase except in loss and destruction**, referring to the ultimate consequence of persistent injustice and rejection of truth.",
+    "benefits": [
+      "🤲 A Qur’anic supplication made by Prophet Nuh (AS)",
+      "❤️ Encourages praying for one's parents",
+      "🏡 Includes dua for believers who enter one's home",
+      "🌿 Includes prayer for all believing men and women",
+      "📖 Reminds believers of the consequences of wrongdoing"
+    ],
+    "phrases": [
+      {
+        "arabic": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا",
+        "transliteration": "Rabbi ighfir li wa li walidayya wa liman dakhala baytiya mu'minan",
+        "meaning": "My Lord, forgive me, my parents, and whoever enters my house as a believer",
+        "startTime": 0,
+        "endTime": 8.5
+      },
+      {
+        "arabic": "وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًا",
+        "transliteration": "Wa lil-mu'minina wal-mu'minat wa la tazidiz-zalimina illa tabara",
+        "meaning": "And forgive the believing men and believing women, and do not increase the wrongdoers except in destruction",
+        "startTime": 8.5,
+        "endTime": 13
+      }
+    ],
+    "questions": [
+      {
+        "question": "Which prophet made this supplication?",
+        "answer": "Prophet Nuh (AS).",
+        "explanation": "This dua appears at the end of Surah Nuh and was said by Prophet Nuh."
+      },
+      {
+        "question": "Who does this dua ask forgiveness for?",
+        "answer": "The supplicant, their parents, believers who enter the house, and all believing men and women.",
+        "explanation": "The prayer expands from the individual to the entire community of believers."
+      },
+      {
+        "question": "What does 'tabara' mean in this verse?",
+        "answer": "Loss or destruction.",
+        "explanation": "It refers to the ruin that comes to those who persist in wrongdoing."
+      }
+    ],
+    "reference": {
+      "source": "Qur'an",
+      "surah": "Nuh",
+      "ayah": "71:28"
+    },
+    "whenToRead": {
+      "inSalah": [
+        "During personal supplication before salam",
+        "During dua in sujood"
+      ],
+      "outsideSalah": [
+        "When praying for parents",
+        "When making dua for all believers",
+        "When asking Allah for forgiveness"
+      ]
     }
   }
 ]

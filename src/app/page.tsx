@@ -1,7 +1,7 @@
 import { categories } from "@/lib/data";
 import { CategoryCard } from "@/components/CategoryCard";
 import { ProgressLinkCard } from "@/components/ProgressLinkCard";
-import { PersonalDuaBuilderCard, PersonalDuaViewCard } from "@/components/PersonalDuaCards";
+import { PersonalDuaDropdown } from "@/components/PersonalDuaDropdown";
 
 export default function HomePage() {
   return (
@@ -23,8 +23,7 @@ export default function HomePage() {
         </header>
         <div className="space-y-3">
           <ProgressLinkCard />
-          <PersonalDuaBuilderCard />
-          <PersonalDuaViewCard />
+          <PersonalDuaDropdown />
           {categories.map((category) => (
             <CategoryCard key={category.id} category={category} />
           ))}

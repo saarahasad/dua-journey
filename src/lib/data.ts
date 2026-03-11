@@ -242,6 +242,11 @@ export function getDuasForPersonalSectionRotated(
   return shuffle(all).slice(0, count);
 }
 
+/** Returns first N duas per section for the example PDF (deterministic). */
+export function getDuasForPersonalSectionExample(section: PersonalSectionKey, count: number = 4): Dua[] {
+  return getDuasForPersonalSection(section).slice(0, count);
+}
+
 /** Returns suggested duas in random order so the list varies each visit. */
 export function getSuggestedDuasForPersonalDuaShuffled(count: number = 8): Dua[] {
   const pool = getSuggestedDuasForPersonalDua(20);

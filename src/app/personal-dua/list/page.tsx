@@ -1,13 +1,15 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { getPersonalDuaList, type PersonalDuaList } from "@/lib/personalDuaStorage";
 import { getDuasForPersonalSectionRotated } from "@/lib/data";
 import { PersonalDuaBlock } from "@/components/PersonalDuaBlock";
 import { EssentialDuasIntro } from "@/components/EssentialDuasIntro";
 import { InlineDuaBlock } from "@/components/InlineDuaBlock";
+import { PersonalDuaListPdfContent } from "@/components/PersonalDuaListPdfContent";
 import { useToast } from "@/components/ToastProvider";
+import { downloadElementAsPdf } from "@/lib/downloadListPdf";
 
 function formatSavedDate(iso: string): string {
   try {
@@ -18,42 +20,12 @@ function formatSavedDate(iso: string): string {
   }
 }
 
-function listAsPlainText(list: PersonalDuaList): string {
-  const parts: string[] = ["My Dua List"];
-  if (list.savedAt) {
-    try {
-      parts.push(`Saved ${formatSavedDate(list.savedAt)}`);
-    } catch {
-      // ignore
-    }
-  }
-  parts.push("");
-  if (list.worries.trim()) {
-    parts.push("Worries & difficulties");
-    parts.push(list.worries.trim());
-    parts.push("");
-  }
-  if (list.goals.trim()) {
-    parts.push("Goals & wishes");
-    parts.push(list.goals.trim());
-    parts.push("");
-  }
-  if (list.weaknesses.trim()) {
-    parts.push("Weaknesses to improve");
-    parts.push(list.weaknesses.trim());
-    parts.push("");
-  }
-  if (list.people.trim()) {
-    parts.push("People to pray for");
-    parts.push(list.people.trim());
-  }
-  return parts.join("\n");
-}
-
 type ListState = "loading" | "none" | PersonalDuaList;
 
 export default function PersonalDuaListViewPage() {
   const [state, setState] = useState<ListState>("loading");
+  const [pdfBusy, setPdfBusy] = useState(false);
+  const pdfContentRef = useRef<HTMLDivElement>(null);
   const { showToast } = useToast();
 
   useEffect(() => {
@@ -146,39 +118,60 @@ export default function PersonalDuaListViewPage() {
   }
 
   return (
-    <main className="min-h-screen">
-      <div className="mx-auto max-w-md px-4 pb-24 pt-6">
+    <main className="flex min-h-screen flex-col">
+      {/* Off-screen div for PDF capture: no scrollbars, same list + suggested duas */}
+      <div
+        ref={pdfContentRef}
+        aria-hidden
+        className="fixed left-[-9999px] top-0 z-[-1] overflow-visible"
+        style={{ width: 595, overflow: "visible" }}
+      >
+        <PersonalDuaListPdfContent list={list} rotatedDuas={rotatedDuas} />
+      </div>
+
+      <div className="mx-auto flex min-h-0 w-full max-w-md flex-1 flex-col px-4 pb-6 pt-6">
         <Link
           href="/"
-          className="mb-4 inline-block text-sm font-medium text-slate-600 underline decoration-slate-400 underline-offset-2 hover:text-slate-800"
+          className="mb-4 shrink-0 inline-block text-sm font-medium text-slate-600 underline decoration-slate-400 underline-offset-2 hover:text-slate-800"
         >
           ← Back
         </Link>
-        <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
+        <div className="mb-4 shrink-0 flex flex-wrap items-center justify-between gap-2">
           <h1 className="text-xl font-semibold text-slate-800">My Dua List</h1>
           <div className="flex items-center gap-2">
+            <Link
+              href="/personal-dua"
+              className="text-sm font-medium text-slate-600 underline decoration-slate-400 underline-offset-2 hover:text-slate-800"
+            >
+              Edit my list
+            </Link>
             {list.savedAt && (
               <span className="text-xs text-slate-500">Saved {formatSavedDate(list.savedAt)}</span>
             )}
             <button
               type="button"
+              disabled={pdfBusy}
               onClick={async () => {
+                if (!pdfContentRef.current) return;
+                setPdfBusy(true);
                 try {
-                  await navigator.clipboard.writeText(listAsPlainText(list));
-                  showToast("List copied to clipboard");
+                  await downloadElementAsPdf(pdfContentRef.current, "my-dua-list.pdf");
+                  showToast("PDF downloaded");
                 } catch {
-                  showToast("Could not copy");
+                  showToast("Could not create PDF");
+                } finally {
+                  setPdfBusy(false);
                 }
               }}
-              className="rounded-lg border border-slate-300 bg-white px-3 py-1.5 text-sm font-medium text-slate-700 shadow-sm hover:bg-slate-50"
+              className="rounded-lg border border-slate-300 bg-white px-3 py-1.5 text-sm font-medium text-slate-700 shadow-sm hover:bg-slate-50 disabled:opacity-60"
             >
-              Copy list
+              {pdfBusy ? "Creating…" : "Download as PDF"}
             </button>
           </div>
         </div>
 
-        <div className="card-overlay overflow-hidden">
-          <div className="max-h-[75vh] overflow-y-auto p-5">
+        <div className="card-overlay min-h-0 flex-1 overflow-hidden flex flex-col">
+          <div className="min-h-0 flex-1 overflow-y-auto p-5">
             <div className="space-y-6 text-sm">
               <div className="rounded-xl bg-slate-100 p-4 text-center text-slate-700 shadow-sm">
                 <EssentialDuasIntro centered />
@@ -262,12 +255,6 @@ export default function PersonalDuaListViewPage() {
             </div>
           </div>
         </div>
-
-        <p className="mt-6 text-center text-sm text-slate-500">
-          <Link href="/personal-dua" className="underline decoration-slate-400 underline-offset-2 hover:text-slate-700">
-            Edit my list
-          </Link>
-        </p>
       </div>
     </main>
   );
