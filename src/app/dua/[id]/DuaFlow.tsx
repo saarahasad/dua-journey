@@ -499,10 +499,14 @@ export function DuaFlow({ dua }: DuaFlowProps) {
         >
           <BackLink />
           <div className="space-y-6">
-            <h2 className="text-overlay text-center text-xl font-semibold text-black">
-              When You Can Read This Dua
-            </h2>
-            <WhenToReadSection whenToRead={dua.whenToRead} />
+            {(dua.whenToRead.inSalah?.length > 0 || dua.whenToRead.outsideSalah?.length > 0) && (
+              <>
+                <h2 className="text-overlay text-center text-xl font-semibold text-black">
+                  When You Can Read This Dua
+                </h2>
+                <WhenToReadSection whenToRead={dua.whenToRead} />
+              </>
+            )}
             {alreadyMemorised && (
               <p className="text-overlay text-sm text-sage-500">
                 You’ve memorised this dua. Tap above to unmark if you’d like to

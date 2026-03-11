@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Category } from "@/lib/data";
+import { getAssetUrl } from "@/lib/basePath";
 import praiseIcon from "@/assets/icons/praise.png";
 import salawatIcon from "@/assets/icons/salawat.png";
 import knowledgeIcon from "@/assets/icons/knowledge.png";
@@ -11,10 +12,8 @@ import spouseIcon from "@/assets/icons/spouse.png";
 import insalahIcon from "@/assets/icons/insalah.png";
 import aftersalahIcon from "@/assets/icons/aftersalah.png";
 import easeIcon from "@/assets/icons/ease.png";
-import istikharaIcon from "@/assets/icons/istikhara.png";
 import duniyaIcon from "@/assets/icons/duniya.png";
 import forgivenessIcon from "@/assets/icons/forgiveness.png";
-import gratitudeIcon from "@/assets/icons/gratitude.png";
 import steadfastnessIcon from "@/assets/icons/steadfastness.png";
 
 /** Map category id to icon filename (no .png) */
@@ -49,10 +48,10 @@ const ICON_SRC: Record<string, string> = {
   insalah: insalahIcon.src,
   aftersalah: aftersalahIcon.src,
   ease: easeIcon.src,
-  istikhara: istikharaIcon.src,
+  istikhara: getAssetUrl("icons/istikhara.jpg"),
   duniya: duniyaIcon.src,
   forgiveness: forgivenessIcon.src,
-  gratitude: gratitudeIcon.src,
+  gratitude: getAssetUrl("icons/gratitude.png"),
   steadfastness: steadfastnessIcon.src,
 };
 

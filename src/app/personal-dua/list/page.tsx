@@ -1,12 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { getPersonalDuaList, type PersonalDuaList } from "@/lib/personalDuaStorage";
-import { getSuggestedDuasForPersonalDua } from "@/lib/data";
+import { getDuasForPersonalSectionRotated } from "@/lib/data";
 import { PersonalDuaBlock } from "@/components/PersonalDuaBlock";
 import { EssentialDuasIntro } from "@/components/EssentialDuasIntro";
-import { DuaCard } from "@/components/DuaCard";
+import { InlineDuaBlock } from "@/components/InlineDuaBlock";
 import { useToast } from "@/components/ToastProvider";
 
 function formatSavedDate(iso: string): string {
@@ -61,6 +61,17 @@ export default function PersonalDuaListViewPage() {
     setState(stored ?? "none");
   }, []);
 
+  // Rotate which duas appear: random 4 of 10 per section each visit (hooks must run before any return)
+  const rotatedDuas = useMemo(
+    () => ({
+      worries: getDuasForPersonalSectionRotated("worries", 4),
+      goals: getDuasForPersonalSectionRotated("goals", 4),
+      weaknesses: getDuasForPersonalSectionRotated("weaknesses", 4),
+      people: getDuasForPersonalSectionRotated("people", 4),
+    }),
+    []
+  );
+
   if (state === "loading") {
     return (
       <main className="min-h-screen">
@@ -108,6 +119,7 @@ export default function PersonalDuaListViewPage() {
 
   const list = state;
   const empty = !list.worries.trim() && !list.goals.trim() && !list.weaknesses.trim() && !list.people.trim();
+
   if (empty) {
     return (
       <main className="min-h-screen">
@@ -171,53 +183,85 @@ export default function PersonalDuaListViewPage() {
               <div className="rounded-xl bg-slate-100 p-4 text-center text-slate-700 shadow-sm">
                 <EssentialDuasIntro centered />
               </div>
+
               {list.worries.trim() && (
-                <div className="rounded-xl border border-slate-100 bg-white p-4 shadow-sm">
-                  <h2 className="mb-2 font-semibold text-[#984167]">Worries & difficulties</h2>
-                  <div className="leading-relaxed text-slate-600">
-                    <PersonalDuaBlock text={list.worries} />
+                <>
+                  <div className="rounded-xl border border-slate-100 bg-white p-4 shadow-sm">
+                    <h2 className="mb-2 font-semibold text-[#984167]">Worries & difficulties</h2>
+                    <div className="leading-relaxed text-black">
+                      <PersonalDuaBlock text={list.worries} />
+                    </div>
                   </div>
-                </div>
+                  {rotatedDuas.worries.length > 0 && (
+                    <div className="space-y-3">
+                      <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Dua to recite</p>
+                      {rotatedDuas.worries.map((dua) => (
+                        <InlineDuaBlock key={dua.id} dua={dua} />
+                      ))}
+                    </div>
+                  )}
+                </>
               )}
+
               {list.goals.trim() && (
-                <div className="rounded-xl border border-slate-100 bg-white p-4 shadow-sm">
-                  <h2 className="mb-2 font-semibold text-[#984167]">Goals & wishes</h2>
-                  <div className="leading-relaxed text-slate-600">
-                    <PersonalDuaBlock text={list.goals} />
+                <>
+                  <div className="rounded-xl border border-slate-100 bg-white p-4 shadow-sm">
+                    <h2 className="mb-2 font-semibold text-[#984167]">Goals & wishes</h2>
+                    <div className="leading-relaxed text-black">
+                      <PersonalDuaBlock text={list.goals} />
+                    </div>
                   </div>
-                </div>
+                  {rotatedDuas.goals.length > 0 && (
+                    <div className="space-y-3">
+                      <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Dua to recite</p>
+                      {rotatedDuas.goals.map((dua) => (
+                        <InlineDuaBlock key={dua.id} dua={dua} />
+                      ))}
+                    </div>
+                  )}
+                </>
               )}
+
               {list.weaknesses.trim() && (
-                <div className="rounded-xl border border-slate-100 bg-white p-4 shadow-sm">
-                  <h2 className="mb-2 font-semibold text-[#984167]">Weaknesses to improve</h2>
-                  <div className="leading-relaxed text-slate-600">
-                    <PersonalDuaBlock text={list.weaknesses} />
+                <>
+                  <div className="rounded-xl border border-slate-100 bg-white p-4 shadow-sm">
+                    <h2 className="mb-2 font-semibold text-[#984167]">Weaknesses to improve</h2>
+                    <div className="leading-relaxed text-black">
+                      <PersonalDuaBlock text={list.weaknesses} />
+                    </div>
                   </div>
-                </div>
+                  {rotatedDuas.weaknesses.length > 0 && (
+                    <div className="space-y-3">
+                      <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Dua to recite</p>
+                      {rotatedDuas.weaknesses.map((dua) => (
+                        <InlineDuaBlock key={dua.id} dua={dua} />
+                      ))}
+                    </div>
+                  )}
+                </>
               )}
+
               {list.people.trim() && (
-                <div className="rounded-xl border border-slate-100 bg-white p-4 shadow-sm">
-                  <h2 className="mb-2 font-semibold text-[#984167]">People to pray for</h2>
-                  <div className="leading-relaxed text-slate-600">
-                    <PersonalDuaBlock text={list.people} />
+                <>
+                  <div className="rounded-xl border border-slate-100 bg-white p-4 shadow-sm">
+                    <h2 className="mb-2 font-semibold text-[#984167]">People to pray for</h2>
+                    <div className="leading-relaxed text-black">
+                      <PersonalDuaBlock text={list.people} />
+                    </div>
                   </div>
-                </div>
+                  {rotatedDuas.people.length > 0 && (
+                    <div className="space-y-3">
+                      <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Dua to recite</p>
+                      {rotatedDuas.people.map((dua) => (
+                        <InlineDuaBlock key={dua.id} dua={dua} />
+                      ))}
+                    </div>
+                  )}
+                </>
               )}
             </div>
           </div>
         </div>
-
-        <section className="mt-8">
-          <h2 className="mb-3 text-lg font-semibold text-slate-800">Suggested duas to read with your list</h2>
-          <p className="mb-4 text-sm text-slate-600">
-            These duas from the app go well with personal supplication — for ease, gratitude, forgiveness, and more.
-          </p>
-          <div className="space-y-3">
-            {getSuggestedDuasForPersonalDua(8).map((dua) => (
-              <DuaCard key={dua.id} dua={dua} noGlow />
-            ))}
-          </div>
-        </section>
 
         <p className="mt-6 text-center text-sm text-slate-500">
           <Link href="/personal-dua" className="underline decoration-slate-400 underline-offset-2 hover:text-slate-700">

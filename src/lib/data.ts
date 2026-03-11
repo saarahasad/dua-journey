@@ -161,3 +161,89 @@ export function getSuggestedDuasForPersonalDua(maxCount: number = 8): Dua[] {
   }
   return suggested;
 }
+
+/** Personal list section keys for embedding relevant duas. */
+export type PersonalSectionKey = "worries" | "goals" | "weaknesses" | "people";
+
+/** Dua IDs to show after each personal section (Arabic + translation inline). 10 per section; rotation picks a subset each visit. */
+const DUAS_BY_PERSONAL_SECTION: Record<PersonalSectionKey, string[]> = {
+  worries: [
+    "dua-contentment-1",
+    "dua-contentment-2",
+    "dua-contentment-3",
+    "dua-contentment-4",
+    "dua-ease-1",
+    "dua-ease-2",
+    "dua-ease-3",
+    "dua-ease-4",
+    "dua-ease-5",
+    "dua-gratitude-1",
+  ],
+  goals: [
+    "dua-duniya-akhirah-1",
+    "dua-duniya-akhirah-2",
+    "dua-duniya-akhirah-3",
+    "dua-knowledge-1",
+    "dua-knowledge-2",
+    "dua-knowledge-3",
+    "dua-istikhara-1",
+    "dua-istikhara-2",
+    "dua-gratitude-2",
+    "dua-gratitude-3",
+  ],
+  weaknesses: [
+    "dua-steadfastness-1",
+    "dua-steadfastness-2",
+    "dua-steadfastness-3",
+    "dua-forgiveness-1",
+    "dua-forgiveness-2",
+    "dua-forgiveness-3",
+    "dua-forgiveness-4",
+    "dua-faith-1",
+    "dua-faith-2",
+    "dua-faith-3",
+  ],
+  people: [
+    "dua-children-1",
+    "dua-children-2",
+    "dua-children-3",
+    "dua-children-4",
+    "dua-children-5",
+    "dua-children-6",
+    "dua-spouse-1",
+    "dua-forgiveness-3",
+    "dua-faith-4",
+    "dua-faith-5",
+  ],
+};
+
+/** Returns duas to recite inline after each personal list section (Arabic + translation). */
+export function getDuasForPersonalSection(section: PersonalSectionKey): Dua[] {
+  const ids = DUAS_BY_PERSONAL_SECTION[section];
+  return ids.map((id) => getDuaById(id)).filter((d): d is Dua => d != null);
+}
+
+/** Fisher–Yates shuffle (returns new array). */
+function shuffle<T>(arr: T[]): T[] {
+  const out = [...arr];
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [out[i], out[j]] = [out[j], out[i]];
+  }
+  return out;
+}
+
+/** Returns a random subset of duas for a section (e.g. 4 of 10) so suggestions rotate each visit. */
+export function getDuasForPersonalSectionRotated(
+  section: PersonalSectionKey,
+  count: number = 4
+): Dua[] {
+  const all = getDuasForPersonalSection(section);
+  return shuffle(all).slice(0, count);
+}
+
+/** Returns suggested duas in random order so the list varies each visit. */
+export function getSuggestedDuasForPersonalDuaShuffled(count: number = 8): Dua[] {
+  const pool = getSuggestedDuasForPersonalDua(20);
+  return shuffle(pool).slice(0, count);
+}
