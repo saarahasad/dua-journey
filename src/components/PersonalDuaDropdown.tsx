@@ -16,7 +16,7 @@ export function PersonalDuaDropdown() {
   }, []);
 
   return (
-    <div className="overflow-hidden rounded-2xl border border-[#b25d82]/25 bg-white shadow-sm">
+    <div className="overflow-hidden rounded-2xl border border-slate-200/80 bg-white shadow-sm">
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}

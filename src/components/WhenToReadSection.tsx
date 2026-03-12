@@ -13,7 +13,7 @@ export function WhenToReadSection({ whenToRead }: WhenToReadSectionProps) {
   return (
     <div className="space-y-6">
       {hasInSalah && (
-        <div className="rounded-2xl p-5">
+        <div className="card-overlay p-5">
           <h3 className="flex items-center gap-2 text-lg font-semibold text-black">
             <span>🌙</span> In Salah
           </h3>
@@ -27,7 +27,7 @@ export function WhenToReadSection({ whenToRead }: WhenToReadSectionProps) {
         </div>
       )}
       {hasOutsideSalah && (
-        <div className="rounded-2xl p-5">
+        <div className="card-overlay p-5">
           <h3 className="flex items-center gap-2 text-lg font-semibold text-black">
             <span>🤲</span> Outside Salah
           </h3>

@@ -54,7 +54,7 @@ export default function PersonalDuaListViewPage() {
           >
             ← Back
           </Link>
-          <div className="card-overlay p-4 text-center">
+          <div className="card-overlay p-6 text-center">
             <p className="text-slate-600">Loading your list…</p>
           </div>
         </div>

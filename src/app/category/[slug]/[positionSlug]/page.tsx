@@ -56,35 +56,29 @@ export default async function SalahPositionPage({ params }: PageProps) {
 
   return (
     <main className="min-h-screen">
-      <div className="mx-auto flex min-h-full w-full max-w-xl flex-col px-2 sm:px-4 lg:max-w-2xl">
-        <div className="sticky top-0 z-10 shrink-0 bg-white pb-4 pt-4">
-          <Link
-            href={`/category/${category.slug}`}
-            className="text-overlay mb-4 inline-block text-sage-600 hover:text-black"
-          >
-            ← Back to {category.title}
-          </Link>
-          <header className="text-center">
-            <h1 className="text-overlay text-2xl font-semibold text-black">
-              {positionName}
-            </h1>
-            <p className="text-overlay mt-2 text-sage-600">
-              {positionName === "Other" ? "Other duas in salah." : `Duas recited ${positionName.toLowerCase()}.`}
-            </p>
-          </header>
-        </div>
-        <div className="min-h-0 flex-1 overflow-y-auto p-4">
-        <div className="card-overlay p-4">
+      <div className="mx-auto max-w-md px-4 py-8">
+        <Link
+          href={`/category/${category.slug}`}
+          className="text-overlay mb-6 inline-block text-sage-600 hover:text-black"
+        >
+          ← Back to {category.title}
+        </Link>
+        <header className="mb-8 text-center">
+          <h1 className="text-overlay text-2xl font-semibold text-black">
+            {positionName}
+          </h1>
+          <p className="text-overlay mt-2 text-sage-600">
+            {positionName === "Other" ? "Other duas in salah." : `Duas recited ${positionName.toLowerCase()}.`}
+          </p>
+        </header>
         <div className="space-y-4">
           {duas.length === 0 ? (
-            <p className="text-center text-sage-600">
+            <p className="card-overlay p-6 text-center text-sage-600">
               No duas in this position yet.
             </p>
           ) : (
-            duas.map((dua, i) => <DuaCardWithStatus key={dua.id} dua={dua} number={i + 1} />)
+            duas.map((dua) => <DuaCardWithStatus key={dua.id} dua={dua} />)
           )}
-        </div>
-        </div>
         </div>
       </div>
     </main>

@@ -31,25 +31,22 @@ export default async function CategoryPage({ params }: PageProps) {
 
   return (
     <main className="min-h-screen">
-      <div className="mx-auto flex min-h-full w-full max-w-xl flex-col px-2 sm:px-4 lg:max-w-2xl">
-        <div className="sticky top-0 z-10 shrink-0 bg-white pb-4 pt-4">
-          <Link
-            href="/"
-            className="text-overlay mb-4 inline-block text-sage-600 hover:text-black"
-          >
-            ← Back
-          </Link>
-          <header className="text-center">
-            <h1 className="text-overlay text-2xl font-semibold text-black">
-              {category.title}
-            </h1>
-            <p className="text-overlay mt-2 text-sage-600">{category.description}</p>
-          </header>
-        </div>
-        <div className="min-h-0 flex-1 overflow-y-auto p-4">
+      <div className="mx-auto max-w-md px-4 py-8">
+        <Link
+          href="/"
+          className="text-overlay mb-6 inline-block text-sage-600 hover:text-black"
+        >
+          ← Back
+        </Link>
+        <header className="mb-8 text-center">
+          <h1 className="text-overlay text-2xl font-semibold text-black">
+            {category.title}
+          </h1>
+          <p className="text-overlay mt-2 text-sage-600">{category.description}</p>
+        </header>
         <div className="space-y-4">
           {categoryDuas.length === 0 ? (
-            <p className="text-center text-sage-600">
+            <p className="card-overlay p-6 text-center text-sage-600">
               No duas in this category yet. Add them via duas.json.
             </p>
           ) : hasSubPages ? (
@@ -58,7 +55,7 @@ export default async function CategoryPage({ params }: PageProps) {
                 <li key={position}>
                   <Link
                     href={`/category/${category.slug}/${getSalahPositionSlug(position)}`}
-                    className="block rounded-xl border border-[#b25d82]/20 p-4 text-left text-black transition hover:border-[#b25d82]/40 hover:bg-[#b25d82]/5"
+                    className="card-overlay block rounded-xl border border-sage-200 p-4 text-left text-black transition hover:border-sage-400 hover:bg-sage-50/50"
                   >
                     <span className="font-medium">{position}</span>
                   </Link>
@@ -68,7 +65,7 @@ export default async function CategoryPage({ params }: PageProps) {
                 <li>
                   <Link
                     href={`/category/${category.slug}/other`}
-                    className="block rounded-xl border border-[#b25d82]/20 p-4 text-left text-black transition hover:border-[#b25d82]/40 hover:bg-[#b25d82]/5"
+                    className="card-overlay block rounded-xl border border-sage-200 p-4 text-left text-black transition hover:border-sage-400 hover:bg-sage-50/50"
                   >
                     <span className="font-medium">Other</span>
                   </Link>
@@ -76,11 +73,10 @@ export default async function CategoryPage({ params }: PageProps) {
               )}
             </ul>
           ) : (
-            categoryDuas.map((dua, i) => (
-              <DuaCardWithStatus key={dua.id} dua={dua} number={i + 1} />
+            categoryDuas.map((dua) => (
+              <DuaCardWithStatus key={dua.id} dua={dua} />
             ))
           )}
-        </div>
         </div>
       </div>
     </main>

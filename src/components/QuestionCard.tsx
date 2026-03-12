@@ -12,7 +12,7 @@ export function QuestionCard({ question }: QuestionCardProps) {
   const [revealed, setRevealed] = useState(false);
 
   return (
-    <div className="rounded-2xl p-5">
+    <div className="card-overlay p-5">
       <TextWithBold
         text={question.question}
         as="p"

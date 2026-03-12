@@ -6,7 +6,7 @@ import { DuaCard } from "./DuaCard";
 import { isMemorised, unmarkAsMemorised } from "@/lib/localStorage";
 import { useToast } from "./ToastProvider";
 
-export function DuaCardWithStatus({ dua, number }: { dua: Dua; number?: number }) {
+export function DuaCardWithStatus({ dua }: { dua: Dua }) {
   const [memorised, setMemorised] = useState(false);
   const { showToast } = useToast();
 
@@ -21,6 +21,6 @@ export function DuaCardWithStatus({ dua, number }: { dua: Dua; number?: number }
   }, [dua.id, showToast]);
 
   return (
-    <DuaCard dua={dua} isMemorised={memorised} onUnmark={handleUnmark} number={number} />
+    <DuaCard dua={dua} isMemorised={memorised} onUnmark={handleUnmark} />
   );
 }

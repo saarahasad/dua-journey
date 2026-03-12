@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Amiri } from "next/font/google";
 import "./globals.css";
 import { ToastProvider } from "@/components/ToastProvider";
-import backgroundImage from "@/newborder.svg";
+import backgroundImage from "@/background-1.png";
 
 const amiri = Amiri({
   weight: ["400", "700"],
@@ -36,19 +36,16 @@ export default function RootLayout({
             backgroundImage: `url(${backgroundImage.src})`,
             backgroundRepeat: "repeat",
             backgroundSize: "auto",
+            opacity: 1,
           }}
           aria-hidden
         />
-        <ToastProvider>
-        <div className="flex min-h-screen justify-center pt-2 px-2">
-          <div
-            className="w-full max-w-md lg:max-w-xl overflow-y-auto rounded-2xl border border-[#b25d82]/25 bg-white p-4 pt-0 shadow-lg"
-            style={{ height: "calc(100vh - 80px);  border: 2px solid #b25d82;            " }}
-          >
-            {children}
-          </div>
-        </div>
-      </ToastProvider>
+        <div
+          className="fixed inset-0 -z-10 min-h-[100dvh] w-full min-w-full pointer-events-none"
+      
+          aria-hidden
+        />
+        <ToastProvider>{children}</ToastProvider>
       </body>
     </html>
   );
