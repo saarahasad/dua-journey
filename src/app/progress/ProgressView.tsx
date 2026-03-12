@@ -84,7 +84,7 @@ export function ProgressView() {
   return (
     <div className="space-y-8">
       {/* Visual progress summary */}
-      <div className="card-overlay overflow-hidden p-6">
+      <div className="card-overlay overflow-hidden p-4">
         <div className="flex items-baseline justify-between gap-2">
           <span className="text-3xl font-bold tabular-nums text-sage-800">
             {count}
@@ -96,7 +96,7 @@ export function ProgressView() {
         </div>
         <div className="mt-3 h-3 w-full overflow-hidden rounded-full bg-sage-200/70">
           <div
-            className="h-full rounded-full bg-[#136207] transition-all duration-500 ease-out"
+            className="h-full rounded-full bg-[#8B2C3E] transition-all duration-500 ease-out"
             style={{ width: `${percent}%` }}
             role="progressbar"
             aria-valuenow={count}
@@ -136,13 +136,14 @@ export function ProgressView() {
                 />
               </div>
               <div className="space-y-3 pt-1">
-                {inCategory.map((dua) => (
+                {inCategory.map((dua, i) => (
                   <DuaCard
                     key={dua.id}
                     dua={dua}
                     isMemorised
                     onUnmark={() => handleUnmark(dua.id)}
                     noGlow
+                    number={i + 1}
                   />
                 ))}
               </div>

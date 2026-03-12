@@ -1,9 +1,10 @@
 #!/usr/bin/env node
 /**
- * Exports an Excel-friendly CSV: categories, list of duas, and whether each has audio.
+ * Exports an Excel-friendly CSV: categories, list of duas, has audio, and link to the dua on the hosted site.
  * Run: node scripts/export-duas-audio-sheet.mjs
  * Output: duas-audio-inventory.csv (open in Excel or Sheets)
  */
+const BASE_URL = "https://saarahasad.github.io/dua-journey";
 
 import fs from "fs";
 import path from "path";
@@ -43,15 +44,17 @@ function escapeCsv(val) {
   return s;
 }
 
-const header = ["Category", "Category ID", "Dua ID", "Dua Title", "Has Audio"];
+const header = ["Category", "Category ID", "Dua ID", "Dua Title", "Has Audio", "Link"];
 const rows = sortedDuas.map((d) => {
   const cat = categoryById.get(d.categoryId);
+  const link = `${BASE_URL}/dua/${d.id}`;
   return [
     escapeCsv(cat?.title ?? d.categoryId),
     escapeCsv(d.categoryId),
     escapeCsv(d.id),
     escapeCsv(d.title),
     hasAudioSet.has(d.id) ? "Yes" : "No",
+    escapeCsv(link),
   ];
 });
 

@@ -1,69 +1,70 @@
-﻿Category,Category ID,Dua ID,Dua Title,Has Audio
-Praise and Glorification,praise,dua-praise-1,Subhanallahi wa bihamdihi – Infinite Praise,Yes
-Praise and Glorification,praise,dua-praise-2,Allahu Akbar Kabira – Abundant Praise,Yes
-Praise and Glorification,praise,dua-praise-3,Allahumma Rabbana Laka al-Hamd – Filling the Heavens,Yes
-Salawat on the Prophet ﷺ,salawat,dua-salawat-1,🌿 Salawat Ibrahimiyyah – Upon Muhammad and His Family,Yes
-Salawat on the Prophet ﷺ,salawat,dua-salawat-2,"🌿 Salawat – Upon Muhammad, His Wives and Offspring",Yes
-Knowledge,knowledge,dua-knowledge-1,Allahumma Inni A'udhu Bika – Protection from Useless Knowledge,Yes
-Knowledge,knowledge,dua-knowledge-2,Allahumma Anfa'ni – Grant Me Beneficial Knowledge,Yes
-Knowledge,knowledge,dua-knowledge-3,"Allahumma Inni As'aluka – Beneficial Knowledge, Pure Rizq, Accepted Deeds",Yes
-Firmness in Faith,faith,dua-faith-1,La Ilaha Illa Anta – Dua of Yunus (AS),Yes
-Firmness in Faith,faith,dua-faith-2,Allahu Allahu Rabbi – Firm Tawhid,Yes
-Firmness in Faith,faith,dua-faith-3,Allahumma Inni A'udhu Bika – Protection from Kufr and the Grave,Yes
-Firmness in Faith,faith,dua-faith-4,Rabbana Zalamna – Dua of Adam (AS),Yes
-Firmness in Faith,faith,dua-faith-5,Rabbana Waj'alna Muslimayn – Dua of Ibrahim (AS),Yes
-Contentment with Divine Decree,contentment,dua-contentment-1,Radiytu Billahi Rabba – Contentment with Allah,No
-Contentment with Divine Decree,contentment,dua-contentment-2,Hasbiyallahu – Trust in Allah,No
-Contentment with Divine Decree,contentment,dua-contentment-3,Allahumma Inni A'udhu Bika – Protection from Loss of Blessings,No
-Contentment with Divine Decree,contentment,dua-contentment-4,Inna Lillahi – Dua During Calamity,No
-Children,children,dua-children-1,🌿 Protection for Children – From Shaytan,Yes
-Children,children,dua-children-2,🌿 Rabbi Hab Li – Grant Me Righteous Offspring,Yes
-Children,children,dua-children-3,🌿 Protection for Children – With the Perfect Words of Allah,Yes
-Children,children,dua-children-4,🌿 Rabbi Ij‘alni Muqim As-Salah – Make Me and My Children Steadfast in Prayer,Yes
-Children,children,dua-children-5,🌿 Rabbana Hablana – Make Our Families the Comfort of Our Eyes,Yes
-Children,children,dua-children-6,🌿 Allahumma Ighfir Dhanbahu – Dua for a Child’s Purity,Yes
-Spouse,spouse,dua-spouse-1,🌿 Allahumma Allif Bayna Qulubina – Reconcile Our Hearts,Yes
-In Salah,in-salah,dua-insalah-1,🌿 Allahumma A'inni 'ala Dhikrika – Help Me Worship You Well,Yes
-In Salah,in-salah,dua-insalah-10,🌿 Subhanallahi wa bihamdihi – Glorification & Return,Yes
-In Salah,in-salah,dua-insalah-11,🌿 Allahumma Ighfir Li Dhanbi Kullahu – Complete Forgiveness,Yes
-In Salah,in-salah,dua-insalah-12,🌿 Allahumma Ighfir Li Warhamni – Between the Two Sujood,Yes
-In Salah,in-salah,dua-insalah-13,"🌿 Protection from Hell, Grave & Dajjal",Yes
-In Salah,in-salah,dua-insalah-14,🌿 The Dua of Abu Bakr (RA),Yes
-In Salah,in-salah,dua-insalah-15,🌿 Allahumma Aj‘al Li Nuran – Dua Between Sunnah & Fard of Fajr,Yes
-In Salah,in-salah,dua-insalah-2,🌿 Allahumma Tahhir Qalbi – Purify My Heart,Yes
-In Salah,in-salah,dua-insalah-3,🌿 Subhanaka Allahumma – Opening Praise After Takbir,No
-In Salah,in-salah,dua-insalah-4,🌿 Allahu Akbar Kabira – Words the Angels Raced For,Yes
-In Salah,in-salah,dua-insalah-5,🌿 Allahumma Ba'id Bayni – Opening Supplication of Purification,Yes
-In Salah,in-salah,dua-insalah-6,🌿 Subboohun Quddoos – Lord of the Angels and the Spirit,Yes
-In Salah,in-salah,dua-insalah-7,🌿 Allahumma Laka Raka’tu – Submission in Bowing,Yes
-In Salah,in-salah,dua-insalah-8,🌿 Subhanaka Rabbana – Glorification with Forgiveness,Yes
-In Salah,in-salah,dua-insalah-9,🌿 Rabbana wa Lakal Hamd – Abundant Praise After Rising,Yes
-After Salah,after-salah,dua-after-salah-1,🌿 Allahumma Antas-Salam – Peace After Prayer,Yes
-Ease and Relief from Hardship,ease-hardship,dua-ease-1,🌿 Rabbana Atina Min Ladunka Rahmah – Mercy & Right Guidance,Yes
-Ease and Relief from Hardship,ease-hardship,dua-ease-2,🌿 Rabbi Ishrah Li Sadri – Expansion & Facilitation,Yes
-Ease and Relief from Hardship,ease-hardship,dua-ease-3,🌿 Allahumma La Sahla – Surrendering Ease to Allah,Yes
-Ease and Relief from Hardship,ease-hardship,dua-ease-4,🌿 La Ilaha Illallah Al-Halim Al-Karim – Words of Relief,Yes
-Ease and Relief from Hardship,ease-hardship,dua-ease-5,🌿 Allahumma Ahsin ‘Aqibatana – A Beautiful End in All Affairs,Yes
-Istikhara,istikhara,dua-istikhara-1,🌿 Rabbi Inni Lima Anzalta – A Dua of Complete Need,No
-Istikhara,istikhara,dua-istikhara-2,🌿 Allahumma Inni Astakhiruka – The Dua of Istikhara,No
-Istikhara,istikhara,dua-istikhara-3,🌿 Allahumma Inni As'aluka Min Al-Khayri Kullihi – Asking Allah for All Good,No
-Istikhara,istikhara,dua-istikhara-4,🌿 Allahumma Astahdika Li Arshadi Amri – Seeking Right Guidance,No
-Istikhara,istikhara,dua-istikhara-5,🌿 Allahumma Inni As'aluka Min Al-Khayri Kullihi – Seeking the Best Outcome,No
-Duniya & Akhirah,duniya-akhirah,"dua-duniya-akhirah-1,",Rabbana Atina Fid-Dunya Hasanah – Good in This Life and the Hereafter,No
-Duniya & Akhirah,duniya-akhirah,dua-duniya-akhirah-2,Allahumma Inni As'aluka Al-'Afiyah – Wellbeing in This Life and the Hereafter,No
-Duniya & Akhirah,duniya-akhirah,dua-duniya-akhirah-3,"Allahumma Aslih Li Deeni – Rectifying Religion, Life, and Hereafter",No
-Duniya & Akhirah,duniya-akhirah,dua-duniya-akhirah-4,Allahumma Inni As'aluka Al-'Afiyah – Protection and Wellbeing,No
-Forgiveness,forgiveness,dua-forgiveness-1,Rabbi Ighfir Warham – Forgiveness and Mercy,No
-Forgiveness,forgiveness,dua-forgiveness-2,Rabbana Innana Amanna – Forgiveness and Protection from the Fire,No
-Forgiveness,forgiveness,dua-forgiveness-3,Rabbana Ighfir Lana Wa Li Ikhwanina – Forgiveness for All Believers,No
-Forgiveness,forgiveness,dua-forgiveness-3,Rabbana Ighfir Lana Wa Li Ikhwanina – Forgiveness for All Believers,No
-Forgiveness,forgiveness,dua-forgiveness-4,Sayyidul Istighfar – The Master Supplication for Forgiveness,No
-Gratitude,gratitude,dua-gratitude-1,Alhamdulillah Alladhi 'Afani – Gratitude for Life and Health,No
-Gratitude,gratitude,dua-gratitude-2,Alhamdu Lillahil-Ladhi Kafana – Gratitude for Provision,No
-Gratitude,gratitude,dua-gratitude-3,Alhamdu Lillahi Alladhi Kafani – Gratitude for Allah’s Blessings,No
-Gratitude,gratitude,dua-gratitude-4,Alhamdu Lillahil-Ladhi Ahyana – Gratitude After Waking,No
-Gratitude,gratitude,dua-gratitude-5,Alhamdu Lillahil-Ladhi Bini'matihi Tatimmus-Salihat – Gratitude for Good Blessings,No
-Gratitude,gratitude,dua-gratitude-6,Alhamdu Lillahi 'Ala Kulli Hal – Gratitude in Every Situation,No
-Steadfastness,steadfastness,dua-steadfastness-1,Ya Muqallibal Qulub – Steadfastness of the Heart,No
-Steadfastness,steadfastness,dua-steadfastness-2,Allahumma Musarrifal Qulub – Turn Our Hearts to Your Obedience,No
-Steadfastness,steadfastness,dua-steadfastness-3,Allahumma Ihdini Wa Saddidni – Guidance and Correctness,No
+﻿Category,Category ID,Dua ID,Dua Title,Has Audio,Link
+Praise and Glorification,praise,dua-praise-1,Subhanallahi wa bihamdihi – Infinite Praise,Yes,https://saarahasad.github.io/dua-journey/dua/dua-praise-1
+Praise and Glorification,praise,dua-praise-2,Allahu Akbar Kabira – Abundant Praise,Yes,https://saarahasad.github.io/dua-journey/dua/dua-praise-2
+Praise and Glorification,praise,dua-praise-3,Allahumma Rabbana Laka al-Hamd – Filling the Heavens,Yes,https://saarahasad.github.io/dua-journey/dua/dua-praise-3
+Salawat on the Prophet ﷺ,salawat,dua-salawat-1,🌿 Salawat Ibrahimiyyah – Upon Muhammad and His Family,Yes,https://saarahasad.github.io/dua-journey/dua/dua-salawat-1
+Salawat on the Prophet ﷺ,salawat,dua-salawat-2,"🌿 Salawat – Upon Muhammad, His Wives and Offspring",Yes,https://saarahasad.github.io/dua-journey/dua/dua-salawat-2
+Knowledge,knowledge,dua-knowledge-1,Allahumma Inni A'udhu Bika – Protection from Useless Knowledge,Yes,https://saarahasad.github.io/dua-journey/dua/dua-knowledge-1
+Knowledge,knowledge,dua-knowledge-2,Allahumma Anfa'ni – Grant Me Beneficial Knowledge,Yes,https://saarahasad.github.io/dua-journey/dua/dua-knowledge-2
+Knowledge,knowledge,dua-knowledge-3,"Allahumma Inni As'aluka – Beneficial Knowledge, Pure Rizq, Accepted Deeds",Yes,https://saarahasad.github.io/dua-journey/dua/dua-knowledge-3
+Firmness in Faith,faith,dua-faith-1,La Ilaha Illa Anta – Dua of Yunus (AS),Yes,https://saarahasad.github.io/dua-journey/dua/dua-faith-1
+Firmness in Faith,faith,dua-faith-2,Allahu Allahu Rabbi – Firm Tawhid,Yes,https://saarahasad.github.io/dua-journey/dua/dua-faith-2
+Firmness in Faith,faith,dua-faith-3,Allahumma Inni A'udhu Bika – Protection from Kufr and the Grave,Yes,https://saarahasad.github.io/dua-journey/dua/dua-faith-3
+Firmness in Faith,faith,dua-faith-4,Rabbana Zalamna – Dua of Adam (AS),Yes,https://saarahasad.github.io/dua-journey/dua/dua-faith-4
+Firmness in Faith,faith,dua-faith-5,Rabbana Waj'alna Muslimayn – Dua of Ibrahim (AS),Yes,https://saarahasad.github.io/dua-journey/dua/dua-faith-5
+Contentment with Divine Decree,contentment,dua-contentment-1,Radiytu Billahi Rabba – Contentment with Allah,No,https://saarahasad.github.io/dua-journey/dua/dua-contentment-1
+Contentment with Divine Decree,contentment,dua-contentment-2,Hasbiyallahu – Trust in Allah,No,https://saarahasad.github.io/dua-journey/dua/dua-contentment-2
+Contentment with Divine Decree,contentment,dua-contentment-3,Allahumma Inni A'udhu Bika – Protection from Loss of Blessings,No,https://saarahasad.github.io/dua-journey/dua/dua-contentment-3
+Contentment with Divine Decree,contentment,dua-contentment-4,Inna Lillahi – Dua During Calamity,No,https://saarahasad.github.io/dua-journey/dua/dua-contentment-4
+Parents,parents,dua-parents-1,Rabbi Irhamhuma – Mercy for Parents,Yes,https://saarahasad.github.io/dua-journey/dua/dua-parents-1
+Parents,parents,dua-parents-2,Rabbana Ighfir Li Wa Li Walidayya – Forgiveness for Parents and Believers,Yes,https://saarahasad.github.io/dua-journey/dua/dua-parents-2
+Parents,parents,dua-parents-3,"Rabbi Awzi'ni – Gratitude, Righteous Deeds, and Righteous Offspring",Yes,https://saarahasad.github.io/dua-journey/dua/dua-parents-3
+Parents,parents,dua-parents-4,Rabbi Ighfir Li Wa Li Walidayya – Forgiveness for Family and Believers,Yes,https://saarahasad.github.io/dua-journey/dua/dua-parents-4
+Children,children,dua-children-1,🌿 Protection for Children – From Shaytan,Yes,https://saarahasad.github.io/dua-journey/dua/dua-children-1
+Children,children,dua-children-2,🌿 Rabbi Hab Li – Grant Me Righteous Offspring,Yes,https://saarahasad.github.io/dua-journey/dua/dua-children-2
+Children,children,dua-children-3,🌿 Protection for Children – With the Perfect Words of Allah,Yes,https://saarahasad.github.io/dua-journey/dua/dua-children-3
+Children,children,dua-children-4,🌿 Rabbi Ij‘alni Muqim As-Salah – Make Me and My Children Steadfast in Prayer,Yes,https://saarahasad.github.io/dua-journey/dua/dua-children-4
+Children,children,dua-children-5,🌿 Rabbana Hablana – Make Our Families the Comfort of Our Eyes,Yes,https://saarahasad.github.io/dua-journey/dua/dua-children-5
+Children,children,dua-children-6,🌿 Allahumma Ighfir Dhanbahu – Dua for a Child’s Purity,Yes,https://saarahasad.github.io/dua-journey/dua/dua-children-6
+Spouse,spouse,dua-spouse-1,🌿 Allahumma Allif Bayna Qulubina – Reconcile Our Hearts,Yes,https://saarahasad.github.io/dua-journey/dua/dua-spouse-1
+In Salah,in-salah,dua-insalah-1,🌿 Allahumma A'inni 'ala Dhikrika – Help Me Worship You Well,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-1
+In Salah,in-salah,dua-insalah-10,🌿 Subhanallahi wa bihamdihi – Glorification & Return,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-10
+In Salah,in-salah,dua-insalah-11,🌿 Allahumma Ighfir Li Dhanbi Kullahu – Complete Forgiveness,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-11
+In Salah,in-salah,dua-insalah-12,🌿 Allahumma Ighfir Li Warhamni – Between the Two Sujood,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-12
+In Salah,in-salah,dua-insalah-13,"🌿 Protection from Hell, Grave & Dajjal",Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-13
+In Salah,in-salah,dua-insalah-14,🌿 The Dua of Abu Bakr (RA),Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-14
+In Salah,in-salah,dua-insalah-15,🌿 Allahumma Aj‘al Li Nuran – Dua Between Sunnah & Fard of Fajr,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-15
+In Salah,in-salah,dua-insalah-2,🌿 Allahumma Tahhir Qalbi – Purify My Heart,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-2
+In Salah,in-salah,dua-insalah-3,🌿 Subhanaka Allahumma – Opening Praise After Takbir,No,https://saarahasad.github.io/dua-journey/dua/dua-insalah-3
+In Salah,in-salah,dua-insalah-4,🌿 Allahu Akbar Kabira – Words the Angels Raced For,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-4
+In Salah,in-salah,dua-insalah-5,🌿 Allahumma Ba'id Bayni – Opening Supplication of Purification,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-5
+In Salah,in-salah,dua-insalah-6,🌿 Subboohun Quddoos – Lord of the Angels and the Spirit,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-6
+In Salah,in-salah,dua-insalah-7,🌿 Allahumma Laka Raka’tu – Submission in Bowing,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-7
+In Salah,in-salah,dua-insalah-8,🌿 Subhanaka Rabbana – Glorification with Forgiveness,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-8
+In Salah,in-salah,dua-insalah-9,🌿 Rabbana wa Lakal Hamd – Abundant Praise After Rising,Yes,https://saarahasad.github.io/dua-journey/dua/dua-insalah-9
+After Salah,after-salah,dua-after-salah-1,🌿 Allahumma Antas-Salam – Peace After Prayer,Yes,https://saarahasad.github.io/dua-journey/dua/dua-after-salah-1
+Ease and Relief from Hardship,ease-hardship,dua-ease-1,🌿 Rabbana Atina Min Ladunka Rahmah – Mercy & Right Guidance,Yes,https://saarahasad.github.io/dua-journey/dua/dua-ease-1
+Ease and Relief from Hardship,ease-hardship,dua-ease-2,🌿 Rabbi Ishrah Li Sadri – Expansion & Facilitation,Yes,https://saarahasad.github.io/dua-journey/dua/dua-ease-2
+Ease and Relief from Hardship,ease-hardship,dua-ease-3,🌿 Allahumma La Sahla – Surrendering Ease to Allah,Yes,https://saarahasad.github.io/dua-journey/dua/dua-ease-3
+Ease and Relief from Hardship,ease-hardship,dua-ease-4,🌿 La Ilaha Illallah Al-Halim Al-Karim – Words of Relief,Yes,https://saarahasad.github.io/dua-journey/dua/dua-ease-4
+Ease and Relief from Hardship,ease-hardship,dua-ease-5,🌿 Allahumma Ahsin ‘Aqibatana – A Beautiful End in All Affairs,Yes,https://saarahasad.github.io/dua-journey/dua/dua-ease-5
+Istikhara,istikhara,dua-istikhara-1,🌿 Rabbi Inni Lima Anzalta – A Dua of Complete Need,Yes,https://saarahasad.github.io/dua-journey/dua/dua-istikhara-1
+Istikhara,istikhara,dua-istikhara-2,🌿 Allahumma Inni Astakhiruka – The Dua of Istikhara,No,https://saarahasad.github.io/dua-journey/dua/dua-istikhara-2
+Istikhara,istikhara,dua-istikhara-4,🌿 Allahumma Astahdika Li Arshadi Amri – Seeking Right Guidance,No,https://saarahasad.github.io/dua-journey/dua/dua-istikhara-4
+Istikhara,istikhara,dua-istikhara-5,🌿 Allahumma Inni As'aluka Min Al-Khayri Kullihi – Seeking the Best Outcome,Yes,https://saarahasad.github.io/dua-journey/dua/dua-istikhara-5
+Duniya & Akhirah,duniya-akhirah,dua-duniya-akhirah-1,Rabbana Atina – A Comprehensive Dua for Good in Both Worlds,No,https://saarahasad.github.io/dua-journey/dua/dua-duniya-akhirah-1
+Duniya & Akhirah,duniya-akhirah,dua-duniya-akhirah-2,Allahumma Inni As'aluka Al-'Afw Wal-'Afiyah – Forgiveness and Wellbeing,No,https://saarahasad.github.io/dua-journey/dua/dua-duniya-akhirah-2
+Duniya & Akhirah,duniya-akhirah,dua-duniya-akhirah-3,"Allahumma Aslih Li Deeni – Rectifying Religion, Life, and the Hereafter",No,https://saarahasad.github.io/dua-journey/dua/dua-duniya-akhirah-3
+Forgiveness,forgiveness,dua-forgiveness-1,Rabbi Ighfir Warham – A Qur’anic Dua for Forgiveness and Mercy,No,https://saarahasad.github.io/dua-journey/dua/dua-forgiveness-1
+Forgiveness,forgiveness,dua-forgiveness-2,Rabbana Innana Amanna – Forgiveness and Protection from the Fire,No,https://saarahasad.github.io/dua-journey/dua/dua-forgiveness-2
+Forgiveness,forgiveness,dua-forgiveness-3,Rabbana Ighfir Lana Wa Li Ikhwanina – Forgiveness for All Believers,No,https://saarahasad.github.io/dua-journey/dua/dua-forgiveness-3
+Forgiveness,forgiveness,dua-forgiveness-4,Sayyidul Istighfar – The Master Supplication for Forgiveness,No,https://saarahasad.github.io/dua-journey/dua/dua-forgiveness-4
+Gratitude,gratitude,dua-gratitude-1,Alhamdulillah Alladhi 'Afani – Gratitude for Life and Health,No,https://saarahasad.github.io/dua-journey/dua/dua-gratitude-1
+Gratitude,gratitude,dua-gratitude-2,Alhamdu Lillahi Kathiran Tayyiban – Gratitude After Eating,No,https://saarahasad.github.io/dua-journey/dua/dua-gratitude-2
+Gratitude,gratitude,dua-gratitude-3,Alhamdu Lillahi Alladhi Kafani – Gratitude Before Sleep,No,https://saarahasad.github.io/dua-journey/dua/dua-gratitude-3
+Gratitude,gratitude,dua-gratitude-4,Alhamdu Lillahil-Ladhi Ahyana – Gratitude After Waking,No,https://saarahasad.github.io/dua-journey/dua/dua-gratitude-4
+Gratitude,gratitude,dua-gratitude-5,Alhamdu Lillahil-Ladhi Bini'matihi Tatimmus-Salihat – Gratitude for Good Blessings,No,https://saarahasad.github.io/dua-journey/dua/dua-gratitude-5
+Gratitude,gratitude,dua-gratitude-6,Alhamdu Lillahi 'Ala Kulli Hal – Gratitude in Every Situation,No,https://saarahasad.github.io/dua-journey/dua/dua-gratitude-6
+Steadfastness,steadfastness,dua-steadfastness-1,Ya Muqallibal Qulub – Steadfastness of the Heart,No,https://saarahasad.github.io/dua-journey/dua/dua-steadfastness-1
+Steadfastness,steadfastness,dua-steadfastness-2,Allahumma Musarrifal Qulub – Turn Our Hearts to Your Obedience,No,https://saarahasad.github.io/dua-journey/dua/dua-steadfastness-2
+Steadfastness,steadfastness,dua-steadfastness-3,Allahumma Ihdini Wa Saddidni – Guidance and Correctness,No,https://saarahasad.github.io/dua-journey/dua/dua-steadfastness-3

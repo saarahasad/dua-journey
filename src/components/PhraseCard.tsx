@@ -20,7 +20,7 @@ export function PhraseCard({
   const [meaningRevealed, setMeaningRevealed] = useState(false);
 
   return (
-    <div className="card-overlay p-6">
+    <div className="rounded-2xl p-4">
       <p
         className="select-text text-center font-arabic text-3xl leading-loose text-black"
         dir="rtl"

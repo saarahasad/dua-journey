@@ -131,7 +131,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
       <main className="min-h-screen">
         <div className="mx-auto max-w-md px-4 pb-24 pt-8">
           <BackLink />
-          <div className="card-overlay p-6">
+          <div className="rounded-2xl p-4">
             <p
               className="select-text text-center font-arabic text-3xl leading-loose text-black"
               dir="rtl"
@@ -217,7 +217,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
         >
           <BackLink />
           <div className="flex flex-1 flex-col items-center justify-center">
-            <div className="card-overlay w-full max-w-md p-6">
+            <div className="w-full max-w-md rounded-2xl p-4">
               <h2 className="text-center text-xl font-semibold text-black ">
                 Story Behind the Dua
               </h2>
@@ -248,15 +248,31 @@ export function DuaFlow({ dua }: DuaFlowProps) {
             <h2 className="text-overlay text-center text-xl font-semibold text-black">
               Benefits
             </h2>
-            {dua.benefits.map((benefit, i) => (
-              <div key={i} className="card-overlay p-5">
-                <TextWithBold
-                  text={benefit}
-                  as="p"
-                  className="text-center text-black"
-                />
-              </div>
-            ))}
+            <p className="text-overlay text-center text-sm text-sage-600">
+              Why this dua matters
+            </p>
+            <div className="space-y-3 pt-1">
+              {dua.benefits.map((benefit, i) => (
+                <div
+                  key={i}
+                  className="card-overlay flex items-start gap-3 p-4"
+                >
+                  <span
+                    className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#b25d82]/15 text-sm font-semibold text-[#b25d82]"
+                    aria-hidden
+                  >
+                    {i + 1}
+                  </span>
+                  <div className="min-w-0 flex-1 pt-0.5">
+                    <TextWithBold
+                      text={benefit}
+                      as="p"
+                      className="text-left text-black leading-relaxed"
+                    />
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
         </StepLayout>
       </main>
@@ -377,7 +393,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
             <p className="text-overlay text-sage-600">
               Think of the next phrase, then reveal to check.
             </p>
-            <div className="card-overlay p-6 text-center">
+            <div className="rounded-2xl p-4 text-center">
               <p
                 className="select-text font-arabic text-3xl leading-loose text-black"
                 dir="rtl"
@@ -386,7 +402,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
                   const isLatest = i === revealedPhrases.length - 1;
                   return (
                     <span key={i}>
-                      <span className={isLatest ? "font-bold text-[#136207]" : "font-normal"}>
+                      <span className={isLatest ? "font-bold text-[#8B2C3E]" : "font-normal"}>
                         {p.arabic}
                       </span>
                       {i < revealedPhrases.length - 1 ? " " : null}
@@ -412,7 +428,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
           nextLabel="Reflect"
         >
           <BackLink />
-          <div className="card-overlay space-y-6 p-6 text-center">
+          <div className="rounded-2xl space-y-6 p-4 text-center">
             <p
               className="select-text font-arabic text-3xl leading-loose text-black"
               dir="rtl"

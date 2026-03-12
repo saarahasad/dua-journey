@@ -14,7 +14,7 @@ import { downloadElementAsPdf } from "@/lib/downloadListPdf";
 function formatSavedDate(iso: string): string {
   try {
     const d = new Date(iso);
-    return d.toLocaleDateString(undefined, { dateStyle: "medium" });
+    return d.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
   } catch {
     return "";
   }
@@ -54,7 +54,7 @@ export default function PersonalDuaListViewPage() {
           >
             ← Back
           </Link>
-          <div className="card-overlay p-6 text-center">
+          <div className="card-overlay p-4 text-center">
             <p className="text-slate-600">Loading your list…</p>
           </div>
         </div>
