@@ -40,7 +40,7 @@ export default function RootLayout({
           aria-hidden
         />
         <ToastProvider>
-        <div className="flex min-h-screen justify-center px-4 py-10">
+        <div className="flex min-h-screen justify-center pt-2 px-2">
           <div
             className="w-full max-w-md lg:max-w-xl overflow-y-auto rounded-2xl border border-[#b25d82]/25 bg-white p-4 pt-0 shadow-lg"
             style={{ height: "calc(100vh - 80px);  border: 2px solid #b25d82;            " }}
