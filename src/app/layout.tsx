@@ -11,15 +11,9 @@ const amiri = Amiri({
   display: "swap",
 });
 
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
-
 export const metadata: Metadata = {
   title: "Indeed, I Am Near | Dua Journey",
   description: "When My servants ask about Me, surely I am near. Memorise duas through guided presentation-style learning.",
-  icons: {
-    icon: `${basePath}/images/small-app-icon.png`,
-    apple: `${basePath}/images/small-app-icon.png`,
-  },
 };
 
 export const viewport: Viewport = {
@@ -36,11 +30,6 @@ export default function RootLayout({
   return (
     <html lang="en" className={amiri.variable}>
       <body className="relative min-h-screen font-sans safe-area-padding">
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(){var r=!1;function reload(){if(!r){r=!0;location.reload()}}window.addEventListener("error",function(e){/ChunkLoadError|Loading chunk.*failed/i.test(e.message||"")&&reload()});window.addEventListener("unhandledrejection",function(e){var m=e.reason&&(e.reason.message||String(e.reason));m&&/Loading chunk|ChunkLoadError/i.test(m)&&reload()})})();`,
-          }}
-        />
         <div
           className="fixed inset-0 -z-10 min-h-[100dvh] w-full min-w-full"
           style={{
