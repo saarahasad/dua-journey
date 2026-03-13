@@ -14,6 +14,10 @@ const amiri = Amiri({
 export const metadata: Metadata = {
   title: "Indeed, I Am Near | Dua Journey",
   description: "When My servants ask about Me, surely I am near. Memorise duas through guided presentation-style learning.",
+  icons: {
+    icon: "/images/small-app-icon.png",
+    apple: "/images/small-app-icon.png",
+  },
 };
 
 export const viewport: Viewport = {
