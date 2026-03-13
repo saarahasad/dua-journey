@@ -36,6 +36,11 @@ export default function RootLayout({
   return (
     <html lang="en" className={amiri.variable}>
       <body className="relative min-h-screen font-sans safe-area-padding">
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var r=!1;function reload(){if(!r){r=!0;location.reload()}}window.addEventListener("error",function(e){/ChunkLoadError|Loading chunk.*failed/i.test(e.message||"")&&reload()});window.addEventListener("unhandledrejection",function(e){var m=e.reason&&(e.reason.message||String(e.reason));m&&/Loading chunk|ChunkLoadError/i.test(m)&&reload()})})();`,
+          }}
+        />
         <div
           className="fixed inset-0 -z-10 min-h-[100dvh] w-full min-w-full"
           style={{
