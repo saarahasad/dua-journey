@@ -7,7 +7,7 @@ import { EssentialDuasIntro } from "@/components/EssentialDuasIntro";
 function formatSavedDate(iso: string): string {
   try {
     const d = new Date(iso);
-    return d.toLocaleDateString(undefined, { dateStyle: "medium" });
+    return d.toLocaleDateString("en-US", { dateStyle: "medium" });
   } catch {
     return "";
   }

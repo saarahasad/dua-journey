@@ -14,7 +14,7 @@ import { downloadElementAsPdf } from "@/lib/downloadListPdf";
 function formatSavedDate(iso: string): string {
   try {
     const d = new Date(iso);
-    return d.toLocaleDateString(undefined, { dateStyle: "medium" });
+    return d.toLocaleDateString("en-US", { dateStyle: "medium" });
   } catch {
     return "";
   }
