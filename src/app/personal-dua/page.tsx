@@ -41,7 +41,7 @@ export default function PersonalDuaPage() {
 
   return (
     <main className="min-h-screen">
-      <div className="mx-auto max-w-md px-4 pb-24 pt-6">
+      <div className="mx-auto max-w-lg px-4 pb-24 pt-6">
         <Link
           href="/"
           className="mb-4 inline-block text-sm font-medium text-slate-600 underline decoration-slate-400 underline-offset-2 hover:text-slate-800"

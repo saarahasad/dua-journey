@@ -2,13 +2,21 @@ import { categories } from "@/lib/data";
 import { CategoryCard } from "@/components/CategoryCard";
 import { ProgressLinkCard } from "@/components/ProgressLinkCard";
 import { PersonalDuaDropdown } from "@/components/PersonalDuaDropdown";
+import heroBackground from "@/background-2.jpg";
 
 export default function HomePage() {
   return (
     <main className="min-h-screen">
       <div className="mx-auto max-w-md px-5 py-10">
         <header className="mb-5">
-          <div className="hero-card">
+          <div
+            className="hero-card"
+            style={{
+              backgroundImage: `linear-gradient(rgba(152, 65, 103, 0.6), rgba(152, 65, 103, 0.6)), url(${heroBackground.src})`,
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+            }}
+          >
             <p
               className="hero-arabic font-uthmanic text-center font-bold"
               dir="rtl"

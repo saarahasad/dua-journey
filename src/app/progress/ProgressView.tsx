@@ -96,7 +96,7 @@ export function ProgressView() {
         </div>
         <div className="mt-3 h-3 w-full overflow-hidden rounded-full bg-sage-200/70">
           <div
-            className="h-full rounded-full bg-[#136207] transition-all duration-500 ease-out"
+            className="h-full rounded-full bg-[#5a2d3a] transition-all duration-500 ease-out"
             style={{ width: `${percent}%` }}
             role="progressbar"
             aria-valuenow={count}

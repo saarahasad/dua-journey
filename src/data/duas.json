@@ -1988,20 +1988,20 @@
       "✨ Brings promise of Allah’s pleasure",
       "🕊 Calms anxiety about life’s outcomes"
     ],
-    "phrases": [{
+    "phrases": [
+      {
         "arabic": "رَضِيتُ بِاللَّهِ رَبًّا",
         "transliteration": "Radiytu billahi Rabban",
-        "meaning": "I am pleased with Allah as my Lord"
+        "meaning": "I am pleased with Allah as my Lord",
+        "startTime": 0,
+        "endTime": 4
       },
       {
-        "arabic": "وَبِالْإِسْلَامِ دِينًا",
-        "transliteration": "Wa bil-Islami dinan",
-        "meaning": "And with Islam as my religion"
-      },
-      {
-        "arabic": "وَبِمُحَمَّدٍ رَسُولًا",
-        "transliteration": "Wa bi-Muhammadin rasulan",
-        "meaning": "And with Muhammad as my Messenger"
+        "arabic": "وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ رَسُولًا",
+        "transliteration": "Wa bil-Islami dinan wa bi-Muhammadin rasulan",
+        "meaning": "And with Islam as my religion and Muhammad as my Messenger",
+        "startTime": 4,
+        "endTime": 11
       }
     ],
     "questions": [{
@@ -2049,25 +2049,13 @@
       "✨ Affirms Allah’s supreme authority",
       "🕊 Builds contentment with divine decree"
     ],
-    "phrases": [{
-        "arabic": "حَسْبِيَ اللَّهُ",
-        "transliteration": "Hasbiyallahu",
-        "meaning": "Allah is sufficient for me"
-      },
+    "phrases": [
       {
-        "arabic": "لَا إِلَٰهَ إِلَّا هُوَ",
-        "transliteration": "La ilaha illa Huwa",
-        "meaning": "There is no deity except Him"
-      },
-      {
-        "arabic": "عَلَيْهِ تَوَكَّلْتُ",
-        "transliteration": "'Alayhi tawakkaltu",
-        "meaning": "Upon Him I rely"
-      },
-      {
-        "arabic": "وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
-        "transliteration": "Wa Huwa Rabbul-'Arshil-'Azim",
-        "meaning": "And He is the Lord of the Mighty Throne"
+        "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+        "transliteration": "Hasbiyallahu la ilaha illa Huwa, 'alayhi tawakkaltu wa Huwa Rabbul-'Arshil-'Azim",
+        "meaning": "Allah is sufficient for me. There is no deity except Him. Upon Him I rely, and He is the Lord of the Mighty Throne.",
+        "startTime": 0,
+        "endTime": 13
       }
     ],
     "questions": [{
@@ -2115,25 +2103,20 @@
       "⚖ Encourages humility before Allah",
       "✨ Strengthens contentment with Allah’s decree"
     ],
-    "phrases": [{
-        "arabic": "مِنْ زَوَالِ نِعْمَتِكَ",
-        "transliteration": "Min zawali ni'matika",
-        "meaning": "From the loss of Your blessing"
+    "phrases": [
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ وَتَحَوُّلِ عَافِيَتِكَ",
+        "transliteration": "Allahumma inni a'udhu bika min zawali ni'matika wa tahawwuli 'afiyatika",
+        "meaning": "O Allah, I seek refuge in You from the loss of Your blessings and the removal of Your protection",
+        "startTime": 0,
+        "endTime": 12.5
       },
       {
-        "arabic": "وَتَحَوُّلِ عَافِيَتِكَ",
-        "transliteration": "Wa tahawwuli 'afiyatika",
-        "meaning": "And the change of Your protection/well-being"
-      },
-      {
-        "arabic": "وَفُجَأَةِ نِقْمَتِكَ",
-        "transliteration": "Wa fuja'ati niqmatika",
-        "meaning": "And the sudden onset of Your punishment"
-      },
-      {
-        "arabic": "وَجَمِيعِ سَخَطِكَ",
-        "transliteration": "Wa jami'i sakhatika",
-        "meaning": "And all of Your displeasure"
+        "arabic": "وَفُجَأَةِ نِقْمَتِكَ وَجَمِيعِ سَخَطِكَ",
+        "transliteration": "Wa fuja'ati niqmatika wa jami'i sakhatika",
+        "meaning": "And from the sudden onset of Your punishment and all of Your displeasure",
+        "startTime":12.5,
+        "endTime": 18
       }
     ],
     "questions": [{

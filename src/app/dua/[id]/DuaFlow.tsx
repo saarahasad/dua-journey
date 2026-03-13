@@ -129,7 +129,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
   if (step === 0) {
     return (
       <main className="min-h-screen">
-        <div className="mx-auto max-w-md px-4 pb-24 pt-8">
+        <div className="mx-auto max-w-lg px-4 pb-24 pt-8">
           <BackLink />
           <div className="card-overlay p-6">
             <p
@@ -188,7 +188,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
           <br></br>
           <br></br>
           <div className="fixed bottom-0 left-0 right-0 z-40 border-t border-sage-300 bg-white px-4 py-4 shadow-[0_-4px_20px_rgba(0,0,0,0.08)]">
-            <div className="mx-auto max-w-md">
+            <div className="mx-auto max-w-lg">
               <button
                 onClick={nextStep}
                 className="tap-scale w-full min-h-touch flex items-center justify-center rounded-xl bg-[#e4dbe2] px-6 py-4 text-lg font-medium text-slate-900 transition-all duration-300 ease-in-out hover:opacity-90 active:scale-[0.99]"
@@ -217,7 +217,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
         >
           <BackLink />
           <div className="flex flex-1 flex-col items-center justify-center">
-            <div className="card-overlay w-full max-w-md p-6">
+            <div className="card-overlay w-full max-w-lg p-6">
               <h2 className="text-center text-xl font-semibold text-black ">
                 Story Behind the Dua
               </h2>
@@ -289,7 +289,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
 
     return (
       <main className="min-h-screen">
-        <div className="mx-auto max-w-md px-4 pb-24 pt-4">
+        <div className="mx-auto max-w-lg px-4 pb-24 pt-4">
           <BackLink />
           <p className="text-overlay mb-4 text-center text-sm text-sage-500">
             Phrase {phraseIndex + 1} of {dua.phrases.length}
@@ -336,7 +336,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
             />
           </div>
           <div className="fixed bottom-0 left-0 right-0 z-40 border-t border-sage-300 bg-white px-4 py-4 shadow-[0_-4px_20px_rgba(0,0,0,0.08)]">
-            <div className="mx-auto max-w-md">
+            <div className="mx-auto max-w-lg">
               <button
                 onClick={() => {
                   if (isLast) nextStep();
@@ -386,7 +386,7 @@ export function DuaFlow({ dua }: DuaFlowProps) {
                   const isLatest = i === revealedPhrases.length - 1;
                   return (
                     <span key={i}>
-                      <span className={isLatest ? "font-bold text-[#136207]" : "font-normal"}>
+                      <span className={isLatest ? "font-bold text-[#5a2d3a]" : "font-normal"}>
                         {p.arabic}
                       </span>
                       {i < revealedPhrases.length - 1 ? " " : null}

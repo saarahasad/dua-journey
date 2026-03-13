@@ -16,7 +16,7 @@ export function PersonalDuaDropdown() {
   }, []);
 
   return (
-    <div className="overflow-hidden rounded-2xl border border-slate-200/80 bg-white shadow-sm">
+    <div className="overflow-hidden rounded-2xl border-2 border-[rgba(152,65,103,0.45)] bg-white shadow-[0_2px_8px_rgba(0,0,0,0.08),0_8px_24px_rgba(0,0,0,0.06),0_0_0_1px_rgba(0,0,0,0.04)]">
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
@@ -25,11 +25,8 @@ export function PersonalDuaDropdown() {
         aria-controls="personal-dua-dropdown-content"
         id="personal-dua-dropdown-trigger"
       >
-        <span
-          className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-[#984167]/12 text-[#984167]"
-          aria-hidden
-        >
-          <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+        <span className="card-icon-slot" aria-hidden>
+          <svg className="h-6 w-6 text-slate-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
           </svg>
         </span>
