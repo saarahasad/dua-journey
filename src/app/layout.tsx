@@ -11,12 +11,14 @@ const amiri = Amiri({
   display: "swap",
 });
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export const metadata: Metadata = {
   title: "Indeed, I Am Near | Dua Journey",
   description: "When My servants ask about Me, surely I am near. Memorise duas through guided presentation-style learning.",
   icons: {
-    icon: "/images/small-app-icon.png",
-    apple: "/images/small-app-icon.png",
+    icon: `${basePath}/images/small-app-icon.png`,
+    apple: `${basePath}/images/small-app-icon.png`,
   },
 };
 
